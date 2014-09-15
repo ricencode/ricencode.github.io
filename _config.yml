@@ -8,13 +8,13 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
+title : RicENcode
 tagline: Site Tagline
 author :
   name : Wen Yao
   email : ywhzau@gmail.com
   github : andrewhzau
-  twitter : username
+  twitter : Andrewtokens
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
