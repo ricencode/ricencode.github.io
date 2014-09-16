@@ -17,10 +17,19 @@ This database was provided as a shiny application. To query this database, you n
 and the shiny package.
 
     
-## Sample Posts
+## How to query this database?
+
+### The simple way
+This database was designed as a Shiny application and was deployed in the shinyapps.io (https://ricencode.shinyapps.io/RICENCODE/). You can query this database using this URL.
+
+### The hard way
 
 
-## To-Do
+## How to contribute to the improvement of this database?
+
+### The simple way
+
+### The hard way
 
 
 
