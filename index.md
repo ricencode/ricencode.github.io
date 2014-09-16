@@ -1,10 +1,11 @@
 ---
 layout: page
-title: RicENcode!
-tagline: The knowledge of cloned rice genes lost in the information of rice functional genomic studies
+title: Welcome to RicENcode!
+tagline: 
 ---
 {% include JB/setup %}
 
+__The knowledge of cloned rice genes lost in the information of rice functional genomic studies__
 
 ## Introdution
 We collected 2204 cloned rice genes and 303 gene families comprised of 3381 genes. For each gene, 
