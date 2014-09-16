@@ -20,14 +20,15 @@ and the shiny package.
 ## How to query this database?
 
 ### The simple way
-This database was designed as a Shiny application and was deployed in the shinyapps.io (https://ricencode.shinyapps.io/RICENCODE/). You can query this database using this URL.
+This database was designed as a Shiny application and was deployed in the shinyapps.io. You can query this database using this [URL](https://ricencode.shinyapps.io/RICENCODE/).
 
 ### The hard way
 
 
-## How to contribute to the improvement of this database?
+## How to contribute to this database?
 
 ### The simple way
+This database was designed as a Shiny application and was deployed in the shinyapps.io. You can submit data to this database using this [URL](https://ricencode.shinyapps.io/RICENCODE/).
 
 ### The hard way
 
