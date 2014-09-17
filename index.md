@@ -24,21 +24,25 @@ This database was designed as a Shiny application and was deployed in the shinya
 You can query this database using the genomic locus assigned by the Rice Genome Annotation Project. A total of 5 tables exhibiting different information for a gene were given.   
 
 #### The basic information
-<img src="q1.png" width="800" height="200">  
+<img src="q1.png" width="900" height="200">  
+
 #### The publications
-<img src="q2.png" width="800" height="200">   
+<img src="q2.png" width="900" height="300">   
+
 #### The Genbank accession numbers
-<img src="q3.png" width="800" height="200">  
+<img src="q3.png" width="900" height="200">  
+
 #### The keyword to characterize agronomic traits
-<img src="q4.png" width="800" height="200">  
+<img src="q4.png" width="900" height="200">  
+
 #### The connection to other genes
-<img src="q5.png" width="800" height="200">  
+<img src="q5.png" width="900" height="200">  
 
 You can also query this database using the genomic locus assigned by the Rice Annotation Project. A total of 5 tables exhibiting different information for a gene were given. 
-<img src="q6.png" width="800" height="200">  
+<img src="q6.png" width="900" height="200">  
 
 You can also query this database using the gene symbol. A total of 5 tables exhibiting different information for a gene were given. 
-<img src="q7.png" width="800" height="200">  
+<img src="q7.png" width="900" height="200">  
 
 
 ### The hard way
