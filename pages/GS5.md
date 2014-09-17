@@ -2,6 +2,7 @@
 layout: page
 title: "GS5"
 description: "A gene regulating grain size in rice"
+tags : [grain width, grain size, grain, yield]
 ---
 {% include JB/setup %}
 
