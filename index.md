@@ -20,7 +20,25 @@ and the shiny package.
 ## How to query this database?
 
 ### The simple way
-This database was designed as a Shiny application and was deployed in the shinyapps.io. You can query this database using this [URL](https://ricencode.shinyapps.io/RICENCODE/).
+This database was designed as a Shiny application and was deployed in the shinyapps.io. You can query this database [HERE](https://ricencode.shinyapps.io/RICENCODE/).
+You can query this database using the genomic locus assigned by the Rice Genome Annotation Project. A total of 5 tables exhibiting different information for a gene were given. 
+#### The basic information
+![Basic information](q1.png)
+#### The publications
+![Publication](q2.png)
+#### The Genbank accession numbers
+![Accession](q3.png)
+#### The keyword to characterize agronomic traits
+![Keyword](q4.png)
+#### The connection to other genes
+![Connection](q5.png)
+
+You can also query this database using the genomic locus assigned by the Rice Annotation Project. A total of 5 tables exhibiting different information for a gene were given. 
+![RAPdb](q6.png)
+
+You can also query this database using the gene symbol. A total of 5 tables exhibiting different information for a gene were given. 
+![Symbol](q7.png)
+
 
 ### The hard way
 
@@ -28,7 +46,7 @@ This database was designed as a Shiny application and was deployed in the shinya
 ## How to contribute to this database?
 
 ### The simple way
-This database was designed as a Shiny application and was deployed in the shinyapps.io. You can submit data to this database using this [URL](https://ricencode.shinyapps.io/RICENCODE/).
+This database was designed as a Shiny application and was deployed in the shinyapps.io. You can submit data to this database [HERE](https://ricencode.shinyapps.io/RICENCODE/).
 
 ### The hard way
 
