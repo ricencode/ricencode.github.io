@@ -22,22 +22,23 @@ and the shiny package.
 ### The simple way
 This database was designed as a Shiny application and was deployed in the shinyapps.io. You can query this database [HERE](https://ricencode.shinyapps.io/RICENCODE/).
 You can query this database using the genomic locus assigned by the Rice Genome Annotation Project. A total of 5 tables exhibiting different information for a gene were given.   
+
 #### The basic information
 <img src="q1.png" width="800" height="200">  
 #### The publications
 <img src="q2.png" width="800" height="200">   
 #### The Genbank accession numbers
-![Accession](q3.png)
+<img src="q3.png" width="800" height="200">  
 #### The keyword to characterize agronomic traits
-![Keyword](q4.png)
+<img src="q4.png" width="800" height="200">  
 #### The connection to other genes
-![Connection](q5.png)
+<img src="q5.png" width="800" height="200">  
 
 You can also query this database using the genomic locus assigned by the Rice Annotation Project. A total of 5 tables exhibiting different information for a gene were given. 
-![RAPdb](q6.png)
+<img src="q6.png" width="800" height="200">  
 
 You can also query this database using the gene symbol. A total of 5 tables exhibiting different information for a gene were given. 
-![Symbol](q7.png)
+<img src="q7.png" width="800" height="200">  
 
 
 ### The hard way
