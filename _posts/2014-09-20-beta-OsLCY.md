@@ -8,8 +8,8 @@ tags:
 {% include JB/setup %}
 
 ## Information
-__Symbol__: beta-OsLCY
-__MSU__: [LOC_Os02g09750](http://rice.plantbiology.msu.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os02g09750)
+__Symbol__: beta-OsLCY  
+__MSU__: [LOC_Os02g09750](http://rice.plantbiology.msu.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os02g09750)  
 __RAPdb__: [Os02g0190600](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os02g0190600)
 
 ## Publication
