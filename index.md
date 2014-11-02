@@ -8,52 +8,30 @@ tagline:
 __The knowledge of cloned rice genes lost in the information of rice functional genomic studies__
 
 ## Introdution
-We collected 2204 cloned rice genes and 303 gene families comprised of 3381 genes. For each gene, 
+More than 2204 cloned rice genes and 303 gene families comprised of 3381 genes were collected. For each gene, 
 various information concerning the gene symbol, the genomic locus in the Nipponbare reference genome, 
 the Genbank accession number, the title, journal, year, author affiliation, abstract of related 
 publications and the text mining result of the publications were provided.
 
-This database was provided as a shiny application. To query this database, you need to install RStudio
-and the shiny package.
-
     
 ## How to query this database?
 
-### The simple way
-This database was designed as a Shiny application and was deployed in the shinyapps.io. You can query this database [HERE](https://ricencode.shinyapps.io/RICENCODE/).
-You can query this database using the genomic locus assigned by the Rice Genome Annotation Project. A total of 5 tables exhibiting different information for a gene were given.   
+This database was designed as a Shiny application and was deployed in the [Cloud](http://www.shinyapps.io/). 
+You can query this database [HERE](https://ricencode.shinyapps.io/RICENCODE/).
+You can query this database using the genomic locus assigned by the [Rice Genome Annotation Project](http://rice.plantbiology.msu.edu/), 
+or the genomic locus assigned by the [Rice Annotation Project](http://rapdb.dna.affrc.go.jp/), or the gene symbol. 
+You can retrieve the basic information of a gene, the publications on a gene, the agronomic traits associated with a gene, the connections between genes from this database.
 
-#### The basic information
-<img src="q1.png" width="900" height="200">  
-
-#### The publications
-<img src="q2.png" width="900" height="300">   
-
-#### The Genbank accession numbers
-<img src="q3.png" width="900" height="200">  
-
-#### The keyword to characterize agronomic traits
-<img src="q4.png" width="900" height="200">  
-
-#### The connection to other genes
-<img src="q5.png" width="900" height="200">  
-
-You can also query this database using the genomic locus assigned by the Rice Annotation Project. A total of 5 tables exhibiting different information for a gene were given. 
-<img src="q6.png" width="900" height="200">  
-
-You can also query this database using the gene symbol. A total of 5 tables exhibiting different information for a gene were given. 
-<img src="q7.png" width="900" height="200">  
-
-
-### The hard way
+You can also query this database by downloading the whole database to your local computer. In this way, you need [RStudio](http://www.rstudio.com/) and the [Shiny](http://shiny.rstudio.com/) package installed on your computer.
 
 
 ## How to contribute to this database?
 
-### The simple way
-This database was designed as a Shiny application and was deployed in the shinyapps.io. You can submit data to this database [HERE](https://ricencode.shinyapps.io/RICENCODE/).
+You can also contribute to this database by submitting information on new cloned rice gene or new publications to this database. To do this, you need to download the database and have [RStudio](http://www.rstudio.com/) and the [Shiny](http://shiny.rstudio.com/) package installed on your computer.
 
-### The hard way
+
+## Further information
+Further information concerning the details on querying and contributing to this database can be found in the manual.
 
 
 
