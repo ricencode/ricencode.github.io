@@ -19,6 +19,8 @@ __RAPdb__: [Os08g0531700](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 ## Genbank accession number
 [AK100263](http://www.ncbi.nlm.nih.gov/nuccore/AK100263)
 
+## Expression information
+
 ## Key message
 1. __stamen__, [Functional conservation and diversification of class E floral homeotic genes in rice (Oryza sativa)](http://www.ncbi.nlm.nih.gov/pubmed?term=(Functional conservation and diversification of class E floral homeotic genes in rice (Oryza sativa)%5BTitle%5D)),  Plants affected in both OsMADS7 and OsMADS8 show severe phenotypes including late flowering, homeotic changes of lodicules, stamens and carpels into palea/lemma-like organs, and a loss of floral determinacy
 2. __flower__, [Functional conservation and diversification of class E floral homeotic genes in rice (Oryza sativa)](http://www.ncbi.nlm.nih.gov/pubmed?term=(Functional conservation and diversification of class E floral homeotic genes in rice (Oryza sativa)%5BTitle%5D)),  Plants affected in both OsMADS7 and OsMADS8 show severe phenotypes including late flowering, homeotic changes of lodicules, stamens and carpels into palea/lemma-like organs, and a loss of floral determinacy
@@ -31,5 +33,7 @@ __RAPdb__: [Os08g0531700](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 1. __OsMADS1~LHS1~AFO__, __OsMADS7~OsMADS45__, [Functional conservation and diversification of class E floral homeotic genes in rice (Oryza sativa)](http://www.ncbi.nlm.nih.gov/pubmed?term=(Functional conservation and diversification of class E floral homeotic genes in rice (Oryza sativa)%5BTitle%5D)),  Simultaneous knockdown of the four rice SEP-like genes OsMADS1, OsMADS5, OsMADS7 and OsMADS8, leads to homeotic transformation of all floral organs except the lemma into leaf-like organs
 2. __OsMADS7~OsMADS45__, __OsMADS8~OsMADS24__, [Functional conservation and diversification of class E floral homeotic genes in rice (Oryza sativa)](http://www.ncbi.nlm.nih.gov/pubmed?term=(Functional conservation and diversification of class E floral homeotic genes in rice (Oryza sativa)%5BTitle%5D)),  Plants affected in both OsMADS7 and OsMADS8 show severe phenotypes including late flowering, homeotic changes of lodicules, stamens and carpels into palea/lemma-like organs, and a loss of floral determinacy, Simultaneous knockdown of the four rice SEP-like genes OsMADS1, OsMADS5, OsMADS7 and OsMADS8, leads to homeotic transformation of all floral organs except the lemma into leaf-like organs
 3. __OsMADS5__, __OsMADS7~OsMADS45__, [Functional conservation and diversification of class E floral homeotic genes in rice (Oryza sativa)](http://www.ncbi.nlm.nih.gov/pubmed?term=(Functional conservation and diversification of class E floral homeotic genes in rice (Oryza sativa)%5BTitle%5D)),  Simultaneous knockdown of the four rice SEP-like genes OsMADS1, OsMADS5, OsMADS7 and OsMADS8, leads to homeotic transformation of all floral organs except the lemma into leaf-like organs
+
+## Key figures
 
 

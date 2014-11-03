@@ -19,6 +19,8 @@ __RAPdb__: [Os09g0439200](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 ## Genbank accession number
 [AK108738](http://www.ncbi.nlm.nih.gov/nuccore/AK108738)
 
+## Expression information
+
 ## Key message
 1. __blight__, [Involvement of OsJAZ8 in jasmonate-induced resistance to bacterial blight in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(Involvement of OsJAZ8 in jasmonate-induced resistance to bacterial blight in rice%5BTitle%5D)), Involvement of OsJAZ8 in jasmonate-induced resistance to bacterial blight in rice
 2. __ ja __, [Involvement of OsJAZ8 in jasmonate-induced resistance to bacterial blight in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(Involvement of OsJAZ8 in jasmonate-induced resistance to bacterial blight in rice%5BTitle%5D)),  JA treatment caused OsJAZ8 degradation and this degradation was dependent on the 26S proteasome pathway, On the basis of these data, we conclude that JA plays an important role in resistance to Xoo, and OsJAZ8 acts as a repressor of JA signaling in rice
@@ -29,5 +31,7 @@ __RAPdb__: [Os09g0439200](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 
 ## Connection
 1. __OsCOI1~OsCOI1a__, __OsJAZ8~OsTIFY10c__, [Involvement of OsJAZ8 in jasmonate-induced resistance to bacterial blight in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(Involvement of OsJAZ8 in jasmonate-induced resistance to bacterial blight in rice%5BTitle%5D)),  OsJAZ8 interacted with a putative OsCOI1, which is a component of the SCF(COI1) E3 ubiquitin ligase complex, in a coronatine-dependent manner
+
+## Key figures
 
 

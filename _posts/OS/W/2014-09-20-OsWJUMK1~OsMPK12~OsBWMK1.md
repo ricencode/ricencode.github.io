@@ -25,6 +25,8 @@ __RAPdb__: [Os06g0708000](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 ## Genbank accession number
 [AF177392](http://www.ncbi.nlm.nih.gov/nuccore/AF177392), [AF177392](http://www.ncbi.nlm.nih.gov/nuccore/AF177392)
 
+## Expression information
+
 ## Key message
 1. __defense response__, [OsBWMK1 mediates SA-dependent defense responses by activating the transcription factor OsWRKY33](http://www.ncbi.nlm.nih.gov/pubmed?term=(OsBWMK1 mediates SA-dependent defense responses by activating the transcription factor OsWRKY33%5BTitle%5D)), " Altogether, OsBWMK1 may mediate SA-dependent defense responses by activating the WRKY transcription factor in plants,OsBWMK1 mediates SA-dependent defense responses by activating the transcription factor OsWRKY33"
 2. __ sa __, [OsBWMK1 mediates SA-dependent defense responses by activating the transcription factor OsWRKY33](http://www.ncbi.nlm.nih.gov/pubmed?term=(OsBWMK1 mediates SA-dependent defense responses by activating the transcription factor OsWRKY33%5BTitle%5D)),  Furthermore, the levels of SA and H(2)O(2) are elevated in 35S-OsBWMK1 transgenic plants that show HR-like cell death
@@ -40,5 +42,7 @@ __RAPdb__: [Os06g0708000](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 3. __OsMPK13~OsBIMK2__, __OsWJUMK1~OsMPK12~OsBWMK1__, [The Bphi008a gene interacts with the ethylene pathway and transcriptionally regulates MAPK genes in the response of rice to brown planthopper feeding](http://www.ncbi.nlm.nih.gov/pubmed?term=(The Bphi008a gene interacts with the ethylene pathway and transcriptionally regulates MAPK genes in the response of rice to brown planthopper feeding%5BTitle%5D)),  Subsequently, we found that Bphi008a up-regulation and down-regulation were accompanied by different changes in transcription levels of OsMPK5, OsMPK12, OsMPK13, and OsMPK17 in transgenic plants
 4. __OsMSRMK2~OsMAP1~OsMPK5~OsMAPK2~OsMAPK5~OsBIMK1__, __OsWJUMK1~OsMPK12~OsBWMK1__, [The Bphi008a gene interacts with the ethylene pathway and transcriptionally regulates MAPK genes in the response of rice to brown planthopper feeding](http://www.ncbi.nlm.nih.gov/pubmed?term=(The Bphi008a gene interacts with the ethylene pathway and transcriptionally regulates MAPK genes in the response of rice to brown planthopper feeding%5BTitle%5D)),  Subsequently, we found that Bphi008a up-regulation and down-regulation were accompanied by different changes in transcription levels of OsMPK5, OsMPK12, OsMPK13, and OsMPK17 in transgenic plants
 5. __OsMPK17__, __OsWJUMK1~OsMPK12~OsBWMK1__, [The Bphi008a gene interacts with the ethylene pathway and transcriptionally regulates MAPK genes in the response of rice to brown planthopper feeding](http://www.ncbi.nlm.nih.gov/pubmed?term=(The Bphi008a gene interacts with the ethylene pathway and transcriptionally regulates MAPK genes in the response of rice to brown planthopper feeding%5BTitle%5D)),  Subsequently, we found that Bphi008a up-regulation and down-regulation were accompanied by different changes in transcription levels of OsMPK5, OsMPK12, OsMPK13, and OsMPK17 in transgenic plants
+
+## Key figures
 
 

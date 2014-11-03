@@ -19,6 +19,8 @@ __RAPdb__: [Os12g0632000](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 ## Genbank accession number
 [AJ002893](http://www.ncbi.nlm.nih.gov/nuccore/AJ002893)
 
+## Expression information
+
 ## Key message
 1. __temperature__, [Molecular characterization of a novel isoform of rice (Oryza sativa L.) glycine rich-RNA binding protein and evidence for its involvement in high temperature stress response](http://www.ncbi.nlm.nih.gov/pubmed?term=(Molecular characterization of a novel isoform of rice (Oryza sativa L.) glycine rich-RNA binding protein and evidence for its involvement in high temperature stress response%5BTitle%5D)),  Osgr-rbp4 transcript in rice seedlings is constitutively expressed as well as regulated by different abiotic stresses including high temperature stress, Ectopic over-expression of Osgr-rbp4 cDNA imparts high temperature stress tolerance to wild type yeast cells
 2. __cell elongation__, [Expression of the rice Osgrp1 promoter-Gus reporter gene is specifically associated with cell elongation/expansion and differentiation](http://www.ncbi.nlm.nih.gov/pubmed?term=(Expression of the rice Osgrp1 promoter-Gus reporter gene is specifically associated with cell elongation/expansion and differentiation%5BTitle%5D)),  Thus, the expression of the Osgrp1 gene is closely associated with cell elongation/expansion during the post-mitotic cell differentiation process,Expression of the rice Osgrp1 promoter-Gus reporter gene is specifically associated with cell elongation/expansion and differentiation
@@ -29,5 +31,7 @@ __RAPdb__: [Os12g0632000](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 7. __abiotic stress__, [Molecular characterization of a novel isoform of rice (Oryza sativa L.) glycine rich-RNA binding protein and evidence for its involvement in high temperature stress response](http://www.ncbi.nlm.nih.gov/pubmed?term=(Molecular characterization of a novel isoform of rice (Oryza sativa L.) glycine rich-RNA binding protein and evidence for its involvement in high temperature stress response%5BTitle%5D)),  Osgr-rbp4 transcript in rice seedlings is constitutively expressed as well as regulated by different abiotic stresses including high temperature stress
 
 ## Connection
+
+## Key figures
 
 

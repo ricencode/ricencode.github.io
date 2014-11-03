@@ -27,6 +27,8 @@ __RAPdb__: [Os03g0122600](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 ## Genbank accession number
 [AB003328](http://www.ncbi.nlm.nih.gov/nuccore/AB003328), [AB003328](http://www.ncbi.nlm.nih.gov/nuccore/AB003328)
 
+## Expression information
+
 ## Key message
 1. __heading date__, [Functional analyses of the flowering time gene OsMADS50, the putative SUPPRESSOR OF OVEREXPRESSION OF CO 1/AGAMOUS-LIKE 20 (SOC1/AGL20) ortholog in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(Functional analyses of the flowering time gene OsMADS50, the putative SUPPRESSOR OF OVEREXPRESSION OF CO 1/AGAMOUS-LIKE 20 (SOC1/AGL20) ortholog in rice%5BTitle%5D)),  RT-PCR analyses of the OsMADS50 KO and ubiquitin (ubi):OsMADS50 plants showed that OsMADS50 is an upstream regulator of OsMADS1, OsMADS14, OsMADS15, OsMADS18, and Hd (Heading date)3a, but works either parallel with or downstream of Hd1 and O
 2. __floral__, [Functional analyses of the flowering time gene OsMADS50, the putative SUPPRESSOR OF OVEREXPRESSION OF CO 1/AGAMOUS-LIKE 20 (SOC1/AGL20) ortholog in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(Functional analyses of the flowering time gene OsMADS50, the putative SUPPRESSOR OF OVEREXPRESSION OF CO 1/AGAMOUS-LIKE 20 (SOC1/AGL20) ortholog in rice%5BTitle%5D)),  These results suggest that OsMADS50 is an important flowering activator that controls various floral regulators in rice
@@ -76,5 +78,7 @@ __RAPdb__: [Os03g0122600](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 26. __OsMADS50~OsSOC1~DTH3__, __RFT1__, [The histone methyltransferase SDG724 mediates H3K36me2/3 deposition at MADS50 and RFT1 and promotes flowering in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(The histone methyltransferase SDG724 mediates H3K36me2/3 deposition at MADS50 and RFT1 and promotes flowering in rice%5BTitle%5D)),  Chromatin immunoprecipitation assays showed that lvp1 had reduced levels of H3K36me2/3 at MADS50 and RFT1, This suggests that the divergent functions of paralogs RFT1 and Hd3a, and of MADS50 and MADS51, are in part due to differential H3K36me2/3 deposition, which also correlates with higher expression levels of MADS50 and RFT1 in flowering promotion in rice,The histone methyltransferase SDG724 mediates H3K36me2/3 deposition at MADS50 and RFT1 and promotes flowering in rice
 27. __OsMADS50~OsSOC1~DTH3__, __SDG724~lvp1__, [The histone methyltransferase SDG724 mediates H3K36me2/3 deposition at MADS50 and RFT1 and promotes flowering in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(The histone methyltransferase SDG724 mediates H3K36me2/3 deposition at MADS50 and RFT1 and promotes flowering in rice%5BTitle%5D)),  Chromatin immunoprecipitation assays showed that lvp1 had reduced levels of H3K36me2/3 at MADS50 and RFT1,The histone methyltransferase SDG724 mediates H3K36me2/3 deposition at MADS50 and RFT1 and promotes flowering in rice
 28. __OsMADS50~OsSOC1~DTH3__, __RFL~APO2__, [Distinct regulatory role for RFL, the rice LFY homolog, in determining flowering time and plant architecture](http://www.ncbi.nlm.nih.gov/pubmed?term=(Distinct regulatory role for RFL, the rice LFY homolog, in determining flowering time and plant architecture%5BTitle%5D)),  In these transgenics, the expression levels of known flowering time genes reveal RFL as a regulator of OsSOC1 (OsMADS50), an activator of flowering
+
+## Key figures
 
 

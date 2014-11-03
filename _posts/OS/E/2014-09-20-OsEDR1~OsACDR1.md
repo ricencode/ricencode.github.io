@@ -21,6 +21,8 @@ __RAPdb__: [Os03g0160100](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 ## Genbank accession number
 [AY167575](http://www.ncbi.nlm.nih.gov/nuccore/AY167575)
 
+## Expression information
+
 ## Key message
 1. __defense__, [Rice OsACDR1 (Oryza sativa accelerated cell death and resistance 1) is a potential positive regulator of fungal disease resistance](http://www.ncbi.nlm.nih.gov/pubmed?term=(Rice OsACDR1 (Oryza sativa accelerated cell death and resistance 1) is a potential positive regulator of fungal disease resistance%5BTitle%5D)), " We had previously reported upregulation of the OsACDR1 transcript by a range of environmental stimuli involved in eliciting defense-related pathways, Rice plants overexpressing OsACDR1 exhibited spontaneous hypersensitive response (HR)-like lesions on leaves, upregulation of defense-related marker genes and accumulation of phenolic compounds and secondary metabolites (phytoalexins), In contrast, loss-offunction and RNA silenced OsACDR1 rice mutant plants showed downregulation of defense-related marker genes expressions and susceptibility to M"
 2. __disease__, [Rice OsACDR1 (Oryza sativa accelerated cell death and resistance 1) is a potential positive regulator of fungal disease resistance](http://www.ncbi.nlm.nih.gov/pubmed?term=(Rice OsACDR1 (Oryza sativa accelerated cell death and resistance 1) is a potential positive regulator of fungal disease resistance%5BTitle%5D)),  These results indicate that OsACDR1 plays an important role in the positive regulation of disease resistance in rice,Rice OsACDR1 (Oryza sativa accelerated cell death and resistance 1) is a potential positive regulator of fungal disease resistance
@@ -40,5 +42,7 @@ __RAPdb__: [Os03g0160100](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 16. __vegetative__, [Molecular cloning and mRNA expression analysis of a novel rice ( L.) MAPK kinase kinase, , an ortholog of , reveal its role in defense/stress signalling pathways and development](http://www.ncbi.nlm.nih.gov/pubmed?term=(Molecular cloning and mRNA expression analysis of a novel rice ( L.) MAPK kinase kinase, , an ortholog of , reveal its role in defense/stress signalling pathways and development%5BTitle%5D)),  Finally, OsEDR1 expression varied significantly in vegetative and reproductive tissues
 
 ## Connection
+
+## Key figures
 
 

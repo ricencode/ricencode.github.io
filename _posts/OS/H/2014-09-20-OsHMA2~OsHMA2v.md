@@ -21,6 +21,8 @@ __RAPdb__: [Os06g0700700](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 ## Genbank accession number
 [AK107235](http://www.ncbi.nlm.nih.gov/nuccore/AK107235), [HQ646362](http://www.ncbi.nlm.nih.gov/nuccore/HQ646362)
 
+## Expression information
+
 ## Key message
 1. __root__, [Preferential delivery of zinc to developing tissues in rice is mediated by P-type heavy metal ATPase OsHMA2](http://www.ncbi.nlm.nih.gov/pubmed?term=(Preferential delivery of zinc to developing tissues in rice is mediated by P-type heavy metal ATPase OsHMA2%5BTitle%5D)),  OsHMA2 was mainly expressed in the mature zone of the roots at the vegetative stage, but higher expression was also found in the nodes at the reproductive stage, OsHMA2 was localized at the pericycle of the roots and at the phloem of enlarged and diffuse vascular bundles in the nodes
 2. __transporter__, [Mutations in rice (Oryza sativa) heavy metal ATPase 2 (OsHMA2) restrict the translocation of zinc and cadmium](http://www.ncbi.nlm.nih.gov/pubmed?term=(Mutations in rice (Oryza sativa) heavy metal ATPase 2 (OsHMA2) restrict the translocation of zinc and cadmium%5BTitle%5D)),  The translocation ratios of zinc (Zn) and Cd were clearly lower in all mutants than in the wild type, suggesting that OsHMA2 is a major transporter of Zn and Cd from roots to shoots
@@ -43,5 +45,7 @@ __RAPdb__: [Os06g0700700](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 19. __shoot__, [The OsHMA2 transporter is involved in root-to-shoot translocation of Zn and Cd in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(The OsHMA2 transporter is involved in root-to-shoot translocation of Zn and Cd in rice%5BTitle%5D)),  These results suggest that OsHMA2 plays a role in Zn and Cd loading to the xylem and participates in root-to-shoot translocation of these metals in rice,The OsHMA2 transporter is involved in root-to-shoot translocation of Zn and Cd in rice
 
 ## Connection
+
+## Key figures
 
 

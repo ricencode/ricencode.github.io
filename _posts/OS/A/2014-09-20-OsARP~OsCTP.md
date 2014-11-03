@@ -17,6 +17,8 @@ __RAPdb__: [Os02g0465900](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 
 ## Genbank accession number
 
+## Expression information
+
 ## Key message
 1. __flower__, [Overexpression of a new rice vacuolar antiporter regulating protein OsARP improves salt tolerance in tobacco](http://www.ncbi.nlm.nih.gov/pubmed?term=(Overexpression of a new rice vacuolar antiporter regulating protein OsARP improves salt tolerance in tobacco%5BTitle%5D)),  The OsARP gene was introduced into tobacco under the control of the cauliflower mosaic virus 35S promoter
 2. __photosynthesis__, [Overexpression of a new rice vacuolar antiporter regulating protein OsARP improves salt tolerance in tobacco](http://www.ncbi.nlm.nih.gov/pubmed?term=(Overexpression of a new rice vacuolar antiporter regulating protein OsARP improves salt tolerance in tobacco%5BTitle%5D)),  Overexpression of OsARP in transgenic tobacco plants resulted in salt tolerance, and the plants had a higher rate of photosynthesis and effective PSII photon yield when compared with the wild type
@@ -25,5 +27,7 @@ __RAPdb__: [Os02g0465900](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 5. __salt__, [Overexpression of a new rice vacuolar antiporter regulating protein OsARP improves salt tolerance in tobacco](http://www.ncbi.nlm.nih.gov/pubmed?term=(Overexpression of a new rice vacuolar antiporter regulating protein OsARP improves salt tolerance in tobacco%5BTitle%5D)), " Overexpression of OsARP in transgenic tobacco plants resulted in salt tolerance, and the plants had a higher rate of photosynthesis and effective PSII photon yield when compared with the wild type,Overexpression of a new rice vacuolar antiporter regulating protein OsARP improves salt tolerance in tobacco"
 
 ## Connection
+
+## Key figures
 
 

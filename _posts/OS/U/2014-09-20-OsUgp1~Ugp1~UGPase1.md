@@ -21,6 +21,8 @@ __RAPdb__: [Os09g0553200](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 ## Genbank accession number
 [AB062606](http://www.ncbi.nlm.nih.gov/nuccore/AB062606)
 
+## Expression information
+
 ## Key message
 1. __seed__, [Inactivation of the UGPase1 gene causes genic male sterility and endosperm chalkiness in rice (Oryza sativa L.)](http://www.ncbi.nlm.nih.gov/pubmed?term=(Inactivation of the UGPase1 gene causes genic male sterility and endosperm chalkiness in rice (Oryza sativa L.)%5BTitle%5D)),  The suppression of UGPase by the introduction of a UGPase1-RNAi construct in wild-type plants nearly eliminated seed set because of the male defect, with developmental retardation similar to the ms-h mutant phenotype, whereas overexpression of UGPase1 in ms-h mutant plants restored male fertility and the transformants produced T(1) seeds that segregated into normal and chalky endosperms, Our results suggest that UGPase1 plays a key role in pollen development as well as seed carbohydrate metabolism
 2. __seed__, [UDP-glucose pyrophosphorylase2 (OsUgp2), a pollen-preferential gene in rice, plays a critical role in starch accumulation during pollen maturation](http://www.ncbi.nlm.nih.gov/pubmed?term=(UDP-glucose pyrophosphorylase2 (OsUgp2), a pollen-preferential gene in rice, plays a critical role in starch accumulation during pollen maturation%5BTitle%5D)),  OsUgp1 has recently been reported to be essential for callose deposition during pollen mother cell and meiosis stages as well as for seed carbohydrate metabolism
@@ -40,5 +42,7 @@ __RAPdb__: [Os09g0553200](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 ## Connection
 1. __OsUgp1~Ugp1~UGPase1__, __OsUgp2~Ugp2__, [UDP-glucose pyrophosphorylase2 (OsUgp2), a pollen-preferential gene in rice, plays a critical role in starch accumulation during pollen maturation](http://www.ncbi.nlm.nih.gov/pubmed?term=(UDP-glucose pyrophosphorylase2 (OsUgp2), a pollen-preferential gene in rice, plays a critical role in starch accumulation during pollen maturation%5BTitle%5D)),  Two homologous UGPase genes, OsUgp1 and OsUgp2, exist in rice genome, OsUgp2 complements OsUgp1 to fulfill the UGPase’s functions necessary for the full process of pollen development
 2. __OsUgp1~Ugp1~UGPase1__, __OsUgp2~Ugp2__, [Rice UDP-Glucose Pyrophosphorylase1 Is Essential for Pollen Callose Deposition and Its Cosuppression Results in a New Type of Thermosensitive Genic Male Sterility](http://www.ncbi.nlm.nih.gov/pubmed?term=(Rice UDP-Glucose Pyrophosphorylase1 Is Essential for Pollen Callose Deposition and Its Cosuppression Results in a New Type of Thermosensitive Genic Male Sterility%5BTitle%5D)),  The rice (Oryza sativa) genome contains two homologous UGPase genes, Ugp1 and Ugp2, Expressing a double-stranded RNA interference construct in Ugp1-RI plants resulted in complete suppression of both Ugp1 and Ugp2, together with various pleiotropic developmental abnormalities, suggesting that UGPase plays critical roles in plant growth and development
+
+## Key figures
 
 

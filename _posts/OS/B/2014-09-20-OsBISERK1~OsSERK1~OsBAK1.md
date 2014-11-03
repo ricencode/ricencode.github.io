@@ -3,7 +3,7 @@ layout: post
 title: "OsBISERK1,OsSERK1,OsBAK1"
 description: ""
 category: genes
-tags: [leaf, shoot, cell death, disease resistance, resistant, architecture, defense, blast, seed, grain, yield, height, seedling, breeding, grain yield, disease, growth, dwarf, erect, root, leaf development]
+tags: [leaf, shoot, cell death, disease resistance, resistant, architecture, defense, blast, seed, grain, yield, height, seedling, breeding, grain yield, disease, growth, dwarf, erect, root, leaf development, development, angle of the lamina joint, lamina joint]
 ---
 {% include JB/setup %}
 
@@ -19,9 +19,12 @@ __RAPdb__: [Os08g0174700](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 4. [Engineering OsBAK1 gene as a molecular tool to improve rice architecture for high yield](http://www.ncbi.nlm.nih.gov/pubmed?term=(Engineering OsBAK1 gene as a molecular tool to improve rice architecture for high yield%5BTitle%5D)), 2009, Plant Biotechnol J.
 5. [A subset of OsSERK genes, including OsBAK1, affects normal growth and leaf development of rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(A subset of OsSERK genes, including OsBAK1, affects normal growth and leaf development of rice%5BTitle%5D)), 2011, Mol Cells.
 6. [Molecular characterization and expression analysis of OsBISERK1, a gene encoding a leucine-rich repeat receptor-like kinase, during disease resistance responses in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(Molecular characterization and expression analysis of OsBISERK1, a gene encoding a leucine-rich repeat receptor-like kinase, during disease resistance responses in rice%5BTitle%5D)), 2008, Mol Biol Rep.
+7. [OsSERK1 regulates rice development but not immunity to Xanthomonas oryzae pv. oryzae or Magnaporthe oryzae](http://www.ncbi.nlm.nih.gov/pubmed?term=(OsSERK1 regulates rice development but not immunity to Xanthomonas oryzae pv. oryzae or Magnaporthe oryzae%5BTitle%5D)), 2014, J Integr Plant Biol.
 
 ## Genbank accession number
 [AY463361](http://www.ncbi.nlm.nih.gov/nuccore/AY463361), [AP005799.3](http://www.ncbi.nlm.nih.gov/nuccore/AP005799.3)
+
+## Expression information
 
 ## Key message
 1. __leaf__, [Molecular characterization and expression analysis of OsBISERK1, a gene encoding a leucine-rich repeat receptor-like kinase, during disease resistance responses in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(Molecular characterization and expression analysis of OsBISERK1, a gene encoding a leucine-rich repeat receptor-like kinase, during disease resistance responses in rice%5BTitle%5D)),  OsBISERK1 has a low level of basal expression in leaf tissue
@@ -51,9 +54,17 @@ __RAPdb__: [Os08g0174700](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 25. __erect__, [Engineering OsBAK1 gene as a molecular tool to improve rice architecture for high yield](http://www.ncbi.nlm.nih.gov/pubmed?term=(Engineering OsBAK1 gene as a molecular tool to improve rice architecture for high yield%5BTitle%5D)),  The expression of OsBAK1 changed important agricultural traits of rice such as plant height, leaf erectness, grain morphologic features, and disease resistance responses, Our results suggested that a new rice variety with erect-leaf and normal reproduction can be generated simply by suppressing the expression level of OsBAK1
 26. __root__, [Expression of SERK family receptor-like protein kinase genes in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(Expression of SERK family receptor-like protein kinase genes in rice%5BTitle%5D)),  The OsSERK1 promoter showed reporter gene activities in some specific tissues in a germinating seed, leaf and root, but not in a developing embryo
 27. __leaf development__, [A subset of OsSERK genes, including OsBAK1, affects normal growth and leaf development of rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(A subset of OsSERK genes, including OsBAK1, affects normal growth and leaf development of rice%5BTitle%5D)), A subset of OsSERK genes, including OsBAK1, affects normal growth and leaf development of rice
+28. __development__, [OsSERK1 regulates rice development but not immunity to Xanthomonas oryzae pv. oryzae or Magnaporthe oryzae](http://www.ncbi.nlm.nih.gov/pubmed?term=(OsSERK1 regulates rice development but not immunity to Xanthomonas oryzae pv. oryzae or Magnaporthe oryzae%5BTitle%5D)), OsSERK1 regulates rice development but not immunity to Xanthomonas oryzae pv. oryzae or Magnaporthe oryzae
+29. __dwarf__, [OsSERK1 regulates rice development but not immunity to Xanthomonas oryzae pv. oryzae or Magnaporthe oryzae](http://www.ncbi.nlm.nih.gov/pubmed?term=(OsSERK1 regulates rice development but not immunity to Xanthomonas oryzae pv. oryzae or Magnaporthe oryzae%5BTitle%5D)), Overexpression of OsSerk1 results in a semi-dwarf phenotype whereas silencing of OsSerk1 results in a reduced angle of the lamina joint.
+30. __angle of the lamina joint__, [OsSERK1 regulates rice development but not immunity to Xanthomonas oryzae pv. oryzae or Magnaporthe oryzae](http://www.ncbi.nlm.nih.gov/pubmed?term=(OsSERK1 regulates rice development but not immunity to Xanthomonas oryzae pv. oryzae or Magnaporthe oryzae%5BTitle%5D)), Overexpression of OsSerk1 results in a semi-dwarf phenotype whereas silencing of OsSerk1 results in a reduced angle of the lamina joint.
+31. __lamina joint__, [OsSERK1 regulates rice development but not immunity to Xanthomonas oryzae pv. oryzae or Magnaporthe oryzae](http://www.ncbi.nlm.nih.gov/pubmed?term=(OsSERK1 regulates rice development but not immunity to Xanthomonas oryzae pv. oryzae or Magnaporthe oryzae%5BTitle%5D)), Overexpression of OsSerk1 results in a semi-dwarf phenotype whereas silencing of OsSerk1 results in a reduced angle of the lamina joint.
 
 ## Connection
 1. __OsBISERK1~OsSERK1~OsBAK1__, __OsSERK2__, [Expression of SERK family receptor-like protein kinase genes in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(Expression of SERK family receptor-like protein kinase genes in rice%5BTitle%5D)),  In this study, we isolated two novel rice genes, OsSERK1 and OsSERK2, belonging to the SERK-family
 2. __COE1__, __OsBISERK1~OsSERK1~OsBAK1__, [COE1, an LRR-RLK responsible for commissural vein pattern formation in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(COE1, an LRR-RLK responsible for commissural vein pattern formation in rice%5BTitle%5D)),  COE1 encodes a leucine-rich repeat receptor-like kinase, whose amino acid sequence is similar to that of brassinosteroid-insensitive 1-associated receptor kinase 1 (BAK1), and which is localized at the plasma membrane, Because of the sequence similarity of COE1 to BAK1, we also examined the involvement of brassinosteroids in CV formation
+3. __OsBISERK1~OsSERK1~OsBAK1__, __OsSERK2__, [OsSERK1 regulates rice development but not immunity to Xanthomonas oryzae pv. oryzae or Magnaporthe oryzae](http://www.ncbi.nlm.nih.gov/pubmed?term=(OsSERK1 regulates rice development but not immunity to Xanthomonas oryzae pv. oryzae or Magnaporthe oryzae%5BTitle%5D)), In yeast, OsSERK1 interacts with itself forming homodimers, and also interacts with the kinase domains of OsSERK2 and BRI1, respectively.
+4. __D61~OsBRI1__, __OsBISERK1~OsSERK1~OsBAK1__, [OsSERK1 regulates rice development but not immunity to Xanthomonas oryzae pv. oryzae or Magnaporthe oryzae](http://www.ncbi.nlm.nih.gov/pubmed?term=(OsSERK1 regulates rice development but not immunity to Xanthomonas oryzae pv. oryzae or Magnaporthe oryzae%5BTitle%5D)), In yeast, OsSERK1 interacts with itself forming homodimers, and also interacts with the kinase domains of OsSERK2 and BRI1, respectively.
+
+## Key figures
 
 

@@ -20,8 +20,12 @@ __RAPdb__: [Os12g0291400](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 ## Genbank accession number
 [AK099574](http://www.ncbi.nlm.nih.gov/nuccore/AK099574)
 
+## Expression information
+
 ## Key message
 
 ## Connection
+
+## Key figures
 
 

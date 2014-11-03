@@ -20,6 +20,8 @@ __RAPdb__: [Os04g0573000](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 ## Genbank accession number
 [AK066068](http://www.ncbi.nlm.nih.gov/nuccore/AK066068)
 
+## Expression information
+
 ## Key message
 1. __phosphate__, [Complex regulation of two target genes encoding SPX-MFS proteins by rice miR827 in response to phosphate starvation](http://www.ncbi.nlm.nih.gov/pubmed?term=(Complex regulation of two target genes encoding SPX-MFS proteins by rice miR827 in response to phosphate starvation%5BTitle%5D)), Here we report on the characterization of rice osa-miR827 and its two target genes, OsSPX-MFS1 and OsSPX-MFS2, which encode SPX-MFS proteins predicted to be implicated in phosphate (Pi) sensing or transport
 2. __shoot__, [Complex regulation of two target genes encoding SPX-MFS proteins by rice miR827 in response to phosphate starvation](http://www.ncbi.nlm.nih.gov/pubmed?term=(Complex regulation of two target genes encoding SPX-MFS proteins by rice miR827 in response to phosphate starvation%5BTitle%5D)),  OsSPX-MFS1 mRNA is mainly expressed in shoots under sufficient Pi supply while its expression is reduced on Pi starvation, revealing a direct relationship between induction of osa-miR827 and down-regulation of OsSPX-MFS1
@@ -36,5 +38,7 @@ __RAPdb__: [Os04g0573000](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 3. __OsSPX-MFS1~OsPSS1__, __OsSPX-MFS2__, [Auxin response factor (OsARF12), a novel regulator for phosphate homeostasis in rice (Oryza sativa)](http://www.ncbi.nlm.nih.gov/pubmed?term=(Auxin response factor (OsARF12), a novel regulator for phosphate homeostasis in rice (Oryza sativa)%5BTitle%5D)),  Knockout of OsARF12 also influenced the transcript abundances of the OsPHR2 gene and its downstream components, such as OsMiR399j, OsPHO2, OsMiR827, OsSPX-MFS1 and OsSPX-MFS2
 4. __OsSPX-MFS1~OsPSS1__, __OsSPX-MFS3~OsPSS3__, [Functional characterization of the rice SPX-MFS family reveals a key role of OsSPX-MFS1 in controlling phosphate homeostasis in leaves](http://www.ncbi.nlm.nih.gov/pubmed?term=(Functional characterization of the rice SPX-MFS family reveals a key role of OsSPX-MFS1 in controlling phosphate homeostasis in leaves%5BTitle%5D)),  * Transcript analyses revealed that members of the SPX-MFS family were mainly expressed in the shoots, with OsSPX-MFS1 and OsSPX-MFS3 being suppressed by Pi deficiency, while OsSPX-MFS2 was induced
 5. __OsSPX-MFS1~OsPSS1__, __OsSPX-MFS2__, [Complex regulation of two target genes encoding SPX-MFS proteins by rice miR827 in response to phosphate starvation](http://www.ncbi.nlm.nih.gov/pubmed?term=(Complex regulation of two target genes encoding SPX-MFS proteins by rice miR827 in response to phosphate starvation%5BTitle%5D)), Here we report on the characterization of rice osa-miR827 and its two target genes, OsSPX-MFS1 and OsSPX-MFS2, which encode SPX-MFS proteins predicted to be implicated in phosphate (Pi) sensing or transport, In parallel, we analyzed the responses of the two OsSPX-MFS1 and OsSPX-MFS2 gene targets to Pi starvation, This suggests that OsSPX-MFS1 and OsSPX-MFS2 are both negatively regulated by osa-miR827 abundance although they respond differently to external Pi conditions
+
+## Key figures
 
 

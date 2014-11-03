@@ -19,6 +19,8 @@ __RAPdb__: [Os05g0226900](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 ## Genbank accession number
 [AF337054](http://www.ncbi.nlm.nih.gov/nuccore/AF337054), [BAF16879](http://www.ncbi.nlm.nih.gov/nuccore/BAF16879)
 
+## Expression information
+
 ## Key message
 1. __seedling__, [Isolation and characterization of a gene for a repetitive proline rich protein (OsPRP) down-regulated during submergence in rice (Oryza sativa)](http://www.ncbi.nlm.nih.gov/pubmed?term=(Isolation and characterization of a gene for a repetitive proline rich protein (OsPRP) down-regulated during submergence in rice (Oryza sativa)%5BTitle%5D)),  The expression of OsPRP was relatively uniform in the young seedlings
 2. __shoot__, [Isolation and characterization of a gene for a repetitive proline rich protein (OsPRP) down-regulated during submergence in rice (Oryza sativa)](http://www.ncbi.nlm.nih.gov/pubmed?term=(Isolation and characterization of a gene for a repetitive proline rich protein (OsPRP) down-regulated during submergence in rice (Oryza sativa)%5BTitle%5D)),  However, tissue-specific expression of OsPRP indicated that shoot tissue accumulates more mRNA, and the root has relatively low expression
@@ -28,5 +30,7 @@ __RAPdb__: [Os05g0226900](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 6. __growth__, [Isolation and characterization of a gene for a repetitive proline rich protein (OsPRP) down-regulated during submergence in rice (Oryza sativa)](http://www.ncbi.nlm.nih.gov/pubmed?term=(Isolation and characterization of a gene for a repetitive proline rich protein (OsPRP) down-regulated during submergence in rice (Oryza sativa)%5BTitle%5D)),  Exogenous application of growth hormones, namely abscisic acid (ABA), methyl jasmonate (MeJ) and ethephon caused significant repression of the OsPRP transcript
 
 ## Connection
+
+## Key figures
 
 

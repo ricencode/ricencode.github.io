@@ -19,6 +19,8 @@ __RAPdb__: [Os03g0161800](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 ## Genbank accession number
 [CN487723](http://www.ncbi.nlm.nih.gov/nuccore/CN487723)
 
+## Expression information
+
 ## Key message
 1. __submergence__, [The immediate-early ethylene response gene OsARD1 encodes an acireductone dioxygenase involved in recycling of the ethylene precursor S-adenosylmethionine](http://www.ncbi.nlm.nih.gov/pubmed?term=(The immediate-early ethylene response gene OsARD1 encodes an acireductone dioxygenase involved in recycling of the ethylene precursor S-adenosylmethionine%5BTitle%5D)), " OsARD1 mRNA levels showed a rapid, early and transient increase upon submergence and after treatment with ethylene-releasing compounds"
 2. __phytohormone__, [Identification and characterization of a novel water-deficit-suppressed gene OsARD encoding an aci-reductone-dioxygenase-like protein in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(Identification and characterization of a novel water-deficit-suppressed gene OsARD encoding an aci-reductone-dioxygenase-like protein in rice%5BTitle%5D)),  Northern blot and reverse transcriptase-polymerase chain reaction (RT-PCR) analysis revealed that the OsARD expression is regulated by abiotic stresses and phytohormones
@@ -29,5 +31,7 @@ __RAPdb__: [Os03g0161800](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 7. __ethylene__, [Identification and characterization of a novel water-deficit-suppressed gene OsARD encoding an aci-reductone-dioxygenase-like protein in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(Identification and characterization of a novel water-deficit-suppressed gene OsARD encoding an aci-reductone-dioxygenase-like protein in rice%5BTitle%5D)),  These results suggest that OsARD may play a role in the metabolism of methionine and ethylene in response to abiotic stresses
 
 ## Connection
+
+## Key figures
 
 

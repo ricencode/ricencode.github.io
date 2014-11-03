@@ -19,10 +19,14 @@ __RAPdb__: [Os06g0699400](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 ## Genbank accession number
 [AJ251330](http://www.ncbi.nlm.nih.gov/nuccore/AJ251330), [AJ512642](http://www.ncbi.nlm.nih.gov/nuccore/AJ512642)
 
+## Expression information
+
 ## Key message
 1. __panicle__, [Transcriptional Regulation of a Rice Mitogen-Activated Protein Kinase Gene, OsMAPK4, in Response to Environmental Stresses](http://www.ncbi.nlm.nih.gov/pubmed?term=(Transcriptional Regulation of a Rice Mitogen-Activated Protein Kinase Gene, OsMAPK4, in Response to Environmental Stresses%5BTitle%5D)),  OsMAPK4 transcripts were expressed strongly in mature leaves and weakly in young leaves and panicles
 2. __salinity__, ["Transcriptional Regulation of a Rice Mitogen-Activated Protein Kinase Gene, OsMAPK4, in Response to Environmental Stresses"](http://www.ncbi.nlm.nih.gov/pubmed?term=("Transcriptional Regulation of a Rice Mitogen-Activated Protein Kinase Gene, OsMAPK4, in Response to Environmental Stresses"%5BTitle%5D)), " In addition, the mRNA level of OsMAPK4 was up-regulated under sugar starvation, high salinity and cold treatments"
 
 ## Connection
+
+## Key figures
 
 

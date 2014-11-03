@@ -19,9 +19,13 @@ __RAPdb__: [Os03g0180800](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 ## Genbank accession number
 [AK070649](http://www.ncbi.nlm.nih.gov/nuccore/AK070649)
 
+## Expression information
+
 ## Key message
 1. __salt__, [Identification and expression profiling analysis of TIFY family genes involved in stress and phytohormone responses in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(Identification and expression profiling analysis of TIFY family genes involved in stress and phytohormone responses in rice%5BTitle%5D)), " Over-expression of OsTIFY11a, one of the stress-inducible genes, resulted in significantly increased tolerance to salt and dehydration stresses"
 
 ## Connection
+
+## Key figures
 
 

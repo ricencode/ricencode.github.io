@@ -19,8 +19,12 @@ __RAPdb__: [Os06g0604300](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 ## Genbank accession number
 [AK119861](http://www.ncbi.nlm.nih.gov/nuccore/AK119861)
 
+## Expression information
+
 ## Key message
 
 ## Connection
+
+## Key figures
 
 

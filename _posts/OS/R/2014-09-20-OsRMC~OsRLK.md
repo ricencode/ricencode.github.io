@@ -21,6 +21,8 @@ __RAPdb__: [Os04g0659300](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 ## Genbank accession number
 [AK111969](http://www.ncbi.nlm.nih.gov/nuccore/AK111969)
 
+## Expression information
+
 ## Key message
 1. __root development__, [RNAi knockdown of Oryza sativa root meander curling gene led to altered root development and coiling which were mediated by jasmonic acid signalling in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(RNAi knockdown of Oryza sativa root meander curling gene led to altered root development and coiling which were mediated by jasmonic acid signalling in rice%5BTitle%5D)),  Our results suggest that OsRMC of the DUF26 subfamily involved in JA signal transduction mediates root development and negatively regulates root curling in rice
 2. __salinity__, ["OsRMC, a negative regulator of salt stress response in rice, is regulated by two AP2/ERF transcription factors"](http://www.ncbi.nlm.nih.gov/pubmed?term=("OsRMC, a negative regulator of salt stress response in rice, is regulated by two AP2/ERF transcription factors"%5BTitle%5D)), " Among these, we have chosen OsRMC to study its transcriptional regulation in rice seedlings subjected to high salinity, To investigate how OsRMC is regulated in response to high salinity, a salt-induced rice cDNA expression library was constructed and subsequently screened using the yeast one-hybrid system and the OsRMC promoter as bait"
@@ -51,5 +53,7 @@ __RAPdb__: [Os04g0659300](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 4. __OsNAS1__, __OsRMC~OsRLK__, [A receptor-like protein RMC is involved in regulation of iron acquisition in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(A receptor-like protein RMC is involved in regulation of iron acquisition in rice%5BTitle%5D)),  Several Fe deficiency-responsive genes including OsDMAS1, OsNAS1, OsNAS2, OsNAAT1, OsIRT1, OsYSL15, and OsIRO2 were up- and downregulated in OsRMC-overexpressing and RNAi plants compared with WT rice plants
 5. __OsNAS2__, __OsRMC~OsRLK__, [A receptor-like protein RMC is involved in regulation of iron acquisition in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(A receptor-like protein RMC is involved in regulation of iron acquisition in rice%5BTitle%5D)),  Several Fe deficiency-responsive genes including OsDMAS1, OsNAS1, OsNAS2, OsNAAT1, OsIRT1, OsYSL15, and OsIRO2 were up- and downregulated in OsRMC-overexpressing and RNAi plants compared with WT rice plants
 6. __OsRMC~OsRLK__, __OsYSL15__, [A receptor-like protein RMC is involved in regulation of iron acquisition in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(A receptor-like protein RMC is involved in regulation of iron acquisition in rice%5BTitle%5D)),  Several Fe deficiency-responsive genes including OsDMAS1, OsNAS1, OsNAS2, OsNAAT1, OsIRT1, OsYSL15, and OsIRO2 were up- and downregulated in OsRMC-overexpressing and RNAi plants compared with WT rice plants
+
+## Key figures
 
 

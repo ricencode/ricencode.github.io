@@ -18,8 +18,12 @@ __RAPdb__: [Os01g0581300](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 ## Genbank accession number
 [NM_001049945.1](http://www.ncbi.nlm.nih.gov/nuccore/NM_001049945.1)
 
+## Expression information
+
 ## Key message
 
 ## Connection
+
+## Key figures
 
 

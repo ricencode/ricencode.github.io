@@ -19,6 +19,8 @@ __RAPdb__: [Os08g0137250](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 ## Genbank accession number
 [AK242200](http://www.ncbi.nlm.nih.gov/nuccore/AK242200)
 
+## Expression information
+
 ## Key message
 1. __floral__, [Identification and characterization of an epi-allele of FIE1 reveals a regulatory linkage between two epigenetic marks in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(Identification and characterization of an epi-allele of FIE1 reveals a regulatory linkage between two epigenetic marks in rice%5BTitle%5D)),  Here, we identify a gain-of-function epi-allele (Epi-df) of rice (Oryza sativa) FIE1; this allele causes a dwarf stature and various floral defects that are inherited in a dominant fashion
 2. __dwarf__, [Identification and characterization of an epi-allele of FIE1 reveals a regulatory linkage between two epigenetic marks in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(Identification and characterization of an epi-allele of FIE1 reveals a regulatory linkage between two epigenetic marks in rice%5BTitle%5D)),  Here, we identify a gain-of-function epi-allele (Epi-df) of rice (Oryza sativa) FIE1; this allele causes a dwarf stature and various floral defects that are inherited in a dominant fashion
@@ -30,5 +32,7 @@ __RAPdb__: [Os08g0137250](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 3. __OsEMF2a__, __OsFIE1~Epi-df__, [Expression, imprinting, and evolution of rice homologs of the polycomb group genes](http://www.ncbi.nlm.nih.gov/pubmed?term=(Expression, imprinting, and evolution of rice homologs of the polycomb group genes%5BTitle%5D)),  The rice genome contains two E(z)-like genes, OsiEZ1 and OsCLF, two homologs of Su(z)12, OsEMF2a and OsEMF2b, and two ESC-like genes, OsFIE1 and OsFIE2
 4. __OsCLF__, __OsFIE1~Epi-df__, [Expression, imprinting, and evolution of rice homologs of the polycomb group genes](http://www.ncbi.nlm.nih.gov/pubmed?term=(Expression, imprinting, and evolution of rice homologs of the polycomb group genes%5BTitle%5D)),  The rice genome contains two E(z)-like genes, OsiEZ1 and OsCLF, two homologs of Su(z)12, OsEMF2a and OsEMF2b, and two ESC-like genes, OsFIE1 and OsFIE2
 5. __OsFIE1~Epi-df__, __OsiEZ1~OsSET1__, [Expression, imprinting, and evolution of rice homologs of the polycomb group genes](http://www.ncbi.nlm.nih.gov/pubmed?term=(Expression, imprinting, and evolution of rice homologs of the polycomb group genes%5BTitle%5D)),  The rice genome contains two E(z)-like genes, OsiEZ1 and OsCLF, two homologs of Su(z)12, OsEMF2a and OsEMF2b, and two ESC-like genes, OsFIE1 and OsFIE2
+
+## Key figures
 
 

@@ -21,6 +21,8 @@ __RAPdb__: [Os09g0440300](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 ## Genbank accession number
 [AF323586](http://www.ncbi.nlm.nih.gov/nuccore/AF323586), [AK060757](http://www.ncbi.nlm.nih.gov/nuccore/AK060757), [AK119560](http://www.ncbi.nlm.nih.gov/nuccore/AK119560)
 
+## Expression information
+
 ## Key message
 1. __seed development__, [Rice aldehyde dehydrogenase7 is needed for seed maturation and viability](http://www.ncbi.nlm.nih.gov/pubmed?term=(Rice aldehyde dehydrogenase7 is needed for seed maturation and viability%5BTitle%5D)),  These pigments started to accumulate in the late seed developmental stage, the time when OsALDH7 expression began to increase significantly
 2. __endosperm__, [Rice aldehyde dehydrogenase7 is needed for seed maturation and viability](http://www.ncbi.nlm.nih.gov/pubmed?term=(Rice aldehyde dehydrogenase7 is needed for seed maturation and viability%5BTitle%5D)),  Interestingly, endosperms from the osaldh7 null mutants accumulated brown pigments during desiccation and storage
@@ -32,5 +34,7 @@ __RAPdb__: [Os09g0440300](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 8. __oxidative__, [Rice aldehyde dehydrogenase7 is needed for seed maturation and viability](http://www.ncbi.nlm.nih.gov/pubmed?term=(Rice aldehyde dehydrogenase7 is needed for seed maturation and viability%5BTitle%5D)), " We obtained T-DNA insertional mutants in OsALDH7, which is remarkably inducible by oxidative and abiotic stresses, These results suggest that OsALDH7 is involved in removing various aldehydes formed by oxidative stress during seed desiccation"
 
 ## Connection
+
+## Key figures
 
 

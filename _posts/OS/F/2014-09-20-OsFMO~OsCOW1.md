@@ -20,6 +20,8 @@ __RAPdb__: [Os03g0162000](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 ## Genbank accession number
 [AK072466](http://www.ncbi.nlm.nih.gov/nuccore/AK072466)
 
+## Expression information
+
 ## Key message
 1. __stem__, [Constitutively wilted 1, a member of the rice YUCCA gene family, is required for maintaining water homeostasis and an appropriate root to shoot ratio](http://www.ncbi.nlm.nih.gov/pubmed?term=(Constitutively wilted 1, a member of the rice YUCCA gene family, is required for maintaining water homeostasis and an appropriate root to shoot ratio%5BTitle%5D)),  Furthermore, a lower turgor potential and transpiration rate in their mature leaves indicates that oscow1 plants are water-deficient, due to insufficient water uptake that possibly stems from that diminished root to shoot ratio
 2. __growth__, [Cloning, characterization and expression of OsFMO(t) in rice encoding a flavin monooxygenase](http://www.ncbi.nlm.nih.gov/pubmed?term=(Cloning, characterization and expression of OsFMO(t) in rice encoding a flavin monooxygenase%5BTitle%5D)),  Our results demonstrated that IAA biosynthesis regulated by OsFMO(t) is likely localized and might play an essential role in shaping local IAA concentrations which, in turn, is critical for regulating normal growth and development in rice
@@ -35,5 +37,7 @@ __RAPdb__: [Os03g0162000](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 
 ## Connection
 1. __OsFMO~OsCOW1__, __OsYUCCA1__, [Cloning, characterization and expression of OsFMO(t) in rice encoding a flavin monooxygenase](http://www.ncbi.nlm.nih.gov/pubmed?term=(Cloning, characterization and expression of OsFMO(t) in rice encoding a flavin monooxygenase%5BTitle%5D)),  OsFMO(t) showed high amino acid sequence identity with FMO proteins from other plants, in particular with YUCCA from Arabidopsis, FLOOZY from Petunia, and OsYUCCA1 from rice
+
+## Key figures
 
 

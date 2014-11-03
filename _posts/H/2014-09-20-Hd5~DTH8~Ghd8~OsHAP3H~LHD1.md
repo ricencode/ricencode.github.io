@@ -25,6 +25,8 @@ __RAPdb__: [Os08g0174500](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 ## Genbank accession number
 [AB288039](http://www.ncbi.nlm.nih.gov/nuccore/AB288039)
 
+## Expression information
+
 ## Key message
 1. __grains per panicle__, [DTH8 suppresses flowering in rice, influencing plant height and yield potential simultaneously](http://www.ncbi.nlm.nih.gov/pubmed?term=(DTH8 suppresses flowering in rice, influencing plant height and yield potential simultaneously%5BTitle%5D)),  Map-based cloning reveals that DTH8 encodes a putative HAP3 subunit of the CCAAT-box-binding transcription factor and the complementary experiment increased significantly days to heading, plant height, and number of grains per panicle in CSSL61 (a chromosome segment substitution line that carries the nonfunctional DTH8 allele) with the Asominori functional DTH8 allele under long-day conditions
 2. __grain yield__, [A major QTL, Ghd8, plays pleiotropic roles in regulating grain productivity, plant height, and heading date in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(A major QTL, Ghd8, plays pleiotropic roles in regulating grain productivity, plant height, and heading date in rice%5BTitle%5D)),  Here, we report the cloning and characterization of Ghd8, a major QTL with pleiotropic effects on grain yield, heading date, and plant height
@@ -73,5 +75,7 @@ __RAPdb__: [Os08g0174500](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 16. __Ghd7__, __Hd5~DTH8~Ghd8~OsHAP3H~LHD1__, [Hd16, a gene for casein kinase I, is involved in the control of rice flowering time by modulating the day-length response](http://www.ncbi.nlm.nih.gov/pubmed?term=(Hd16, a gene for casein kinase I, is involved in the control of rice flowering time by modulating the day-length response%5BTitle%5D)),  By using near-isogenic lines with functional or deficient alleles of several rice flowering-time genes, we observed significant digenetic interactions between Hd16 and four other flowering-time genes (Ghd7, Hd1, DTH8 and Hd2)
 17. __Hd1__, __Hd5~DTH8~Ghd8~OsHAP3H~LHD1__, [Hd16, a gene for casein kinase I, is involved in the control of rice flowering time by modulating the day-length response](http://www.ncbi.nlm.nih.gov/pubmed?term=(Hd16, a gene for casein kinase I, is involved in the control of rice flowering time by modulating the day-length response%5BTitle%5D)),  By using near-isogenic lines with functional or deficient alleles of several rice flowering-time genes, we observed significant digenetic interactions between Hd16 and four other flowering-time genes (Ghd7, Hd1, DTH8 and Hd2)
 18. __CKI~EL1~Hd16__, __Hd5~DTH8~Ghd8~OsHAP3H~LHD1__, [Hd16, a gene for casein kinase I, is involved in the control of rice flowering time by modulating the day-length response](http://www.ncbi.nlm.nih.gov/pubmed?term=(Hd16, a gene for casein kinase I, is involved in the control of rice flowering time by modulating the day-length response%5BTitle%5D)),  By using near-isogenic lines with functional or deficient alleles of several rice flowering-time genes, we observed significant digenetic interactions between Hd16 and four other flowering-time genes (Ghd7, Hd1, DTH8 and Hd2)
+
+## Key figures
 
 

@@ -23,6 +23,8 @@ __RAPdb__: [Os08g0564000](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 ## Genbank accession number
 [AF536966](http://www.ncbi.nlm.nih.gov/nuccore/AF536966), [AK119787](http://www.ncbi.nlm.nih.gov/nuccore/AK119787)
 
+## Expression information
+
 ## Key message
 1. __shoot__, [Two rice phosphate transporters, OsPht1;2 and OsPht1;6, have different functions and kinetic properties in uptake and translocation](http://www.ncbi.nlm.nih.gov/pubmed?term=(Two rice phosphate transporters, OsPht1;2 and OsPht1;6, have different functions and kinetic properties in uptake and translocation%5BTitle%5D)),  In transgenic rice, the knock-down of either OsPT2 or OsPT6 expression by RNA interference significantly decreased both the uptake and the long-distance transport of Pi from roots to shoots
 2. __transporter__, [OsMYB2P-1, an R2R3 MYB transcription factor, is involved in the regulation of phosphate-starvation responses and root architecture in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(OsMYB2P-1, an R2R3 MYB transcription factor, is involved in the regulation of phosphate-starvation responses and root architecture in rice%5BTitle%5D)),  Moreover, expression of OsPT2, which encodes a low-affinity Pi transporter, was up-regulated in OsMYB2P-1-overexpressing plants under Pi-sufficient conditions, whereas expression of the high-affinity Pi transporters OsPT6, OsPT8, and OsPT10 was up-regulated by overexpression of OsMYB2P-1 under Pi-deficient conditions, suggesting that OsMYB2P-1 may act as a Pi-dependent regulator in controlling the expression of Pi transporters
@@ -58,5 +60,7 @@ __RAPdb__: [Os08g0564000](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 9. __OsLPT1~OsPht1;6~OsPT6__, __OsSQD2__, [Involvement of OsSPX1 in phosphate homeostasis in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(Involvement of OsSPX1 in phosphate homeostasis in rice%5BTitle%5D)),  In contrast, overexpression of OsSPX1 suppressed the induction of expression by Pi starvation of all 10 phosphate starvation-induced genes tested: IPS1 (induced by phosphate starvation 1), IPS2, OsPAP10 (purple acid phosphatase 10), OsSQD2 (sulfoquinovosyldiacylglycerol 2), miR399d and miR399j (microRNA 399), OsPT2, OsPT3, OsPT6 and OsPT8
 10. __OsLPT1~OsPht1;6~OsPT6__, __OsSPX1__, [Involvement of OsSPX1 in phosphate homeostasis in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(Involvement of OsSPX1 in phosphate homeostasis in rice%5BTitle%5D)),  In contrast, overexpression of OsSPX1 suppressed the induction of expression by Pi starvation of all 10 phosphate starvation-induced genes tested: IPS1 (induced by phosphate starvation 1), IPS2, OsPAP10 (purple acid phosphatase 10), OsSQD2 (sulfoquinovosyldiacylglycerol 2), miR399d and miR399j (microRNA 399), OsPT2, OsPT3, OsPT6 and OsPT8
 11. __OsLPT1~OsPht1;6~OsPT6__, __OsPht1;8~OsPT8__, [Involvement of OsSPX1 in phosphate homeostasis in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(Involvement of OsSPX1 in phosphate homeostasis in rice%5BTitle%5D)),  In contrast, overexpression of OsSPX1 suppressed the induction of expression by Pi starvation of all 10 phosphate starvation-induced genes tested: IPS1 (induced by phosphate starvation 1), IPS2, OsPAP10 (purple acid phosphatase 10), OsSQD2 (sulfoquinovosyldiacylglycerol 2), miR399d and miR399j (microRNA 399), OsPT2, OsPT3, OsPT6 and OsPT8
+
+## Key figures
 
 

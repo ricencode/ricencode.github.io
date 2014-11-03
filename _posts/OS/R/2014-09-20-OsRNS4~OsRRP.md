@@ -19,6 +19,8 @@ __RAPdb__: [Os09g0537700](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 ## Genbank accession number
 [AF439449](http://www.ncbi.nlm.nih.gov/nuccore/AF439449)
 
+## Expression information
+
 ## Key message
 1. __dwarf__, [Cloning and characterization of an RNase-related protein gene preferentially expressed in rice stems](http://www.ncbi.nlm.nih.gov/pubmed?term=(Cloning and characterization of an RNase-related protein gene preferentially expressed in rice stems%5BTitle%5D)),  OsRRP is preferentially expressed in stems of wild-type rice and is significantly down-regulated in an increased tillering dwarf mutant ext37
 2. __tillering__, [Cloning and characterization of an RNase-related protein gene preferentially expressed in rice stems](http://www.ncbi.nlm.nih.gov/pubmed?term=(Cloning and characterization of an RNase-related protein gene preferentially expressed in rice stems%5BTitle%5D)),  OsRRP is preferentially expressed in stems of wild-type rice and is significantly down-regulated in an increased tillering dwarf mutant ext37
@@ -31,5 +33,7 @@ __RAPdb__: [Os09g0537700](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 9. __stem__, [Cloning and characterization of an RNase-related protein gene preferentially expressed in rice stems](http://www.ncbi.nlm.nih.gov/pubmed?term=(Cloning and characterization of an RNase-related protein gene preferentially expressed in rice stems%5BTitle%5D)),  OsRRP is preferentially expressed in stems of wild-type rice and is significantly down-regulated in an increased tillering dwarf mutant ext37
 
 ## Connection
+
+## Key figures
 
 

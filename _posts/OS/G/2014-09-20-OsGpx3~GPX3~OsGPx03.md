@@ -19,6 +19,8 @@ __RAPdb__: [Os02g0664000](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 
 ## Genbank accession number
 
+## Expression information
+
 ## Key message
 1. __homeostasis__, [The mitochondrial glutathione peroxidase GPX3 is essential for H2O2 homeostasis and root and shoot development in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(The mitochondrial glutathione peroxidase GPX3 is essential for H2O2 homeostasis and root and shoot development in rice%5BTitle%5D)), The mitochondrial glutathione peroxidase GPX3 is essential for H2O2 homeostasis and root and shoot development in rice
 2. __mitochondria__, [The mitochondrial glutathione peroxidase GPX3 is essential for H2O2 homeostasis and root and shoot development in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(The mitochondrial glutathione peroxidase GPX3 is essential for H2O2 homeostasis and root and shoot development in rice%5BTitle%5D)),  Transgenic rice plants have been generated that lack mitochondrial OsGPX3, These GPX3s plants showed shorter roots and shoots compared to non-transformed (NT) plants, and higher amounts of H2O2 mitochondrial release were observed in the roots of these plants cultivated under normal conditions, These results suggest that silencing the mitochondrial OsGPX3 gene impairs normal plant development and leads to a stress-induced morphogenic response via H2O2 accumulation,The mitochondrial glutathione peroxidase GPX3 is essential for H2O2 homeostasis and root and shoot development in rice
@@ -27,5 +29,7 @@ __RAPdb__: [Os02g0664000](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 5. __shoot__, [The mitochondrial glutathione peroxidase GPX3 is essential for H2O2 homeostasis and root and shoot development in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(The mitochondrial glutathione peroxidase GPX3 is essential for H2O2 homeostasis and root and shoot development in rice%5BTitle%5D)),  These GPX3s plants showed shorter roots and shoots compared to non-transformed (NT) plants, and higher amounts of H2O2 mitochondrial release were observed in the roots of these plants cultivated under normal conditions,The mitochondrial glutathione peroxidase GPX3 is essential for H2O2 homeostasis and root and shoot development in rice
 
 ## Connection
+
+## Key figures
 
 

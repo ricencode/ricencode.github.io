@@ -19,6 +19,8 @@ __RAPdb__: [Os01g0220100](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 ## Genbank accession number
 [AB038510](http://www.ncbi.nlm.nih.gov/nuccore/AB038510)
 
+## Expression information
+
 ## Key message
 1. __root development__, [Carbohydrate-binding module of a rice endo-beta-1,4-glycanase, OsCel9A, expressed in auxin-induced lateral root primordia, is post-translationally truncated](http://www.ncbi.nlm.nih.gov/pubmed?term=(Carbohydrate-binding module of a rice endo-beta-1,4-glycanase, OsCel9A, expressed in auxin-induced lateral root primordia, is post-translationally truncated%5BTitle%5D)),  Analyses of auxin concentration and time course dependence of accumulation of two EGase isoforms suggested that the translation and post-translational CBM2 truncation of the OsCel9A gene may participate in lateral root development
 2. __auxin__, [Carbohydrate-binding module of a rice endo-beta-1,4-glycanase, OsCel9A, expressed in auxin-induced lateral root primordia, is post-translationally truncated](http://www.ncbi.nlm.nih.gov/pubmed?term=(Carbohydrate-binding module of a rice endo-beta-1,4-glycanase, OsCel9A, expressed in auxin-induced lateral root primordia, is post-translationally truncated%5BTitle%5D)),  Sasanishiki), OsCel9A, corresponding to the auxin-induced 51 kDa endo-1,4-beta-glucanase (EGase), The expression of four rice EGase genes including OsCel9A showed different patterns of organ specificity and responses to auxin, OsCel9A was preferentially expressed during the initiation of lateral roots or subcultured root calli, but was hardly expressed during auxin-induced coleoptile elongation or in seed calli, in contrast to OsCel9D, a KORRIGAN (KOR) homolog, Analyses of auxin concentration and time course dependence of accumulation of two EGase isoforms suggested that the translation and post-translational CBM2 truncation of the OsCel9A gene may participate in lateral root development,Carbohydrate-binding module of a rice endo-beta-1,4-glycanase, OsCel9A, expressed in auxin-induced lateral root primordia, is post-translationally truncated
@@ -29,5 +31,7 @@ __RAPdb__: [Os01g0220100](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 ## Connection
 1. __OsCel9A~OsGLU5__, __OsEXPA8__, [MULTIPASS, a rice R2R3-type MYB transcription factor, regulates adaptive growth by integrating multiple hormonal pathways](http://www.ncbi.nlm.nih.gov/pubmed?term=(MULTIPASS, a rice R2R3-type MYB transcription factor, regulates adaptive growth by integrating multiple hormonal pathways%5BTitle%5D)),  Moreover, we show that OsMPS is a direct upstream regulator of OsEXPA4, OsEXPA8, OsEXPB2, OsEXPB3, OsEXPB6 and the endoglucanase genes OsGLU5 and OsGLU14
 2. __OsCel9A~OsGLU5__, __OsMPS__, [MULTIPASS, a rice R2R3-type MYB transcription factor, regulates adaptive growth by integrating multiple hormonal pathways](http://www.ncbi.nlm.nih.gov/pubmed?term=(MULTIPASS, a rice R2R3-type MYB transcription factor, regulates adaptive growth by integrating multiple hormonal pathways%5BTitle%5D)),  Moreover, we show that OsMPS is a direct upstream regulator of OsEXPA4, OsEXPA8, OsEXPB2, OsEXPB3, OsEXPB6 and the endoglucanase genes OsGLU5 and OsGLU14
+
+## Key figures
 
 

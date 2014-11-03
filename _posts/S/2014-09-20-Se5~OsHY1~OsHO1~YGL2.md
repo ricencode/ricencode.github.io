@@ -21,6 +21,8 @@ __RAPdb__: [Os06g0603000](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 
 ## Genbank accession number
 
+## Expression information
+
 ## Key message
 1. __breeding__, [RNAi knockdown of rice SE5 gene is sensitive to the herbicide methyl viologen by the down-regulation of antioxidant defense](http://www.ncbi.nlm.nih.gov/pubmed?term=(RNAi knockdown of rice SE5 gene is sensitive to the herbicide methyl viologen by the down-regulation of antioxidant defense%5BTitle%5D)),  Alleviation of seed germination inhibition, chlorophyll loss and ROS overproduction, as well as the induction of antioxidant defense were further observed when SE5 or HY1 was overexpressed in transgenic Arabidopsis plants, indicating that SE5 may be useful for molecular breeding designed to improve plant tolerance to oxidative stress
 2. __flower__, [Analysis of PHOTOPERIOD SENSITIVITY5 sheds light on the role of phytochromes in photoperiodic flowering in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(Analysis of PHOTOPERIOD SENSITIVITY5 sheds light on the role of phytochromes in photoperiodic flowering in rice%5BTitle%5D)),  Here, we show that the s73 mutant, identified in a gamma-irradiated Bahia collection, displays early flowering and photoperiodic insensitivity due to a null mutation in the PHOTOPERIOD SENSITIVITY5 (SE5) gene, which encodes an enzyme implicated in phytochrome chromophore biosynthesis
@@ -43,5 +45,7 @@ __RAPdb__: [Os06g0603000](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 
 ## Connection
 1. __Ehd1__, __Se5~OsHY1~OsHO1~YGL2__, [Analysis of PHOTOPERIOD SENSITIVITY5 sheds light on the role of phytochromes in photoperiodic flowering in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(Analysis of PHOTOPERIOD SENSITIVITY5 sheds light on the role of phytochromes in photoperiodic flowering in rice%5BTitle%5D)),  Early heading date1 (Ehd1), an additional rice floral activator, was also highly expressed in the s73 mutant, suggesting that SE5 represses Ehd1 in wild-type plants, Silencing of Ehd1 in both Bahia and s73 backgrounds indicated that SE5 regulates Ehd1 expression
+
+## Key figures
 
 

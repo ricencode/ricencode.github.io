@@ -18,9 +18,13 @@ __RAPdb__: [Os02g0523500](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 ## Genbank accession number
 [AY320037](http://www.ncbi.nlm.nih.gov/nuccore/AY320037)
 
+## Expression information
+
 ## Key message
 1. __endosperm__, [The cytoplasmic-localized, cytoskeletal-associated RNA binding protein OsTudor-SN: evidence for an essential role in storage protein RNA transport and localization](http://www.ncbi.nlm.nih.gov/pubmed?term=(The cytoplasmic-localized, cytoskeletal-associated RNA binding protein OsTudor-SN: evidence for an essential role in storage protein RNA transport and localization%5BTitle%5D)),  Consistent with this view, GFP-tagged OsTudor-SN is observed in living endosperm sections as moving particles, a property inhibited by microfilament inhibitors
 
 ## Connection
+
+## Key figures
 
 

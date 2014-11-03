@@ -19,6 +19,8 @@ __RAPdb__: [Os03g0318600](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 
 ## Genbank accession number
 
+## Expression information
+
 ## Key message
 1. __root__, [Identification of a novel rice bZIP-type transcription factor gene,OsbZIP1, involved in response to infection ofMagnaporthe grisea](http://www.ncbi.nlm.nih.gov/pubmed?term=(Identification of a novel rice bZIP-type transcription factor gene,OsbZIP1, involved in response to infection ofMagnaporthe grisea%5BTitle%5D)),  Northern blotting analysis showed thatOsbZIP1 was constitutively expressed in the roots and strongly induced in rice leaves in response to infection with both the compatible race MS220 and incompatible race 131 ofM
 2. __salicylic acid__, [Identification of a novel rice bZIP-type transcription factor gene,OsbZIP1, involved in response to infection ofMagnaporthe grisea](http://www.ncbi.nlm.nih.gov/pubmed?term=(Identification of a novel rice bZIP-type transcription factor gene,OsbZIP1, involved in response to infection ofMagnaporthe grisea%5BTitle%5D)),  Furthermore, OsbZIP1 expression could be rapidly induced in leaves treated with salicylic acid, jasmonic acid, and abscisic acid, These results indicate that the OsbZIP1 may function as a transcription factor and may play a role in salicylic acid-dependent signal transduction pathway for defense of rice against pathogens
@@ -28,5 +30,7 @@ __RAPdb__: [Os03g0318600](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 6. __defense__, ["Identification of a novel rice bZIP-type transcription factor gene,OsbZIP1, involved in response to infection ofMagnaporthe grisea"](http://www.ncbi.nlm.nih.gov/pubmed?term=("Identification of a novel rice bZIP-type transcription factor gene,OsbZIP1, involved in response to infection ofMagnaporthe grisea"%5BTitle%5D)),  These results indicate that the OsbZIP1 may function as a transcription factor and may play a role in salicylic acid-dependent signal transduction pathway for defense of rice against pathogens
 
 ## Connection
+
+## Key figures
 
 

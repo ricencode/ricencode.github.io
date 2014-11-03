@@ -19,6 +19,8 @@ __RAPdb__: [Os08g0345800](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 
 ## Genbank accession number
 
+## Expression information
+
 ## Key message
 1. __starch__, [Identification of the ADP-glucose pyrophosphorylase isoforms essential for starch synthesis in the leaf and seed endosperm of rice (Oryza sativa L.)](http://www.ncbi.nlm.nih.gov/pubmed?term=(Identification of the ADP-glucose pyrophosphorylase isoforms essential for starch synthesis in the leaf and seed endosperm of rice (Oryza sativa L.)%5BTitle%5D)),  Analysis of osagps2 and osagpl2 mutants revealed that a lesion of one of the two cytosolic isoforms, OsAGPL2 and OsAGPS2b, causes a shrunken endosperm due to a remarkable reduction in starch synthesis
 2. __seed__, [Identification of the ADP-glucose pyrophosphorylase isoforms essential for starch synthesis in the leaf and seed endosperm of rice (Oryza sativa L.)](http://www.ncbi.nlm.nih.gov/pubmed?term=(Identification of the ADP-glucose pyrophosphorylase isoforms essential for starch synthesis in the leaf and seed endosperm of rice (Oryza sativa L.)%5BTitle%5D)),  In contrast, two isoforms, SSU OsAGPS2b which is a product of a seed-specific transcript of OsAGPS2, and LSU OsAGPL2, are localized in the cytosol
@@ -32,5 +34,7 @@ __RAPdb__: [Os08g0345800](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 3. __OsAPL3__, __OsAPS2~OsAGPS2b__, [Gene expression of ADP-glucose pyrophosphorylase and starch contents in rice cultured cells are cooperatively regulated by sucrose and ABA](http://www.ncbi.nlm.nih.gov/pubmed?term=(Gene expression of ADP-glucose pyrophosphorylase and starch contents in rice cultured cells are cooperatively regulated by sucrose and ABA%5BTitle%5D)), Six cDNA clones encoding two small subunits and four large subunits of ADP-glucose pyrophosphorylase (AGPase) were mined from the database of rice full-length cDNAs, cloned and subsequently named: OsAPS1, OsAPS2, OsAPL1, OsAPL2, OsAPL3 and OsAPL4
 4. __OsAPL4~OsAGPL4__, __OsAPS2~OsAGPS2b__, [Gene expression of ADP-glucose pyrophosphorylase and starch contents in rice cultured cells are cooperatively regulated by sucrose and ABA](http://www.ncbi.nlm.nih.gov/pubmed?term=(Gene expression of ADP-glucose pyrophosphorylase and starch contents in rice cultured cells are cooperatively regulated by sucrose and ABA%5BTitle%5D)), Six cDNA clones encoding two small subunits and four large subunits of ADP-glucose pyrophosphorylase (AGPase) were mined from the database of rice full-length cDNAs, cloned and subsequently named: OsAPS1, OsAPS2, OsAPL1, OsAPL2, OsAPL3 and OsAPL4, OsAPS2 and OsAPL4 were constitutively expressed and these isoforms were coordinated with starch accumulation in the developing rice seed
 5. __OsAPS1~OsAGPS1__, __OsAPS2~OsAGPS2b__, [Gene expression of ADP-glucose pyrophosphorylase and starch contents in rice cultured cells are cooperatively regulated by sucrose and ABA](http://www.ncbi.nlm.nih.gov/pubmed?term=(Gene expression of ADP-glucose pyrophosphorylase and starch contents in rice cultured cells are cooperatively regulated by sucrose and ABA%5BTitle%5D)), Six cDNA clones encoding two small subunits and four large subunits of ADP-glucose pyrophosphorylase (AGPase) were mined from the database of rice full-length cDNAs, cloned and subsequently named: OsAPS1, OsAPS2, OsAPL1, OsAPL2, OsAPL3 and OsAPL4
+
+## Key figures
 
 

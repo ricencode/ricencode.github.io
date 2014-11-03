@@ -18,6 +18,8 @@ __RAPdb__: [Os03g0644400](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 
 ## Genbank accession number
 
+## Expression information
+
 ## Key message
 1. __salt stress__, [Functional analysis of a novel Cys2/His2-type zinc finger protein involved in salt tolerance in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(Functional analysis of a novel Cys2/His2-type zinc finger protein involved in salt tolerance in rice%5BTitle%5D)), " The ZFP179 transgenic rice exhibited significantly increased tolerance to oxidative stress, the reactive oxygen species (ROS)-scavenging ability, and expression levels of a number of stress-related genes, including OsDREB2A, OsP5CS OsProT, and OsLea3 under salt stress"
 2. __drought__, [Overexpression of a TFIIIA-type zinc finger protein gene ZFP252 enhances drought and salt tolerance in rice (Oryza sativa L.)](http://www.ncbi.nlm.nih.gov/pubmed?term=(Overexpression of a TFIIIA-type zinc finger protein gene ZFP252 enhances drought and salt tolerance in rice (Oryza sativa L.)%5BTitle%5D)), We previously identified a salt and drought stress-responsive TFIIIA-type zinc finger protein gene ZFP252 from rice,Overexpression of a TFIIIA-type zinc finger protein gene ZFP252 enhances drought and salt tolerance in rice (Oryza sativa L.)
@@ -34,5 +36,7 @@ __RAPdb__: [Os03g0644400](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 2. __OsDREB2A__, __OsProT~ProT__, [Functional analysis of a novel Cys2/His2-type zinc finger protein involved in salt tolerance in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(Functional analysis of a novel Cys2/His2-type zinc finger protein involved in salt tolerance in rice%5BTitle%5D)),  The ZFP179 transgenic rice exhibited significantly increased tolerance to oxidative stress, the reactive oxygen species (ROS)-scavenging ability, and expression levels of a number of stress-related genes, including OsDREB2A, OsP5CS OsProT, and OsLea3 under salt stress
 3. __OsLEA3~OsLEA3-1__, __OsProT~ProT__, [Functional analysis of a novel Cys2/His2-type zinc finger protein involved in salt tolerance in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(Functional analysis of a novel Cys2/His2-type zinc finger protein involved in salt tolerance in rice%5BTitle%5D)),  The ZFP179 transgenic rice exhibited significantly increased tolerance to oxidative stress, the reactive oxygen species (ROS)-scavenging ability, and expression levels of a number of stress-related genes, including OsDREB2A, OsP5CS OsProT, and OsLea3 under salt stress
 4. __OsP5CS~OsP5CS1__, __OsProT~ProT__, [Functional analysis of a novel Cys2/His2-type zinc finger protein involved in salt tolerance in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(Functional analysis of a novel Cys2/His2-type zinc finger protein involved in salt tolerance in rice%5BTitle%5D)),  The ZFP179 transgenic rice exhibited significantly increased tolerance to oxidative stress, the reactive oxygen species (ROS)-scavenging ability, and expression levels of a number of stress-related genes, including OsDREB2A, OsP5CS OsProT, and OsLea3 under salt stress
+
+## Key figures
 
 

@@ -20,6 +20,8 @@ __RAPdb__: [Os02g0576600](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 ## Genbank accession number
 [AB091674](http://www.ncbi.nlm.nih.gov/nuccore/AB091674)
 
+## Expression information
+
 ## Key message
 1. __leaf__, [Cloning and expression analysis of rice sucrose transporter genes OsSUT2M and OsSUT5Z](http://www.ncbi.nlm.nih.gov/pubmed?term=(Cloning and expression analysis of rice sucrose transporter genes OsSUT2M and OsSUT5Z%5BTitle%5D)),  In vegetative organs, transcripts of OsSUT2M were higher in source leaf blades than in other organs at the same development stage, whereas transcripts of OsSUT5Z were less traceable in all organs investigated
 2. __transporter__, [Cloning and expression analysis of rice sucrose transporter genes OsSUT2M and OsSUT5Z](http://www.ncbi.nlm.nih.gov/pubmed?term=(Cloning and expression analysis of rice sucrose transporter genes OsSUT2M and OsSUT5Z%5BTitle%5D)), Two sucrose transporter (SUT) cDNAs, OsSUT2M and OsSUT5Z, were isolated from rice (Oryza sativa L, The TopPred program suggested that both sucrose transporter proteins, OsSUT2M and OsSUT5Z, consist of potentially 12 transmembrane domains,Cloning and expression analysis of rice sucrose transporter genes OsSUT2M and OsSUT5Z
@@ -29,5 +31,7 @@ __RAPdb__: [Os02g0576600](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 ## Connection
 1. __OsSUT2~OsSUT2M__, __OsSUT5~OsSUT5Z__, [Cloning and expression analysis of rice sucrose transporter genes OsSUT2M and OsSUT5Z](http://www.ncbi.nlm.nih.gov/pubmed?term=(Cloning and expression analysis of rice sucrose transporter genes OsSUT2M and OsSUT5Z%5BTitle%5D)), Two sucrose transporter (SUT) cDNAs, OsSUT2M and OsSUT5Z, were isolated from rice (Oryza sativa L, The TopPred program suggested that both sucrose transporter proteins, OsSUT2M and OsSUT5Z, consist of potentially 12 transmembrane domains, Semi-quantitative RT-PCR was carried out to investigate the gene expression patterns of OsSUT2M and OsSUT5Z, In vegetative organs, transcripts of OsSUT2M were higher in source leaf blades than in other organs at the same development stage, whereas transcripts of OsSUT5Z were less traceable in all organs investigated,Cloning and expression analysis of rice sucrose transporter genes OsSUT2M and OsSUT5Z
 2. __OsSUT1__, __OsSUT5~OsSUT5Z__, [Transport activity of rice sucrose transporters OsSUT1 and OsSUT5](http://www.ncbi.nlm.nih.gov/pubmed?term=(Transport activity of rice sucrose transporters OsSUT1 and OsSUT5%5BTitle%5D)),  Expression of OsSUT1 and OsSUT5 resulted in sucrose-dependent currents that were analyzed by two-electrode voltage clamping, In conclusion, differences in transport activity between OsSUT1 and OsSUT5 indicate that type II SUTs have a range of transport activities that are tuned to their function in the plant,Transport activity of rice sucrose transporters OsSUT1 and OsSUT5
+
+## Key figures
 
 

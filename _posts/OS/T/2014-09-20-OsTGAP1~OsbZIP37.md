@@ -20,6 +20,8 @@ __RAPdb__: [Os04g0637000](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 ## Genbank accession number
 [AK073715](http://www.ncbi.nlm.nih.gov/nuccore/AK073715)
 
+## Expression information
+
 ## Key message
 1. __phosphate__, [OsTGAP1, a bZIP transcription factor, coordinately regulates the inductive production of diterpenoid phytoalexins in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(OsTGAP1, a bZIP transcription factor, coordinately regulates the inductive production of diterpenoid phytoalexins in rice%5BTitle%5D)),  We also found that OsTGAP1 overexpression can influence transcriptional up-regulation of OsDXS3 in the methylerythritol phosphate pathway, eventually leading to inductive production of diterpenoid phytoalexins
 2. __transcription factor__, [OsTGAP1, a bZIP transcription factor, coordinately regulates the inductive production of diterpenoid phytoalexins in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(OsTGAP1, a bZIP transcription factor, coordinately regulates the inductive production of diterpenoid phytoalexins in rice%5BTitle%5D)),  Here, we report a chitin oligosaccharide elicitor-inducible basic leucine zipper transcription factor, OsTGAP1, which is essential for momilactone biosynthesis and regulates the expression of the five genes in the cluster,OsTGAP1, a bZIP transcription factor, coordinately regulates the inductive production of diterpenoid phytoalexins in rice
@@ -30,5 +32,7 @@ __RAPdb__: [Os04g0637000](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 3. __MAS__, __OsTGAP1~OsbZIP37__, [OsTGAP1, a bZIP transcription factor, coordinately regulates the inductive production of diterpenoid phytoalexins in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(OsTGAP1, a bZIP transcription factor, coordinately regulates the inductive production of diterpenoid phytoalexins in rice%5BTitle%5D)),  The knock-out mutant for OsTGAP1 had almost no expression of the five clustered genes (OsCPS4, OsKSL4, CYP99A2, CYP99A3, and OsMAS) or production of momilactones upon elicitor treatment
 4. __CYP99A2__, __OsTGAP1~OsbZIP37__, [OsTGAP1, a bZIP transcription factor, coordinately regulates the inductive production of diterpenoid phytoalexins in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(OsTGAP1, a bZIP transcription factor, coordinately regulates the inductive production of diterpenoid phytoalexins in rice%5BTitle%5D)),  The knock-out mutant for OsTGAP1 had almost no expression of the five clustered genes (OsCPS4, OsKSL4, CYP99A2, CYP99A3, and OsMAS) or production of momilactones upon elicitor treatment
 5. __CYP99A3__, __OsTGAP1~OsbZIP37__, [OsTGAP1, a bZIP transcription factor, coordinately regulates the inductive production of diterpenoid phytoalexins in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(OsTGAP1, a bZIP transcription factor, coordinately regulates the inductive production of diterpenoid phytoalexins in rice%5BTitle%5D)),  The knock-out mutant for OsTGAP1 had almost no expression of the five clustered genes (OsCPS4, OsKSL4, CYP99A2, CYP99A3, and OsMAS) or production of momilactones upon elicitor treatment
+
+## Key figures
 
 

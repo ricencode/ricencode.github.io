@@ -23,6 +23,8 @@ __RAPdb__: [Os12g0555600](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 ## Genbank accession number
 [AK242601](http://www.ncbi.nlm.nih.gov/nuccore/AK242601)
 
+## Expression information
+
 ## Key message
 1. __cell cycle__, [Rice slender leaf 1 gene encodes cellulose synthase-like D4 and is specifically expressed in M-phase cells to regulate cell proliferation](http://www.ncbi.nlm.nih.gov/pubmed?term=(Rice slender leaf 1 gene encodes cellulose synthase-like D4 and is specifically expressed in M-phase cells to regulate cell proliferation%5BTitle%5D)),  Double-target in situ hybridization and quantitative RT-PCR analyses revealed that SLE1 was expressed specifically during the M-phase of the cell cycle, and suggested that the cell-cycle regulation was altered in sle1 mutants
 2. __panicle__, [OsCD1 encodes a putative member of the cellulose synthase-like D sub-family and is essential for rice plant architecture and growth](http://www.ncbi.nlm.nih.gov/pubmed?term=(OsCD1 encodes a putative member of the cellulose synthase-like D sub-family and is essential for rice plant architecture and growth%5BTitle%5D)),  Analysis of OsCD1 promoter with GUS fusion expression shows that OsCD1 exhibits higher expression in young meristem tissues such as fresh roots, young panicle and stem apical meristem
@@ -60,5 +62,7 @@ __RAPdb__: [Os12g0555600](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 ## Connection
 1. __OsCD1~OsCSLD4~NRL1~ND1~sle1__, __RL9~SLL1__, [Isolation and characterization of a rice mutant with narrow and rolled leaves](http://www.ncbi.nlm.nih.gov/pubmed?term=(Isolation and characterization of a rice mutant with narrow and rolled leaves%5BTitle%5D)),  NAL7 and SLL1 were found to be upregulated, whereas OsAGO7 were downregulated in the nrl1 mutant
 2. __OsAGO7~shl4~SHO2__, __OsCD1~OsCSLD4~NRL1~ND1~sle1__, [Isolation and characterization of a rice mutant with narrow and rolled leaves](http://www.ncbi.nlm.nih.gov/pubmed?term=(Isolation and characterization of a rice mutant with narrow and rolled leaves%5BTitle%5D)),  NAL7 and SLL1 were found to be upregulated, whereas OsAGO7 were downregulated in the nrl1 mutant
+
+## Key figures
 
 

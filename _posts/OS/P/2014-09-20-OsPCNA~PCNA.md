@@ -20,6 +20,8 @@ __RAPdb__: [Os02g0805200](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 ## Genbank accession number
 [AK071591](http://www.ncbi.nlm.nih.gov/nuccore/AK071591)
 
+## Expression information
+
 ## Key message
 1. __meristem__, [Characterization of plant proliferating cell nuclear antigen (PCNA) and flap endonuclease-1 (FEN-1), and their distribution in mitotic and meiotic cell cycles](http://www.ncbi.nlm.nih.gov/pubmed?term=(Characterization of plant proliferating cell nuclear antigen (PCNA) and flap endonuclease-1 (FEN-1), and their distribution in mitotic and meiotic cell cycles%5BTitle%5D)),  Northern and Western blotting analysis revealed that OsPCNA and OsFEN-1 were present in meristematic tissues such as cultured cells, shoot apical meristem and root apical meristem
 2. __shoot__, [Characterization of plant proliferating cell nuclear antigen (PCNA) and flap endonuclease-1 (FEN-1), and their distribution in mitotic and meiotic cell cycles](http://www.ncbi.nlm.nih.gov/pubmed?term=(Characterization of plant proliferating cell nuclear antigen (PCNA) and flap endonuclease-1 (FEN-1), and their distribution in mitotic and meiotic cell cycles%5BTitle%5D)),  Northern and Western blotting analysis revealed that OsPCNA and OsFEN-1 were present in meristematic tissues such as cultured cells, shoot apical meristem and root apical meristem
@@ -34,5 +36,7 @@ __RAPdb__: [Os02g0805200](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 11. __root__, [Gene for proliferating-cell nuclear antigen (DNA polymerase 6 auxiliary protein) is present in both mammalian and higher plant genomes](http://www.ncbi.nlm.nih.gov/pubmed?term=(Gene for proliferating-cell nuclear antigen (DNA polymerase 6 auxiliary protein) is present in both mammalian and higher plant genomes%5BTitle%5D)),  Immunoblot analysis of the soluble extract of soybean root tips with monospecific anti-PCNA/cyclin identified an immunoreactive protein with an apparent Mr of 34,000, Immunohistochemical analysis revealed the presence of an immunoreactive PCNA/cyclin protein in the nuclei of cells in the meristem of soybean root tips
 
 ## Connection
+
+## Key figures
 
 

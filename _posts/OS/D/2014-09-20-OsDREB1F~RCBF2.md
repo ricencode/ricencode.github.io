@@ -20,6 +20,8 @@ __RAPdb__: [Os01g0968800](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 ## Genbank accession number
 [AY345234](http://www.ncbi.nlm.nih.gov/nuccore/AY345234), [AY345234](http://www.ncbi.nlm.nih.gov/nuccore/AY345234)
 
+## Expression information
+
 ## Key message
 1. __temperature__, ["Overexpression of a rice OsDREB1F gene increases salt, drought, and low temperature tolerance in both Arabidopsis and rice"](http://www.ncbi.nlm.nih.gov/pubmed?term=("Overexpression of a rice OsDREB1F gene increases salt, drought, and low temperature tolerance in both Arabidopsis and rice"%5BTitle%5D)), " Transgenic plants harbouring OsDREB1F gene led to enhanced tolerance to salt, drought, and low temperature in both rice and Arabidopsis,Overexpression of a rice OsDREB1F gene increases salt, drought, and low temperature tolerance in both Arabidopsis and rice"
 2. __transcription factor__, [Overexpression of a rice OsDREB1F gene increases salt, drought, and low temperature tolerance in both Arabidopsis and rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(Overexpression of a rice OsDREB1F gene increases salt, drought, and low temperature tolerance in both Arabidopsis and rice%5BTitle%5D)),  Here, a novel rice DREB transcription factor, OsDREB1F, was cloned and characterised via subtractive suppression hybridisation (SSH) from upland rice
@@ -34,5 +36,7 @@ __RAPdb__: [Os01g0968800](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 11. __salt__, ["Overexpression of a rice OsDREB1F gene increases salt, drought, and low temperature tolerance in both Arabidopsis and rice"](http://www.ncbi.nlm.nih.gov/pubmed?term=("Overexpression of a rice OsDREB1F gene increases salt, drought, and low temperature tolerance in both Arabidopsis and rice"%5BTitle%5D)), " Expression analysis revealed that OsDREB1F gene was induced by salt, drought, cold stresses, and also ABA application, but not by pathogen, wound, and H2O2, Transgenic plants harbouring OsDREB1F gene led to enhanced tolerance to salt, drought, and low temperature in both rice and Arabidopsis,Overexpression of a rice OsDREB1F gene increases salt, drought, and low temperature tolerance in both Arabidopsis and rice"
 
 ## Connection
+
+## Key figures
 
 

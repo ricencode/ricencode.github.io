@@ -18,8 +18,12 @@ __RAPdb__: [Os05g0539700](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 ## Genbank accession number
 [AJ438612](http://www.ncbi.nlm.nih.gov/nuccore/AJ438612)
 
+## Expression information
+
 ## Key message
 
 ## Connection
+
+## Key figures
 
 

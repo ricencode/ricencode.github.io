@@ -18,11 +18,15 @@ __RAPdb__: [Os06g0129400](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 ## Genbank accession number
 [AK243620](http://www.ncbi.nlm.nih.gov/nuccore/AK243620)
 
+## Expression information
+
 ## Key message
 1. __shoot__, [Functional characterization of the rice SPX-MFS family reveals a key role of OsSPX-MFS1 in controlling phosphate homeostasis in leaves](http://www.ncbi.nlm.nih.gov/pubmed?term=(Functional characterization of the rice SPX-MFS family reveals a key role of OsSPX-MFS1 in controlling phosphate homeostasis in leaves%5BTitle%5D)),  * Transcript analyses revealed that members of the SPX-MFS family were mainly expressed in the shoots, with OsSPX-MFS1 and OsSPX-MFS3 being suppressed by Pi deficiency, while OsSPX-MFS2 was induced
 2. __ pi __, [Functional characterization of the rice SPX-MFS family reveals a key role of OsSPX-MFS1 in controlling phosphate homeostasis in leaves](http://www.ncbi.nlm.nih.gov/pubmed?term=(Functional characterization of the rice SPX-MFS family reveals a key role of OsSPX-MFS1 in controlling phosphate homeostasis in leaves%5BTitle%5D)),  * Transcript analyses revealed that members of the SPX-MFS family were mainly expressed in the shoots, with OsSPX-MFS1 and OsSPX-MFS3 being suppressed by Pi deficiency, while OsSPX-MFS2 was induced
 
 ## Connection
 1. __OsSPX-MFS1~OsPSS1__, __OsSPX-MFS3~OsPSS3__, [Functional characterization of the rice SPX-MFS family reveals a key role of OsSPX-MFS1 in controlling phosphate homeostasis in leaves](http://www.ncbi.nlm.nih.gov/pubmed?term=(Functional characterization of the rice SPX-MFS family reveals a key role of OsSPX-MFS1 in controlling phosphate homeostasis in leaves%5BTitle%5D)),  * Transcript analyses revealed that members of the SPX-MFS family were mainly expressed in the shoots, with OsSPX-MFS1 and OsSPX-MFS3 being suppressed by Pi deficiency, while OsSPX-MFS2 was induced
+
+## Key figures
 
 

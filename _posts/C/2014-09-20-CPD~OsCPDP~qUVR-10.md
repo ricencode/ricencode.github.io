@@ -25,6 +25,8 @@ __RAPdb__: [Os10g0167600](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 ## Genbank accession number
 [AB096003](http://www.ncbi.nlm.nih.gov/nuccore/AB096003), [AB096003](http://www.ncbi.nlm.nih.gov/nuccore/AB096003)
 
+## Expression information
+
 ## Key message
 1. __growth__, [Cyclobutane pyrimidine dimer (CPD) photolyase repairs ultraviolet-B-induced CPDs in rice chloroplast and mitochondrial DNA](http://www.ncbi.nlm.nih.gov/pubmed?term=(Cyclobutane pyrimidine dimer (CPD) photolyase repairs ultraviolet-B-induced CPDs in rice chloroplast and mitochondrial DNA%5BTitle%5D)),  UV-B radiation damages nuclear, chloroplast and mitochondrial DNA by the formation of cyclobutane pyrimidine dimers (CPDs), which are the primary UV-B-induced DNA lesions, and are a principal cause of UV-B-induced growth inhibition in plants
 2. __resistant__, [Spontaneously occurring mutations in the cyclobutane pyrimidine dimer photolyase gene cause different sensitivities to ultraviolet-B in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(Spontaneously occurring mutations in the cyclobutane pyrimidine dimer photolyase gene cause different sensitivities to ultraviolet-B in rice%5BTitle%5D)),  We previously indicated that UV-resistant rice cultivars are better able to repair cyclobutane pyrimidine dimers (CPDs) through photorepair than are UV-sensitive cultivars, Surjamkhi (indica) exhibited greater sensitivity to UVB radiation and was more deficient in CPD photorepair ability compared with UV-resistant Sasanishiki (japonica)
@@ -38,5 +40,7 @@ __RAPdb__: [Os10g0167600](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 10. __resistant__, [Increase in CPD photolyase activity functions effectively to prevent growth inhibition caused by UVB radiation](http://www.ncbi.nlm.nih.gov/pubmed?term=(Increase in CPD photolyase activity functions effectively to prevent growth inhibition caused by UVB radiation%5BTitle%5D)), " Here, we tested whether CPD photolyase function determines the UVB sensitivity of rice (Oryza sativa) by generating transgenic rice plants bearing the CPD photolyase gene of the UV-resistant rice cultivar Sasanishiki in the sense orientation (S-B and S-C lines) or the antisense orientation (AS-D line),7-fold higher CPD photolyase activities than the wild-type, respectively, were significantly more resistant to UVB-induced growth damage, and maintained significantly lower CPD levels in their leaves during growth under elevated UVB radiation, Notably, the S-C plant was not more resistant to UVB-induced growth inhibition than the S-B plant, even though it had much higher CPD photolyase activity"
 
 ## Connection
+
+## Key figures
 
 

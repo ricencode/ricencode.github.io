@@ -17,8 +17,12 @@ __RAPdb__: [Os03g0780500](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 
 ## Genbank accession number
 
+## Expression information
+
 ## Key message
 
 ## Connection
+
+## Key figures
 
 

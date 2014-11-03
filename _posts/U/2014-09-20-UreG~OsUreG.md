@@ -18,8 +18,12 @@ __RAPdb__: [Os05g0565200](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 ## Genbank accession number
 [HM369059](http://www.ncbi.nlm.nih.gov/nuccore/HM369059)
 
+## Expression information
+
 ## Key message
 
 ## Connection
+
+## Key figures
 
 

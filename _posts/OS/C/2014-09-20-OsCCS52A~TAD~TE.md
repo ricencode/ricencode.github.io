@@ -20,6 +20,8 @@ __RAPdb__: [Os03g0123300](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 ## Genbank accession number
 [AK058595](http://www.ncbi.nlm.nih.gov/nuccore/AK058595)
 
+## Expression information
+
 ## Key message
 1. __seedling__, [Potential role of the rice OsCCS52A gene in endoreduplication](http://www.ncbi.nlm.nih.gov/pubmed?term=(Potential role of the rice OsCCS52A gene in endoreduplication%5BTitle%5D)),  In rice, OsCCS52A is highly expressed in seedlings, flowers, immature panicles and 15 DAP kernels
 2. __grain__, [Rice APC/C(TE) controls tillering by mediating the degradation of MONOCULM 1](http://www.ncbi.nlm.nih.gov/pubmed?term=(Rice APC/C(TE) controls tillering by mediating the degradation of MONOCULM 1%5BTitle%5D)),  We conclude that besides having a conserved role in regulating cell cycle, APC/C(TE) has a unique function in regulating the plant-specific postembryonic shoot branching and tillering, which are major determinants of plant architecture and grain yield
@@ -36,5 +38,7 @@ __RAPdb__: [Os03g0123300](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 13. __panicle__, [Potential role of the rice OsCCS52A gene in endoreduplication](http://www.ncbi.nlm.nih.gov/pubmed?term=(Potential role of the rice OsCCS52A gene in endoreduplication%5BTitle%5D)),  In rice, OsCCS52A is highly expressed in seedlings, flowers, immature panicles and 15 DAP kernels
 
 ## Connection
+
+## Key figures
 
 

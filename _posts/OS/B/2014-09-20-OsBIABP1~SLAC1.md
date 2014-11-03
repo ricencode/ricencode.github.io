@@ -18,6 +18,8 @@ __RAPdb__: [Os04g0674700](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 
 ## Genbank accession number
 
+## Expression information
+
 ## Key message
 1. __defense response__, ["Molecular characterization of a defense-related AMP-binding protein gene, OsBIABP1, from rice"](http://www.ncbi.nlm.nih.gov/pubmed?term=("Molecular characterization of a defense-related AMP-binding protein gene, OsBIABP1, from rice"%5BTitle%5D)),  Our results suggest that OsBIABP1 may be a defense-related AMP-binding protein that is involved in the regulation of defense response through SA and/or JA/ET signaling pathways
 2. __stem__, [Molecular characterization of a defense-related AMP-binding protein gene, OsBIABP1, from rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(Molecular characterization of a defense-related AMP-binding protein gene, OsBIABP1, from rice%5BTitle%5D)),  OsBIABP1 is expressed in stems, leaves and flowers of rice plants, but is not expressed, or expressed at a very low level, in rice roots
@@ -33,5 +35,7 @@ __RAPdb__: [Os04g0674700](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 12. __ sa __, [Molecular characterization of a defense-related AMP-binding protein gene, OsBIABP1, from rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(Molecular characterization of a defense-related AMP-binding protein gene, OsBIABP1, from rice%5BTitle%5D)),  Our results suggest that OsBIABP1 may be a defense-related AMP-binding protein that is involved in the regulation of defense response through SA and/or JA/ET signaling pathways
 
 ## Connection
+
+## Key figures
 
 

@@ -18,6 +18,8 @@ __RAPdb__: [Os01g0670800](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 
 ## Genbank accession number
 
+## Expression information
+
 ## Key message
 1. __ awn __, [The DROOPING LEAF and OsETTIN2 genes promote awn development in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(The DROOPING LEAF and OsETTIN2 genes promote awn development in rice%5BTitle%5D)),  Here, we found that the genes DROOPING LEAF (DL) and OsETTIN2 (OsETT2) are involved in awn development in the awned indica strain Kasalath, Genetic analyses and RNA-silencing experiments indicate that DL and OsETT2 act independently in awn formation, and that either gene alone is not sufficient for awn development, OsETT2 is expressed in the awn primordium in the awned indica floret, but not in the awnless japonica floret except in the provascular bundle, We hypothesize that loss of expression of OsETT2 in the awn primordium is probably associated with the failure of awn formation in japonica strains
 2. __leaf__, [The DROOPING LEAF and OsETTIN2 genes promote awn development in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(The DROOPING LEAF and OsETTIN2 genes promote awn development in rice%5BTitle%5D)),  Here, we found that the genes DROOPING LEAF (DL) and OsETTIN2 (OsETT2) are involved in awn development in the awned indica strain Kasalath
@@ -35,5 +37,7 @@ __RAPdb__: [Os01g0670800](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 5. __OsETT2~OsETTIN2__, __OsMADS1~LHS1~AFO__, [Rice LHS1/OsMADS1 controls floret meristem specification by coordinated regulation of transcription factors and hormone signaling pathways](http://www.ncbi.nlm.nih.gov/pubmed?term=(Rice LHS1/OsMADS1 controls floret meristem specification by coordinated regulation of transcription factors and hormone signaling pathways%5BTitle%5D)),  We found that the OsMADS1 targets OsETTIN1 and OsETTIN2 redundantly ensure carpel differentiation
 6. __OsETT2~OsETTIN2__, __OSHB4__, [Rice LHS1/OsMADS1 controls floret meristem specification by coordinated regulation of transcription factors and hormone signaling pathways](http://www.ncbi.nlm.nih.gov/pubmed?term=(Rice LHS1/OsMADS1 controls floret meristem specification by coordinated regulation of transcription factors and hormone signaling pathways%5BTitle%5D)),  Direct regulation of other transcription factor genes like OsHB4 (a class III homeodomain Leu zipper member), OsBLH1 (a BEL1-like homeodomain member), OsKANADI2, OsKANADI4, and OsETTIN2 show its role in meristem maintenance, determinacy, and lateral organ development
 7. __DL__, __OsETT2~OsETTIN2__, [The DROOPING LEAF and OsETTIN2 genes promote awn development in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(The DROOPING LEAF and OsETTIN2 genes promote awn development in rice%5BTitle%5D)),  Here, we found that the genes DROOPING LEAF (DL) and OsETTIN2 (OsETT2) are involved in awn development in the awned indica strain Kasalath, Genetic analyses and RNA-silencing experiments indicate that DL and OsETT2 act independently in awn formation, and that either gene alone is not sufficient for awn development, OsETT2 is expressed in the awn primordium in the awned indica floret, but not in the awnless japonica floret except in the provascular bundle
+
+## Key figures
 
 

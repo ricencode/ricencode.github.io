@@ -18,9 +18,13 @@ __RAPdb__: [Os06g0658900](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 ## Genbank accession number
 [AX046728](http://www.ncbi.nlm.nih.gov/nuccore/AX046728)
 
+## Expression information
+
 ## Key message
 1. __seed__, [Metabolic redesign of vitamin E biosynthesis in plants for tocotrienol production and increased antioxidant content](http://www.ncbi.nlm.nih.gov/pubmed?term=(Metabolic redesign of vitamin E biosynthesis in plants for tocotrienol production and increased antioxidant content%5BTitle%5D)),  cDNAs encoding homogentisic acid geranylgeranyl transferase (HGGT), which catalyzes the committed step of tocotrienol biosynthesis, were isolated from barley, wheat and rice seeds, Overexpression of the barley HGGT in corn seeds resulted in an increase in tocotrienol and tocopherol content of as much as six-fold
 
 ## Connection
+
+## Key figures
 
 

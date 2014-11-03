@@ -17,11 +17,15 @@ __RAPdb__: [Os12g0277500](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 
 ## Genbank accession number
 
+## Expression information
+
 ## Key message
 1. __seedling__, [OsCpn60alpha1, encoding the plastid chaperonin 60alpha subunit, is essential for folding of rbcL](http://www.ncbi.nlm.nih.gov/pubmed?term=(OsCpn60alpha1, encoding the plastid chaperonin 60alpha subunit, is essential for folding of rbcL%5BTitle%5D)),  The oscpn60alpha1 mutant had a pale-green phenotype at the seedling stage and development ceased after the fourth leaf appeared, This demonstrated that OsCpn60alpha1 is required for the folding of rbcL and that failure of that process is seedling-lethal
 2. __leaf__, [OsCpn60alpha1, encoding the plastid chaperonin 60alpha subunit, is essential for folding of rbcL](http://www.ncbi.nlm.nih.gov/pubmed?term=(OsCpn60alpha1, encoding the plastid chaperonin 60alpha subunit, is essential for folding of rbcL%5BTitle%5D)),  The oscpn60alpha1 mutant had a pale-green phenotype at the seedling stage and development ceased after the fourth leaf appeared
 3. __chloroplast__, [OsCpn60alpha1, encoding the plastid chaperonin 60alpha subunit, is essential for folding of rbcL](http://www.ncbi.nlm.nih.gov/pubmed?term=(OsCpn60alpha1, encoding the plastid chaperonin 60alpha subunit, is essential for folding of rbcL%5BTitle%5D)),  Transiently expressed OsCpn60alpha1:GFP fusion protein was localized to the chloroplast stroma
 
 ## Connection
+
+## Key figures
 
 
