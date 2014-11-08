@@ -31,7 +31,7 @@ You can also contribute to this database by submitting information on new cloned
 
 
 ## Further information
-Further information concerning the details on querying and contributing to this database can be found in the manual.
+Further information concerning the details on querying and contributing to this database can be found in the [manual]({{ BASE_PATH }}/assets/ricencode-intro.pdf).
 
 
 
