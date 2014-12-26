@@ -33,5 +33,7 @@ You can also contribute to this database by submitting information on newly clon
 ## Further information
 Further information concerning the details on querying and contributing to this database can be found in the [manual]({{ BASE_PATH }}/assets/ricencode-intro.pdf).
 
+## Contact us
+If you encounter any problems or have any suggestions concerning this database, please send email to ywhzau at gmail.com.
 
 
