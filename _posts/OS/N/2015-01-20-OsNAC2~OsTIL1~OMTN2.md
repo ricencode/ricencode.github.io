@@ -1,0 +1,37 @@
+---
+layout: post
+title: "OsNAC2,OsTIL1,OMTN2"
+description: ""
+category: genes
+tags: [branching, tiller, tillering, dwarf, yield, shoot, tiller angle, growth, Gene]
+---
+{% include JB/setup %}
+
+## Information
+__Symbol__: OsNAC2,OsTIL1,OMTN2  
+__MSU__: [LOC_Os04g38720](http://rice.plantbiology.msu.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os04g38720)  
+__RAPdb__: [Os04g0460600](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os04g0460600)  
+
+## Publication
+1. [Overexpression of a NAC-domain protein promotes shoot branching in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(Overexpression of a NAC-domain protein promotes shoot branching in rice%5BTitle%5D)), 2007, New Phytol.
+
+## Genbank accession number
+
+## Expression information
+
+## Key message
+1. __branching__, [Overexpression of a NAC-domain protein promotes shoot branching in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(Overexpression of a NAC-domain protein promotes shoot branching in rice%5BTitle%5D)),  Overexpression of OsNAC2 regulates shoot branching in rice
+2. __tiller__, [Overexpression of a NAC-domain protein promotes shoot branching in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(Overexpression of a NAC-domain protein promotes shoot branching in rice%5BTitle%5D)),  Overexpression of OsNAC2 contributes tiller bud outgrowth, but does not affect tiller bud initiation
+3. __tiller__, [Overexpression of a NAC-domain protein promotes shoot branching in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(Overexpression of a NAC-domain protein promotes shoot branching in rice%5BTitle%5D)),  Here, an activation-tagging mutant Ostil1 (Oryza sativa tillering1) was characterized, which showed increased tillers, enlarged tiller angle and semidwarf phenotype
+4. __tillering__, [Overexpression of a NAC-domain protein promotes shoot branching in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(Overexpression of a NAC-domain protein promotes shoot branching in rice%5BTitle%5D)),  Here, an activation-tagging mutant Ostil1 (Oryza sativa tillering1) was characterized, which showed increased tillers, enlarged tiller angle and semidwarf phenotype
+5. __dwarf__, [Overexpression of a NAC-domain protein promotes shoot branching in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(Overexpression of a NAC-domain protein promotes shoot branching in rice%5BTitle%5D)),  Here, an activation-tagging mutant Ostil1 (Oryza sativa tillering1) was characterized, which showed increased tillers, enlarged tiller angle and semidwarf phenotype
+6. __yield__, [Overexpression of a NAC-domain protein promotes shoot branching in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(Overexpression of a NAC-domain protein promotes shoot branching in rice%5BTitle%5D)),  This suggests that OsNAC2 has potential utility for improving plant structure for higher light-use efficiency and higher yield potential in rice
+7. __shoot__, [Overexpression of a NAC-domain protein promotes shoot branching in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(Overexpression of a NAC-domain protein promotes shoot branching in rice%5BTitle%5D)),  Overexpression of OsNAC2 regulates shoot branching in rice
+8. __tiller angle__, [Overexpression of a NAC-domain protein promotes shoot branching in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(Overexpression of a NAC-domain protein promotes shoot branching in rice%5BTitle%5D)),  Here, an activation-tagging mutant Ostil1 (Oryza sativa tillering1) was characterized, which showed increased tillers, enlarged tiller angle and semidwarf phenotype
+9. __growth__, [Overexpression of a NAC-domain protein promotes shoot branching in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(Overexpression of a NAC-domain protein promotes shoot branching in rice%5BTitle%5D)),  Overexpression of OsNAC2 contributes tiller bud outgrowth, but does not affect tiller bud initiation
+
+## Connection
+
+## Key figures
+
+

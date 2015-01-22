@@ -5,7 +5,7 @@ tagline:
 ---
 {% include JB/setup %}
 
-__The knowledge of cloned rice genes lost in the information of rice functional genomic studies__
+__The knowledge of cloned rice genes lost in the information of rice functional genomics studies__
 
 ## Introdution
 More than 2204 cloned rice genes and 303 gene families comprised of 3381 genes were collected. For each gene, 
