@@ -16,8 +16,8 @@ publications and the text mining result of the publications were provided.
     
 ## How to query this database?
 
-This database was designed as a Shiny application and was deployed in the [Cloud](http://www.shinyapps.io/). 
-You can query this database [HERE](http://211.69.128.148:3838/ricencode/).
+This database was designed as a Shiny application and was deployed in the Cloud. 
+You can query this database [HERE](http://ricencode.ncpgr.cn).
 You can query this database using the genomic locus assigned by the [Rice Genome Annotation Project](http://rice.plantbiology.msu.edu/), 
 or the genomic locus assigned by the [Rice Annotation Project](http://rapdb.dna.affrc.go.jp/), or the gene symbol. 
 You can retrieve the basic information of a gene, the publications on a gene, the agronomic traits associated with a gene, the connections between genes from this database.
