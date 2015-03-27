@@ -34,6 +34,8 @@ __RAPdb__: [Os02g0743400](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 10. __tiller__, [A PIN1 family gene, OsPIN1, involved in auxin-dependent adventitious root emergence and tillering in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(A PIN1 family gene, OsPIN1, involved in auxin-dependent adventitious root emergence and tillering in rice%5BTitle%5D)),  Overexpression or suppression of the OsPIN1 expression through a transgenic approach resulted in changes of tiller numbers and shoot/root ratio, Taken together, these data suggest that OsPIN1 plays an important role in auxin-dependent adventitious root emergence and tillering,A PIN1 family gene, OsPIN1, involved in auxin-dependent adventitious root emergence and tillering in rice
 
 ## Connection
+1. __OsPIN1~REH1~PIN1b__, __RFL~APO2__, [Functions for rice RFL in vegetative axillary meristem specification and outgrowth.](http://www.ncbi.nlm.nih.gov/pubmed?term=(Functions for rice RFL in vegetative axillary meristem specification and outgrowth.%5BTitle%5D)),  Further, we report reduced expression of auxin transporter genes OsPIN1 and OsPIN3 in the culm of RFL knockdown transgenic plants
+2. __OsPIN1~REH1~PIN1b__, __RFL~APO2__, [Functions for rice RFL in vegetative axillary meristem specification and outgrowth.](http://www.ncbi.nlm.nih.gov/pubmed?term=(Functions for rice RFL in vegetative axillary meristem specification and outgrowth.%5BTitle%5D)),  These modified forms of RFL had only indirect effects on OsPIN1
 
 ## Key figures
 

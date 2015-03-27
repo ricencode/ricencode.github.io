@@ -35,6 +35,7 @@ __RAPdb__: [Os04g0674700](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 12. __ sa __, [Molecular characterization of a defense-related AMP-binding protein gene, OsBIABP1, from rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(Molecular characterization of a defense-related AMP-binding protein gene, OsBIABP1, from rice%5BTitle%5D)),  Our results suggest that OsBIABP1 may be a defense-related AMP-binding protein that is involved in the regulation of defense response through SA and/or JA/ET signaling pathways
 
 ## Connection
+1. __OsBIABP1~SLAC1__, __SLAC7__, [Loss-of-function mutation of rice SLAC7 decreases chloroplast stability and induces a photoprotection mechanism in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=(Loss-of-function mutation of rice SLAC7 decreases chloroplast stability and induces a photoprotection mechanism in rice.%5BTitle%5D)),  SLAC7 under the control of AtSLAC1 promoter could partially complement the phenotypes of Arabidopsis slac1 mutants, indicating a partial conservation of SLAC protein functions
 
 ## Key figures
 
