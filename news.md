@@ -316,9 +316,9 @@ group: navigation
 * 2015/Jun/5 add new gene FUWA
 * 2015/Jun/5 Lsi2 == OsLsi2
 * 2015/Jun/4 add new pub for OsIAA6
-* 2015/Jun/4 add new gene IAA6|OsIAA6
+* 2015/Jun/4 add new gene IAA6/OsIAA6
 * 2015/Jun/4 add new pub for OsMADS72
-* 2015/Jun/4 add new gene OsMADS72|qSTL3
+* 2015/Jun/4 add new gene OsMADS72/qSTL3
 * 2015/Jun/4 add new pub on Osa-miR820
 * 2015/Jun/4 add new pub for spl5
 * 2015/Jun/4 add new pub on R Genes
@@ -415,7 +415,7 @@ group: navigation
 * 2015/Mar/26 add new info for OsDSS1
 * 2015/Mar/26 add new gene OsDSS1
 * 2015/Mar/26 add pub for OsRR22
-* 2015/Mar/26 add new gene OsRR22|HST1
+* 2015/Mar/26 add new gene OsRR22/HST1
 * 2015/Mar/26 add new pub on GWAS on leaf traits
 * 2015/Mar/25 add new pub on Salt Response
 * 2015/Mar/25 add new pub on autophagy and biomass
@@ -610,7 +610,7 @@ group: navigation
 * 2015/Jan/20 add new gene ST2
 * 2015/Jan/20 add new pub on Photosynthesis
 * 2015/Jan/20 add new gene OsHAP2E
-* 2015/Jan/20 OsPIN1|REH1 == PIN1b
+* 2015/Jan/20 OsPIN1/REH1 == PIN1b
 * 2015/Jan/20 add new pub on salt-induced cellular senescence and cell division
 * 2015/Jan/20 add new pub for OsNF-YB1 and OsGIRL1
 * 2015/Jan/20 add new gene GUDK
@@ -733,7 +733,7 @@ group: navigation
 * 2015/Jan/7 add new gene OsPGIP1
 * 2015/Jan/7 add new pub on database RiceQTLPro
 * 2015/Jan/7 add new pub on nutraceutical rice
-* 2015/Jan/7 change rFKBP65 to rFKBP65|OsFKBP65
+* 2015/Jan/7 change rFKBP65 to rFKBP65/OsFKBP65
 * 2015/Jan/7 add new pub on QTL qGW6
 * 2015/Jan/7 add new pub on blast resistance
 * 2015/Jan/7 add new pub on JA
@@ -745,10 +745,10 @@ group: navigation
 * 2015/Jan/7 add new pub on Biofortification
 * 2015/Jan/7 add new pub on thermosensitive genic male sterility
 * 2015/Jan/7 add new pub for OsPAL4
-* 2015/Jan/7 change PAL to PAL|OsPAL4
+* 2015/Jan/7 change PAL to PAL/OsPAL4
 * 2015/Jan/7 add new pub on panicle structure
 * 2015/Jan/7 add new pub on long noncoding RNAs
-* 2015/Jan/7 change GSL5 to GSL5|OsGSL5
+* 2015/Jan/7 change GSL5 to GSL5/OsGSL5
 * 2015/Jan/7 add new gene GSL5
 * 2015/Jan/7 add new pub on prolamin
 * 2015/Jan/7 add new info for DNL1
@@ -763,7 +763,7 @@ group: navigation
 * 2015/Jan/7 add new pub on brown spot formation
 * 2015/Jan/7 add new pub on Photoperiodic Flowering
 * 2015/Jan/7 add new pub on QTL qEMF3
-* 2015/Jan/7 change OsglHAT1 to OsglHAT1|GW6a
+* 2015/Jan/7 change OsglHAT1 to OsglHAT1/GW6a
 * 2015/Jan/7 add new gene OsglHAT1
 * 2015/Jan/7 add new pub on seed vigor
 * 2015/Jan/7 add new pub on olerance
@@ -772,7 +772,7 @@ group: navigation
 * 2015/Jan/7 add info for OsHBP1b
 * 2015/Jan/7 add new gene OsHBP1b
 * 2015/Jan/7 add new pub for LOX3
-* 2015/Jan/7 change OsLOX3 to OsLOX3|LOX3
+* 2015/Jan/7 change OsLOX3 to OsLOX3/LOX3
 * 2015/Jan/7 add new pub on early senescence leaf
 * 2015/Jan/7 add new pub on oxidative stress
 * 2015/Jan/7 add new gene OsGL1-3
@@ -781,7 +781,7 @@ group: navigation
 * 2015/Jan/5 add new pub on blast resistance
 * 2015/Jan/5 add new gene OsPP2AB''
 * 2015/Jan/5 add info for OsHSF7
-* 2015/Jan/4 change OsHSF7 to OsHSF7|OsHSFA2d
+* 2015/Jan/4 change OsHSF7 to OsHSF7/OsHSFA2d
 * 2015/Jan/2 add new pub for OsABA8ox2
 * 2015/Jan/1 add new gene OsRBR1
 * 2015/Jan/1 add info for DTH7
@@ -797,11 +797,11 @@ group: navigation
 * 2015/Jan/1 add new pub for OsMPK6
 * 2015/Jan/1 add new pub on iron uptake
 * 2015/Jan/1 add pub for OMTN5
-* 2015/Jan/1 change OsNAM|OMTN5 to OMTN5
-* 2015/Jan/1 change OsNAM to OsNAM|OMTN5
-* 2015/Jan/1 change OsNAC2|OsTIL1 to OsNAC2|OsTIL1|OMTN2
-* 2015/Jan/1 add info for OsETHE1|OsGLYII1
-* 2015/Jan/1 add new gene OsETHE1|OsGLYII1
+* 2015/Jan/1 change OsNAM/OMTN5 to OMTN5
+* 2015/Jan/1 change OsNAM to OsNAM/OMTN5
+* 2015/Jan/1 change OsNAC2/OsTIL1 to OsNAC2/OsTIL1/OMTN2
+* 2015/Jan/1 add info for OsETHE1/OsGLYII1
+* 2015/Jan/1 add new gene OsETHE1/OsGLYII1
 * 2015/Jan/1 add new acc for XA23
 * 2015/Jan/1 add info for XA23
 * 2015/Jan/1 add new gene XA23
@@ -811,7 +811,7 @@ group: navigation
 * 2014/Dec/31 add genbank acc for Osl2
 * 2014/Dec/31 add new gene Osl2
 * 2014/Dec/30 add new gene OsNMD3
-* 2014/Dec/30 change Rcn1 to Rcn1|OsABCG5
+* 2014/Dec/30 change Rcn1 to Rcn1/OsABCG5
 * 2014/Dec/30 add new info for Rcn1
 * 2014/Dec/30 add new gene OsMYB103L
 * 2014/Dec/30 update gene info for OsMPK3
@@ -830,18 +830,18 @@ group: navigation
 * 2014/Dec/29 add new fam XYLP
 * 2014/Dec/28 add new info for genes OsTRBF1, OsTRBF2, OsTRBF3
 * 2014/Dec/28 add new genes OsTRBF1, OsTRBF2, OsTRBF3
-* 2014/Dec/28 add new gene fam HyP|GRP
+* 2014/Dec/28 add new gene fam HyP/GRP
 * 2014/Dec/28 fix info for RCc2 and RCc3 in gene fam
 * 2014/Dec/28 add new info for D18 and GA2OX3
 * 2014/Dec/28 add new pub for D18
-* 2014/Dec/28 add new genbank accession for DLT|GS6
+* 2014/Dec/28 add new genbank accession for DLT/GS6
 * 2014/Dec/27 add new info for OsMSH4 and OsMSH5
 * 2014/Dec/27 add new gene OsMSH4
 * 2014/Dec/27 add new pub for OsLOL1
 * 2014/Dec/27 add new pub on OsMYB80
 * 2014/Dec/27 add new pub on SLB1
 * 2014/Dec/27 add new gene OsCCD8
-* 2014/Dec/27 change name SLB1 -> SLB1|OsMAX1
+* 2014/Dec/27 change name SLB1 -> SLB1/OsMAX1
 * 2014/Dec/27 add new pub on 5 Oryza AA genomes
 * 2014/Dec/27 add new pub on Pita
 * 2014/Dec/27 add new pub on iron deficiency
@@ -855,7 +855,7 @@ group: navigation
 * 2014/Dec/27 add new publication for gene OsPIP1;1
 * 2014/Dec/27 set the correct name for OsCERK1
 * 2014/Dec/27 add new publication to OsCERK1
-* 2014/Dec/27 change name OsCERK1 to NFR1|LYK3|OsCERK1
+* 2014/Dec/27 change name OsCERK1 to NFR1/LYK3/OsCERK1
 * 2014/Dec/25 add new publication mGWAS
 * 2014/Dec/25 add new publication for OsEMF2b
 * 2014/Dec/11 add new publication for SD1
@@ -884,7 +884,7 @@ group: navigation
 * 2014/Oct/26 add new gene ENL1 and ENL1L
 * 2014/Oct/26 add info for gene OsCERK1, OsLYP4, OsLYP6, CEBiP and OsRLCK176
 * 2014/Oct/26 add new genes MLO, PAL and OsRLCK176
-* 2014/Oct/25 change name of OsPP18 to OsPP18|OsPP2C10
+* 2014/Oct/25 change name of OsPP18 to OsPP18/OsPP2C10
 * 2014/Oct/25 add new gene OsPP18
 * 2014/Oct/25 add new gene OsSPX2
 * 2014/Oct/25 add info for gene OsSUV3
@@ -904,15 +904,15 @@ group: navigation
 * 2014/Oct/15 add new publication for gene OsUAM3
 * 2014/Oct/15 add new publication for gene Ghd7
 * 2014/Oct/15 edit info for gene Rpp17
-* 2014/Sep/24 change gene name OsAOX1C to OsAOX1C|AOX1C
-* 2014/Sep/24 add new publication for gene OsHO2 and change its name to OsHO2|HO2|OsYLC2
-* 2014/Sep/24 change gene name OsTrx1 to OsTrx1|SDG723
+* 2014/Sep/24 change gene name OsAOX1C to OsAOX1C/AOX1C
+* 2014/Sep/24 add new publication for gene OsHO2 and change its name to OsHO2/HO2/OsYLC2
+* 2014/Sep/24 change gene name OsTrx1 to OsTrx1/SDG723
 * 2014/Sep/19 add new gene SH5 and related info
 * 2014/Sep/18 add info for gene STV11
 * 2014/Sep/18 add new gene STV11, add google analytics
-* 2014/Sep/12 add keyword for OsAAP6|qPC1
-* 2014/Sep/12 add info for gene OsAAP6|qPC1
-* 2014/Sep/12 add new gene OsAAP6|qPC1
+* 2014/Sep/12 add keyword for OsAAP6/qPC1
+* 2014/Sep/12 add info for gene OsAAP6/qPC1
+* 2014/Sep/12 add new gene OsAAP6/qPC1
 * 2014/Sep/8 add WSL keyword to the table
 * 2014/Sep/8 add info for WSL
 * 2014/Sep/8 add new gene WSL
@@ -921,26 +921,26 @@ group: navigation
 * 2014/Sep/8 add publication for OSH1, deploy Ricencode to shinyapps.io
 * 2014/Sep/4 change directory name OsImpbeta1 to OsImpbeta1
 * 2014/Sep/4 change lambdaGS31 to GS31
-* 2014/Aug/28 add info for gene TIP2|bHLH142
-* 2014/Aug/28 add new gene TIP2|bHLH142
+* 2014/Aug/28 add info for gene TIP2/bHLH142
+* 2014/Aug/28 add new gene TIP2/bHLH142
 * 2014/Aug/28 add info for gene SIT1 and its connection to MPK6
 * 2014/Aug/28 add new gene SIT1
-* 2014/Aug/28 add info for gene OsGA20ox3|GA20ox3
-* 2014/Aug/28 add new gene OsGA20ox3|GA20ox3
+* 2014/Aug/28 add info for gene OsGA20ox3/GA20ox3
+* 2014/Aug/28 add new gene OsGA20ox3/GA20ox3
 * 2014/Aug/27 add info for OsETOL1 and its connection to OsACS2
 * 2014/Aug/27 add new gene OsETOL1
 * 2014/Aug/27 add info for gene FIB
 * 2014/Aug/27 add new gene FIB
 * 2014/Aug/27 add info for OsNIP3;1
 * 2014/Aug/27 add new gene OsNIP3;1
-* 2014/Aug/27 edit gene info for GE|CYP78A13
-* 2014/Aug/27 add info for gene PAD4|OsPAD4
+* 2014/Aug/27 edit gene info for GE/CYP78A13
+* 2014/Aug/27 add info for gene PAD4/OsPAD4
 * 2014/Aug/26 add info for gene OsABCB14
 * 2014/Aug/26 add new gene OsABCB14
 * 2014/Aug/26 add info for OsCDT3 and its connection between ART1
 * 2014/Aug/26 add new gene OsCDT3
-* 2014/Aug/26 change symbol DHAR1 to DHAR1|OsDHAR1
-* 2014/Aug/26 change symbol PK4 to PK4|OsPK4|OsCIPK19
+* 2014/Aug/26 change symbol DHAR1 to DHAR1/OsDHAR1
+* 2014/Aug/26 change symbol PK4 to PK4/OsPK4/OsCIPK19
 * 2014/Aug/26 add connection between OsAKT1, OsCIPK23 and OsCBL1
 * 2014/Aug/26 add info for OsAKT1 and OsCIPK23 and the connection between OsAKT1, OsCIPK23 and OsCBL1
 * 2014/Aug/26 add publication info and keyword for OsCBL1
