@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "OsCYP2,OsCyp2-P"
+title: "OsCYP2,OsCyp2-P,LRT2"
 description: ""
 category: genes
-tags: [lateral root, seedling, salt, salt tolerance, salinity, auxin, abiotic stress, growth, root, shoot, homeostasis, tolerance, stress, Gene]
+tags: [lateral root, seedling, salt, salt tolerance, salinity, auxin, abiotic stress, growth, root, shoot, homeostasis, tolerance, stress, development, root development, Gene]
 ---
 {% include JB/setup %}
 
 ## Information
-__Symbol__: OsCYP2,OsCyp2-P  
+__Symbol__: OsCYP2,OsCyp2-P,LRT2  
 __MSU__: [LOC_Os02g02890](http://rice.plantbiology.msu.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os02g02890)  
 __RAPdb__: [Os02g0121300](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os02g0121300)  
 
@@ -18,12 +18,14 @@ __RAPdb__: [Os02g0121300](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 3. [Heterologous expression of a salinity and developmentally regulated rice cyclophilin gene (OsCyp2) in E. coli and S. cerevisiae confers tolerance towards multiple abiotic stresses](http://www.ncbi.nlm.nih.gov/pubmed?term=(Heterologous expression of a salinity and developmentally regulated rice cyclophilin gene (OsCyp2) in E. coli and S. cerevisiae confers tolerance towards multiple abiotic stresses%5BTitle%5D)), 2009, Mol Biotechnol.
 4. [Proteomic identification of OsCYP2, a rice cyclophilin that confers salt tolerance in rice (Oryza sativa L.) seedlings when overexpressed](http://www.ncbi.nlm.nih.gov/pubmed?term=(Proteomic identification of OsCYP2, a rice cyclophilin that confers salt tolerance in rice (Oryza sativa L.) seedlings when overexpressed%5BTitle%5D)), 2011, BMC Plant Biol.
 5. [Expression of a cyclophilin OsCyp2-P isolated from a salt-tolerant landrace of rice in tobacco alleviates stress via ion homeostasis and limiting ROS accumulation.](http://www.ncbi.nlm.nih.gov/pubmed?term=(Expression of a cyclophilin OsCyp2-P isolated from a salt-tolerant landrace of rice in tobacco alleviates stress via ion homeostasis and limiting ROS accumulation.%5BTitle%5D)), 2014, Funct Integr Genomics.
+6. [Peptidyl-prolyl isomerization targets rice Aux/IAAs for proteasomal degradation during auxin signalling.](http://www.ncbi.nlm.nih.gov/pubmed?term=(Peptidyl-prolyl isomerization targets rice Aux/IAAs for proteasomal degradation during auxin signalling.%5BTitle%5D)), 2015, Nat Commun.
 
 ## Genbank accession number
 [AK061894](http://www.ncbi.nlm.nih.gov/nuccore/AK061894)
 
 ## Expression information
 __Expression__:Expression of a cyclophilin OsCyp2-P isolated from a salt-tolerant landrace of rice in tobacco alleviates stress via ion homeostasis and limiting ROS accumulation. |  Ectopic expression of OsCyp2-P imparted multiple abiotic stress tolerance to transgenic tobacco plants as evidenced by higher root length, shoot length, chlorophyll content, and K(+)/Na(+) ratio under stress conditions  
+__Expression__: Moreover, knockdown of the OsIAA11 expression partially rescues the lrt2 mutant phenotype in lateral root development  
 __OverExpression__:  
 __RNAi__:  
 
@@ -49,8 +51,17 @@ __RNAi__:
 19. __stress__, [Expression of a cyclophilin OsCyp2-P isolated from a salt-tolerant landrace of rice in tobacco alleviates stress via ion homeostasis and limiting ROS accumulation.](http://www.ncbi.nlm.nih.gov/pubmed?term=(Expression of a cyclophilin OsCyp2-P isolated from a salt-tolerant landrace of rice in tobacco alleviates stress via ion homeostasis and limiting ROS accumulation.%5BTitle%5D)),  Ectopic expression of OsCyp2-P imparted multiple abiotic stress tolerance to transgenic tobacco plants as evidenced by higher root length, shoot length, chlorophyll content, and K(+)/Na(+) ratio under stress conditions
 20. __stress__, [Expression of a cyclophilin OsCyp2-P isolated from a salt-tolerant landrace of rice in tobacco alleviates stress via ion homeostasis and limiting ROS accumulation.](http://www.ncbi.nlm.nih.gov/pubmed?term=(Expression of a cyclophilin OsCyp2-P isolated from a salt-tolerant landrace of rice in tobacco alleviates stress via ion homeostasis and limiting ROS accumulation.%5BTitle%5D)),  The overall results suggest the explicit role of OsCyp2-P in bestowing multiple abiotic stress tolerance at the whole plant level
 21. __stress__, [Expression of a cyclophilin OsCyp2-P isolated from a salt-tolerant landrace of rice in tobacco alleviates stress via ion homeostasis and limiting ROS accumulation.](http://www.ncbi.nlm.nih.gov/pubmed?term=(Expression of a cyclophilin OsCyp2-P isolated from a salt-tolerant landrace of rice in tobacco alleviates stress via ion homeostasis and limiting ROS accumulation.%5BTitle%5D)),  OsCyp2-P operates via reactive oxygen species (ROS) scavenging and ion homeostasis and thus is a promising candidate gene for enhancing multiple abiotic stress tolerance in crop plants
+22. __root__, [Peptidyl-prolyl isomerization targets rice Aux/IAAs for proteasomal degradation during auxin signalling.](http://www.ncbi.nlm.nih.gov/pubmed?term=(Peptidyl-prolyl isomerization targets rice Aux/IAAs for proteasomal degradation during auxin signalling.%5BTitle%5D)),  Moreover, knockdown of the OsIAA11 expression partially rescues the lrt2 mutant phenotype in lateral root development
+23. __development__, [Peptidyl-prolyl isomerization targets rice Aux/IAAs for proteasomal degradation during auxin signalling.](http://www.ncbi.nlm.nih.gov/pubmed?term=(Peptidyl-prolyl isomerization targets rice Aux/IAAs for proteasomal degradation during auxin signalling.%5BTitle%5D)),  Moreover, knockdown of the OsIAA11 expression partially rescues the lrt2 mutant phenotype in lateral root development
+24. __lateral root__, [Peptidyl-prolyl isomerization targets rice Aux/IAAs for proteasomal degradation during auxin signalling.](http://www.ncbi.nlm.nih.gov/pubmed?term=(Peptidyl-prolyl isomerization targets rice Aux/IAAs for proteasomal degradation during auxin signalling.%5BTitle%5D)),  Moreover, knockdown of the OsIAA11 expression partially rescues the lrt2 mutant phenotype in lateral root development
+25. __root development__, [Peptidyl-prolyl isomerization targets rice Aux/IAAs for proteasomal degradation during auxin signalling.](http://www.ncbi.nlm.nih.gov/pubmed?term=(Peptidyl-prolyl isomerization targets rice Aux/IAAs for proteasomal degradation during auxin signalling.%5BTitle%5D)),  Moreover, knockdown of the OsIAA11 expression partially rescues the lrt2 mutant phenotype in lateral root development
 
 ## Connection
+1. __OsCYP2~OsCyp2-P~LRT2__, __OsIAA11__, [Peptidyl-prolyl isomerization targets rice Aux/IAAs for proteasomal degradation during auxin signalling.](http://www.ncbi.nlm.nih.gov/pubmed?term=(Peptidyl-prolyl isomerization targets rice Aux/IAAs for proteasomal degradation during auxin signalling.%5BTitle%5D)),  Here we show that peptidyl-prolyl isomerization of rice OsIAA11 catalysed by LATERAL ROOTLESS2 (LRT2), a cyclophilin-type peptidyl-prolyl cis/trans isomerase, directly regulates the stability of OsIAA11
+2. __OsCYP2~OsCyp2-P~LRT2__, __OsIAA11__, [Peptidyl-prolyl isomerization targets rice Aux/IAAs for proteasomal degradation during auxin signalling.](http://www.ncbi.nlm.nih.gov/pubmed?term=(Peptidyl-prolyl isomerization targets rice Aux/IAAs for proteasomal degradation during auxin signalling.%5BTitle%5D)),  NMR spectroscopy reveals that LRT2 efficiently catalyses the cis/trans isomerization of OsIAA11
+3. __OsCYP2~OsCyp2-P~LRT2__, __OsIAA11__, [Peptidyl-prolyl isomerization targets rice Aux/IAAs for proteasomal degradation during auxin signalling.](http://www.ncbi.nlm.nih.gov/pubmed?term=(Peptidyl-prolyl isomerization targets rice Aux/IAAs for proteasomal degradation during auxin signalling.%5BTitle%5D)),  The lrt2 mutation reduces OsTIR1-OsIAA11 interaction and consequently causes the accumulation of a higher level of OsIAA11 protein
+4. __OsCYP2~OsCyp2-P~LRT2__, __OsIAA11__, [Peptidyl-prolyl isomerization targets rice Aux/IAAs for proteasomal degradation during auxin signalling.](http://www.ncbi.nlm.nih.gov/pubmed?term=(Peptidyl-prolyl isomerization targets rice Aux/IAAs for proteasomal degradation during auxin signalling.%5BTitle%5D)),  Moreover, knockdown of the OsIAA11 expression partially rescues the lrt2 mutant phenotype in lateral root development
+5. __OsCYP2~OsCyp2-P~LRT2__, __OsTIR1__, [Peptidyl-prolyl isomerization targets rice Aux/IAAs for proteasomal degradation during auxin signalling](http://www.ncbi.nlm.nih.gov/pubmed?term=(Peptidyl-prolyl isomerization targets rice Aux/IAAs for proteasomal degradation during auxin signalling%5BTitle%5D)), The lrt2 mutation reduces OsTIR1-OsIAA11 interaction and consequently causes the accumulation of a  higher level of OsIAA11 protein.
 
 ## Key figures
 

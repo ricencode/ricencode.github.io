@@ -5,6 +5,90 @@ group: navigation
 ---
 {% include JB/setup %}
 
+* 2015/Jul/22 add new pub on bacterial blight resistance gene
+* 2015/Jul/22 add new fam: boron transporter
+* 2015/Jul/22 add new gene: OsPDF1B2
+* 2015/Jul/22 add new pub on Rice TE database: RiTE-db
+* 2015/Jul/22 add new pub on Tightly-Bound Cell Wall Protein
+* 2015/Jul/22 add new pub on DNA methylation
+* 2015/Jul/22 add new gene: RNP29
+* 2015/Jul/22 add gene: OsPUP13
+* 2015/Jul/22 add new fam: Rab family of small G-proteins
+* 2015/Jul/22 add new gene: SAB18
+* 2015/Jul/22 add new gene: SAB23
+* 2015/Jul/22 add new gene: SCB3
+* 2015/Jul/22 add new gene: OsRad51A2
+* 2015/Jul/22 OsRad51 == OsRad51A1
+* 2015/Jul/22 add new fam: DNA binding with one finger gene family
+* 2015/Jul/22 add new gene CYCU4;1
+* 2015/Jul/22 add new fam: Metacaspase Family
+* 2015/Jul/22 add new gene OsLSD3
+* 2015/Jul/22 add new gene OsLSD2
+* 2015/Jul/22 add new fam: PIN-Like (PILS) Gene Family
+* 2015/Jul/22 add new pub for OsSHMT1
+* 2015/Jul/22 OsSHM1 == OsSHMT1
+* 2015/Jul/22 add new pub on silicon
+* 2015/Jul/22 add new pub on CRISPR
+* 2015/Jul/21 add new fam: the middle module of the Mediator complex
+* 2015/Jul/21 add new pub for OsPGIP1
+* 2015/Jul/21 add new fam: phenylalanine ammonia-lyase gene family
+* 2015/Jul/20 add new fam: mature anther-preferentially expressed genes
+* 2015/Jul/20 add new gene OsACTIN2
+* 2015/Jul/20 add new pub for LRT2
+* 2015/Jul/20 OsCYP2 == OsCyp2-P == LRT2
+* 2015/Jul/20 add new fam: RNA-binding glycine-rich gene superfamily
+* 2015/Jul/20 add new gene Pi64
+* 2015/Jul/20 add new fam: Sodium-Calcium exchanger gene family
+* 2015/Jul/20 add new gene OsGapC2
+* 2015/Jul/19 add new fam: OVATE-domain containing proteins
+* 2015/Jul/19 add new fam: cystatin family
+* 2015/Jul/19 add new fam: cyclase-like gene family
+* 2015/Jul/19 add new OsPMEs
+* 2015/Jul/19 add new gene OsGRF10
+* 2015/Jul/19 add new pub for OsGRF4
+* 2015/Jul/19 add new gene OsGRF3
+* 2015/Jul/19 add new gene OsGRF5
+* 2015/Jul/19 add new info for GS2
+* 2015/Jul/19 add new gene GS2
+* 2015/Jul/18 add new gene Pi50
+* 2015/Jul/18 add new pub for ASR5
+* 2015/Jul/18 add new gene OsCBSX3
+* 2015/Jul/18 update info for OsBi1
+* 2015/Jul/18 add new gene OsExo70
+* 2015/Jul/18 add new pub for xa21
+* 2015/Jul/17 add new pub for OsDREB1B and OsDREB1A
+* 2015/Jul/17 add new pub on heterosis
+* 2015/Jul/17 add new pub on RGB1 and qPE9-1
+* 2015/Jul/17 add new pub on QTLs on plant height
+* 2015/Jul/17 add new pub on QTLs for whiteness of cooked rice
+* 2015/Jul/17 add new pub on QTLs for white-back and basal-white grains
+* 2015/Jul/17 add new pub on grain yield and quality
+* 2015/Jul/17 add new pub on breeding
+* 2015/Jul/17 add new pub on indel markers
+* 2015/Jul/17 add new pub on tolerance to ferrous iron toxicity
+* 2015/Jul/17 add new pub on Transgenic Rice
+* 2015/Jul/17 add new pub on blast resistance genes
+* 2015/Jul/17 add new pub on Grain Zn and Fe Concentrations
+* 2015/Jul/17 add new pub for OsRDR6
+* 2015/Jul/17 add new pub on Fine mapping of S37
+* 2015/Jul/17 add new gene OsSIDP366
+* 2015/Jul/17 add new pub on Rice Plants with Enhanced Seed Tocopherol Content
+* 2015/Jul/15 add new pub for OsHUB2
+* 2015/Jul/15 add new pub for OsHUB1
+* 2015/Jul/15 add new pub for OsACBP2, OsACBP3, OsACBP4, OsACBP5, OsACBP6
+* 2015/Jul/15 add new pub for OsACBP1
+* 2015/Jul/15 add new gene OsACBP5
+* 2015/Jul/15 add new gene OsACBP4
+* 2015/Jul/15 add new gene OsACBP3
+* 2015/Jul/15 add new gene OsACBP2
+* 2015/Jul/15 RPP10 == OsACBP1
+* 2015/Jul/12 add new pub on tolerance to ferrous iron toxicity
+* 2015/Jul/12 add new pub on Transgenic Rice
+* 2015/Jul/12 add new pub on blast resistance genes
+* 2015/Jul/10 add new pub for OsRHL1
+* 2015/Jul/10 add new pub for OsNAR2.1
+* 2015/Jul/10 add new pub on protein phosphorylation site
+* 2015/Jul/10 add new pub for PSTOL1
 * 2015/Jul/8 TAM1 == OsPAL9
 * 2015/Jul/7 add new gene LABA1
 * 2015/Jul/7 add new pub for OSIPP3
