@@ -5,6 +5,53 @@ group: navigation
 ---
 {% include JB/setup %}
 
+* 2015/Jul/30 add new acc for OsNRT1
+* 2015/Jul/30 NRT1 == OsNRT1 == OsNRT1.1
+* 2015/Jul/30 NRT1 == OsNRT1
+* 2015/Jul/30 add new gene: OsORAP1
+* 2015/Jul/30 add new pub on long-day suppressor genes
+* 2015/Jul/30 add new pub on Metabolism
+* 2015/Jul/29 add new pub on spikelets in hybrid rice
+* 2015/Jul/29 add new pub on Basmati Rice
+* 2015/Jul/28 add new gene: OsPIN5b
+* 2015/Jul/27 add new info for OsDjA7 and OsDjA8
+* 2015/Jul/27 add new gene: OsDjA8
+* 2015/Jul/27 add new gene: OsDjA7
+* 2015/Jul/27 update info for OSDJA fam
+* 2015/Jul/27 add new pub on High night temperature
+* 2015/Jul/25 add new pub on seed dormancy
+* 2015/Jul/25 add new pub on yield QTLs
+* 2015/Jul/25 add new pub on Macronutrient Deficiency Response Genes
+* 2015/Jul/25 add new pub on inter-specific hybridization
+* 2015/Jul/25 add new gene: RGA2
+* 2015/Jul/25 add new gene: RGA3
+* 2015/Jul/25 add new gene: OsTRX2
+* 2015/Jul/25 add new gene: OsPBZ19
+* 2015/Jul/25 add new gene: OsPBZ15
+* 2015/Jul/25 RSOsPR10 == OsPBZ14
+* 2015/Jul/25 OsPR10b == OsPBZc
+* 2015/Jul/25 add new gene: OsSIRK1
+* 2015/Jul/25 add new gene: BRHIS1
+* 2015/Jul/25 add new pub on rice caryopses
+* 2015/Jul/25 add new pub for EL1
+* 2015/Jul/24 add new pub for MOC1
+* 2015/Jul/24 add new pub on black-streaked dwarf disease
+* 2015/Jul/24 add new pub on high-starch low-methane rice
+* 2015/Jul/23 add figures for Bph14
+* 2015/Jul/23 add figures for Bh4
+* 2015/Jul/23 add figures for BU1
+* 2015/Jul/23 add figures for BRK1
+* 2015/Jul/23 add figures for BPH29
+* 2015/Jul/23 add figures for BC12
+* 2015/Jul/23 add figures for BC10
+* 2015/Jul/23 add figures for An-1
+* 2015/Jul/23 add figures for BC1
+* 2015/Jul/23 add figures for ART1
+* 2015/Jul/23 add figures for AM1
+* 2015/Jul/23 add figures for ALS3
+* 2015/Jul/23 add figures for AID1
+* 2015/Jul/23 add figures for ADL1
+* 2015/Jul/23 add figures for ACL1
 * 2015/Jul/22 add new pub on bacterial blight resistance gene
 * 2015/Jul/22 add new fam: boron transporter
 * 2015/Jul/22 add new gene: OsPDF1B2

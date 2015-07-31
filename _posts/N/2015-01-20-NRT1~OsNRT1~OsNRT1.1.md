@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NRT1"
+title: "NRT1,OsNRT1,OsNRT1.1"
 description: ""
 category: genes
 tags: [root hair, nitrate, transporter, root, Gene]
@@ -8,7 +8,7 @@ tags: [root hair, nitrate, transporter, root, Gene]
 {% include JB/setup %}
 
 ## Information
-__Symbol__: NRT1  
+__Symbol__: NRT1,OsNRT1,OsNRT1.1  
 __MSU__: [LOC_Os03g13274](http://rice.plantbiology.msu.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os03g13274)  
 __RAPdb__: [Os03g0235900](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os03g0235900)  
 
@@ -18,7 +18,7 @@ __RAPdb__: [Os03g0235900](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 3. [Comparison of ion balance and nitrogen metabolism in old and young leaves of alkali-stressed rice plants](http://www.ncbi.nlm.nih.gov/pubmed?term=(Comparison of ion balance and nitrogen metabolism in old and young leaves of alkali-stressed rice plants%5BTitle%5D)), 2012, PLoS One.
 
 ## Genbank accession number
-[AF140606](http://www.ncbi.nlm.nih.gov/nuccore/AF140606)
+[AF140606](http://www.ncbi.nlm.nih.gov/nuccore/AF140606), [AK066920](http://www.ncbi.nlm.nih.gov/nuccore/AK066920)
 
 ## Expression information
 
