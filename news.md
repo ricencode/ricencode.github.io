@@ -5,6 +5,50 @@ group: navigation
 ---
 {% include JB/setup %}
 
+* 2015/Aug/7 add figures for D53
+* 2015/Aug/7 add figures for Chalk5
+* 2015/Aug/7 add figures for CYP714B2
+* 2015/Aug/7 add figures for CYP714B1
+* 2015/Aug/7 add figures for CYP704B2
+* 2015/Aug/7 add figures for CSA
+* 2015/Aug/7 add figures for COX11
+* 2015/Aug/7 add new gene: OsCMT3b
+* 2015/Aug/7 add new gene: OsCMT3a
+* 2015/Aug/7 add new pub for TUT1
+* 2015/Aug/7 ES1 == TUT1
+* 2015/Aug/7 add new gene: ES1
+* 2015/Aug/7 add new pub on adaptation to varying agro-ecosystems
+* 2015/Aug/6 add new pub for OsPRR37
+* 2015/Aug/6 add new pub for Os4BGlu13
+* 2015/Aug/6 add info for Os1BGlu4
+* 2015/Aug/6 add new gene: Os1BGlu4
+* 2015/Aug/6 OsTAGG1 == Os4BGlu13
+* 2015/Aug/4 add new gene: HSP70
+* 2015/Aug/4 add new pub for OsTRE1
+* 2015/Aug/4 OsTRE -> OsTRE1
+* 2015/Aug/4 add new pub on drought stress tolerance
+* 2015/Aug/4 add new pub on abiotic stress tolerance
+* 2015/Aug/4 add new pub on plant Argonautes
+* 2015/Aug/4 add new pub on Leaf Scald
+* 2015/Aug/2 add new genes: RIF1, RIF2, RIF3, RIF4
+* 2015/Aug/2 add new gene: Rf4
+* 2015/Aug/2 add new pub on sequenced rice genome
+* 2015/Aug/2 add new pub for OsPHR2
+* 2015/Aug/2 add new pub on Phylogenomics database
+* 2015/Aug/2 add new pub on Iron deficiency responses
+* 2015/Aug/2 add new pub on root development
+* 2015/Aug/2 add new pub for SNB
+* 2015/Aug/2 add new pub on hyperaccumulation of starch
+* 2015/Aug/2 add new pub on breeding
+* 2015/Aug/2 add new pub on Osa-miR528
+* 2015/Aug/2 add new pub on drought stress
+* 2015/Aug/2 add new pub on yield
+* 2015/Aug/2 add new pub on cold stress
+* 2015/Aug/2 add new pub on Differential Proteomic Analysis
+* 2015/Aug/1 add figures for COLD1
+* 2015/Aug/1 add figures for CRR6
+* 2015/Aug/1 add figures for CPT1
+* 2015/Jul/31 add new pub for sRNA biogenesis genes
 * 2015/Jul/30 add new acc for OsNRT1
 * 2015/Jul/30 NRT1 == OsNRT1 == OsNRT1.1
 * 2015/Jul/30 NRT1 == OsNRT1
