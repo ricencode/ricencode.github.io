@@ -5,6 +5,61 @@ group: navigation
 ---
 {% include JB/setup %}
 
+* 2015/Aug/27 add new pub for WOX11, OsRR2, OsERF3
+* 2015/Aug/27 add new pub on Rice stripe virus Infection
+* 2015/Aug/27 add new info for OsELF3-2
+* 2015/Aug/27 add new pub for HAF1
+* 2015/Aug/27 OsHIP1 == HAF1
+* 2015/Aug/27 add new fam: hypersensitive induced reaction protein
+* 2015/Aug/27 add new gene: OsFlot
+* 2015/Aug/27 add new gene: OsHIR3
+* 2015/Aug/27 add new pub on CRISPR
+* 2015/Aug/27 add new pub on lignin biosynthesis
+* 2015/Aug/27 add new pub on proline and arginine catabolism
+* 2015/Aug/26 add new pub on T-DNA resources
+* 2015/Aug/26 add new gene: OspPLAIIIalpha
+* 2015/Aug/26 add new pub for JMJ703
+* 2015/Aug/26 add new pub on Plant Essential Genes
+* 2015/Aug/26 add new pub for OsGAP1
+* 2015/Aug/26 add new gene: OsHsf23
+* 2015/Aug/26 add new pub on Phosphate
+* 2015/Aug/26 add new pub for An-2
+* 2015/Aug/26 LABA1 == OsLOGL6 == An-2
+* 2015/Aug/26 add new gene: BG1
+* 2015/Aug/26 add new info for Lsi3
+* 2015/Aug/26 add new gene: Lsi3
+* 2015/Aug/26 add new pub on drought
+* 2015/Aug/26 add new pub on Blast Disease Resistance
+* 2015/Aug/26 add new gene: AChE
+* 2015/Aug/26 add new gene: OsWRKY4
+* 2015/Aug/26 add new pub for NAL1
+* 2015/Aug/26 add new pub for SPL3
+* 2015/Aug/26 OsEDR1 == OsACDR1 == OsMAPKKK1 == SPL3
+* 2015/Aug/26 add new pub for COMT
+* 2015/Aug/26 COMT == OsCOMT
+* 2015/Aug/26 add new info for MOC1
+* 2015/Aug/26 add new pub for TE
+* 2015/Aug/26 add new pub on markers
+* 2015/Aug/26 add new pub on 5-hydroxymethylcytosine
+* 2015/Aug/26 add new pub for SHB
+* 2015/Aug/26 SMOS1 == SHB
+* 2015/Aug/26 add new pub for PHYB
+* 2015/Aug/26 add new pub for D27
+* 2015/Aug/26 add new pub on upland rice
+* 2015/Aug/26 add new pub for OsBADH1 and OsBADH2
+* 2015/Aug/26 add new gene: OsMADS25
+* 2015/Aug/26 add new pub on cold tolerance
+* 2015/Aug/26 add new gene: OsFdC2
+* 2015/Aug/26 add new pub for OsMADS3
+* 2015/Aug/14 add new gene: SNAC3
+* 2015/Aug/14 add new pub on panicle development
+* 2015/Aug/10 add new pub for OsPIN2
+* 2015/Aug/9 add new pub on rice blast R-genes
+* 2015/Aug/9 add new pub for OsRacGEF1
+* 2015/Aug/9 add new gene: OsRacGEF1
+* 2015/Aug/9 add new pub for CYP94C2b
+* 2015/Aug/9 add new gene: CYP94C2b
+* 2015/Aug/9 add new fam: FCS-Like Zinc finger Gene Family
 * 2015/Aug/7 add figures for D53
 * 2015/Aug/7 add figures for Chalk5
 * 2015/Aug/7 add figures for CYP714B2
