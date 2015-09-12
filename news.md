@@ -5,6 +5,24 @@ group: navigation
 ---
 {% include JB/setup %}
 
+* 2015/Sep/11 add new figures
+* 2015/Sep/7 add new pub on acyl-CoA-binding proteins
+* 2015/Sep/6 add new info for OsDof25
+* 2015/Sep/6 add new gene: OsDof25
+* 2015/Sep/6 FLO4 == OsPPDKB == ppdk == OsC4PPDK
+* 2015/Sep/6 add new pub on aluminium tolerance
+* 2015/Sep/6 add new pub on origin of O. nivara
+* 2015/Sep/6 add new pub on salt tolerance
+* 2015/Sep/6 add new pub for OsZIP3
+* 2015/Sep/6 add new pub on grain quality
+* 2015/Sep/6 add new pub for Xa26
+* 2015/Sep/6 add new pub on Proteomic and high temperature stress
+* 2015/Sep/6 add new pub on Cadmium stress
+* 2015/Sep/6 add new pub for MEL2
+* 2015/Sep/5 add new pub on miR393a
+* 2015/Sep/5 add new pub on DNA methylation
+* 2015/Aug/29 add new pub on Genomic Selection
+* 2015/Aug/29 add new pub on pollen development
 * 2015/Aug/27 add new pub for WOX11, OsRR2, OsERF3
 * 2015/Aug/27 add new pub on Rice stripe virus Infection
 * 2015/Aug/27 add new info for OsELF3-2
