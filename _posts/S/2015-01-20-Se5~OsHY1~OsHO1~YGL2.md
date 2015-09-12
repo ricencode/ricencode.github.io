@@ -47,5 +47,7 @@ __RAPdb__: [Os06g0603000](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 1. __Ehd1__, __Se5~OsHY1~OsHO1~YGL2__, [Analysis of PHOTOPERIOD SENSITIVITY5 sheds light on the role of phytochromes in photoperiodic flowering in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(Analysis of PHOTOPERIOD SENSITIVITY5 sheds light on the role of phytochromes in photoperiodic flowering in rice%5BTitle%5D)),  Early heading date1 (Ehd1), an additional rice floral activator, was also highly expressed in the s73 mutant, suggesting that SE5 represses Ehd1 in wild-type plants, Silencing of Ehd1 in both Bahia and s73 backgrounds indicated that SE5 regulates Ehd1 expression
 
 ## Key figures
+![phenotype]({{ BASE_PATH }}/assets/images/YGL2.pheno.png)
+![expression]({{ BASE_PATH }}/assets/images/YGL2.exp.png)
 
 
