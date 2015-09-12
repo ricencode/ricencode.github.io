@@ -93,5 +93,7 @@ __RNAi__:
 26. __Ghd7__, __Hd5~DTH8~Ghd8~OsHAP3H~LHD1~EF8__, [Combinations of the Ghd7, Ghd8 and Hd1 genes largely define the ecogeographical adaptation and yield potential of cultivated rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=(Combinations of the Ghd7, Ghd8 and Hd1 genes largely define the ecogeographical adaptation and yield potential of cultivated rice.%5BTitle%5D)),  Our results indicate that the combinations of Ghd7, Ghd8 and Hd1 largely define the ecogeographical adaptation and yield potential in rice cultivars
 
 ## Key figures
+![phenotype]({{ BASE_PATH }}/assets/images/DTH8.pheno.png)
+![expression]({{ BASE_PATH }}/assets/images/DTH8.exp.png)
 
 
