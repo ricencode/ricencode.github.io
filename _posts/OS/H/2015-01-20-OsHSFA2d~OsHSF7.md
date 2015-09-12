@@ -32,5 +32,7 @@ __RNAi__:
 ## Connection
 
 ## Key figures
+![phenotype]({{ BASE_PATH }}/assets/images/OsHSF7.pheno.png)
+![expression]({{ BASE_PATH }}/assets/images/OsHSF7.exp.png)
 
 

@@ -27,5 +27,7 @@ __RAPdb__: [Os04g0201900](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 ## Connection
 
 ## Key figures
+![phenotype]({{ BASE_PATH }}/assets/images/OslecRK.pheno.png)
+![expression]({{ BASE_PATH }}/assets/images/OslecRK.exp.png)
 
 
