@@ -25,5 +25,6 @@ __RAPdb__: [Os01g0581300](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 ## Connection
 
 ## Key figures
+![phenotype]({{ BASE_PATH }}/assets/images/OsLCYe~OsLCYepsilon.pheno.png)
 
 

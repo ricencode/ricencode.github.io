@@ -40,5 +40,7 @@ __RAPdb__: [Os01g0645400](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 4. __OsARID3__, __OsYUCCA1~OsYUC1__, [OsARID3, an AT-rich Interaction Domain-containing protein, is required for shoot  meristem development in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(OsARID3, an AT-rich Interaction Domain-containing protein, is required for shoot  meristem development in rice%5BTitle%5D)), Furthermore, our chromatin immunoprecipitation results demonstrate that OsARID3 binds directly to the KNOXI gene OSH71, the auxin biosynthetic genes OsYUC1 and OsYUC6, and the cytokinin biosynthetic genes OsIPT2 and OsIPT7.
 
 ## Key figures
+![phenotype]({{ BASE_PATH }}/assets/images/OsYUCCA1.pheno.png)
+![expression]({{ BASE_PATH }}/assets/images/OsYUCCA1.exp.png)
 
 

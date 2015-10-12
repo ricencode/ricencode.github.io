@@ -32,5 +32,7 @@ __RAPdb__: [Os05g0555600](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 ## Connection
 
 ## Key figures
+![phenotype]({{ BASE_PATH }}/assets/images/OsNADH-GOGAT2.pheno.png)
+![expression]({{ BASE_PATH }}/assets/images/OsNADH-GOGAT2.exp.png)
 
 

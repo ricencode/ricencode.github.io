@@ -33,5 +33,7 @@ __RAPdb__: [Os04g0536300](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 1. __NAL2~OsWOX3A~WOX3__, __OsYABBY5~OsYAB3~TOB1__, [A WUSCHEL-LIKE HOMEOBOX gene represses a YABBY gene expression required for rice leaf development](http://www.ncbi.nlm.nih.gov/pubmed?term=(A WUSCHEL-LIKE HOMEOBOX gene represses a YABBY gene expression required for rice leaf development%5BTitle%5D)),  Here, we report the characterization of functional relationship between rice (Oryza sativa) YAB3 and WOX3 in rice leaf development, Rice YAB3 is closely related to maize (Zea mays) ZmYAB14 and Arabidopsis (Arabidopsis thaliana) FILAMENTOUS FLOWER (FIL), whereas rice WOX3 is highly conserved with maize narrow sheath1 (NS1) and NS2 and Arabidopsis PRESSED FLOWER (PRS), Overexpression of WOX3 repressed YAB3 and showed a YAB3 RNAi phenotype, The expression of class I KNOTTED-LIKE HOMEOBOX (KNOX) genes was ectopically induced in leaves of YAB3 RNAi or WOX3 overexpression plants, Data from inducible WOX3 expression and DNA-protein interaction assays suggested that WOX3 acted as a transcriptional repressor of YAB3, These data reveal a regulatory network involving YAB3, WOX3, and KNOX genes required for rice leaf development
 
 ## Key figures
+![phenotype]({{ BASE_PATH }}/assets/images/OsYABBY5~OsYAB3~TOB1.pheno.png)
+![expression]({{ BASE_PATH }}/assets/images/OsYABBY5~OsYAB3~TOB1.exp.png)
 
 

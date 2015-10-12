@@ -34,5 +34,7 @@ __RAPdb__: [Os08g0137250](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 5. __OsFIE1~Epi-df__, __OsiEZ1~OsSET1~SDG718__, [Expression, imprinting, and evolution of rice homologs of the polycomb group genes](http://www.ncbi.nlm.nih.gov/pubmed?term=(Expression, imprinting, and evolution of rice homologs of the polycomb group genes%5BTitle%5D)),  The rice genome contains two E(z)-like genes, OsiEZ1 and OsCLF, two homologs of Su(z)12, OsEMF2a and OsEMF2b, and two ESC-like genes, OsFIE1 and OsFIE2
 
 ## Key figures
+![phenotype]({{ BASE_PATH }}/assets/images/OsFIE1~Epi-df.pheno.png)
+![expression]({{ BASE_PATH }}/assets/images/OsFIE1~Epi-df.exp.png)
 
 

@@ -32,5 +32,7 @@ __RAPdb__: [Os04g0653000](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 3. __OsMYC2__, __OsJAZ1~OsTIFY3~EG2__, [Jasmonic acid regulates spikelet development in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(Jasmonic acid regulates spikelet development in rice%5BTitle%5D)), OsJAZ1 also interacts with OsMYC2, a transcription factor in the JA signalling pathway, and represses OsMYC2's role in activating OsMADS1, an E-class gene crucial to the spikelet development.
 
 ## Key figures
+![phenotype]({{ BASE_PATH }}/assets/images/OsJAZ1~OsTIFY3.pheno.png)
+![expression]({{ BASE_PATH }}/assets/images/OsJAZ1~OsTIFY3.exp.png)
 
 

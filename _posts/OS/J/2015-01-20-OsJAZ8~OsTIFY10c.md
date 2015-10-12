@@ -33,5 +33,7 @@ __RAPdb__: [Os09g0439200](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 1. __OsCOI1~OsCOI1a__, __OsJAZ8~OsTIFY10c__, [Involvement of OsJAZ8 in jasmonate-induced resistance to bacterial blight in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(Involvement of OsJAZ8 in jasmonate-induced resistance to bacterial blight in rice%5BTitle%5D)),  OsJAZ8 interacted with a putative OsCOI1, which is a component of the SCF(COI1) E3 ubiquitin ligase complex, in a coronatine-dependent manner
 
 ## Key figures
+![phenotype]({{ BASE_PATH }}/assets/images/OsJAZ8~OsTIFY10c.pheno.png)
+![expression]({{ BASE_PATH }}/assets/images/OsJAZ8~OsTIFY10c.exp.png)
 
 

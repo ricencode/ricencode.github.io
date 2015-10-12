@@ -26,5 +26,6 @@ __RAPdb__: [Os02g0523500](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 ## Connection
 
 ## Key figures
+![phenotype]({{ BASE_PATH }}/assets/images/OsTudor-SN.pheno.png)
 
 

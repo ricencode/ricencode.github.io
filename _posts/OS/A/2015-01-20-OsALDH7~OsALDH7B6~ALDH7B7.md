@@ -36,5 +36,7 @@ __RAPdb__: [Os09g0440300](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 ## Connection
 
 ## Key figures
+![phenotype]({{ BASE_PATH }}/assets/images/OsALDH7~OsALDH7B6~ALDH7B7.pheno.png)
+![expression]({{ BASE_PATH }}/assets/images/OsALDH7~OsALDH7B6~ALDH7B7.exp.png)
 
 

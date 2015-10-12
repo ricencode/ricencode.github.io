@@ -5,7 +5,98 @@ group: navigation
 ---
 {% include JB/setup %}
 
-* 2015/Sep/11 add new figures
+* 2015/Oct/12 add new pub for OsWRKY53
+* 2015/Oct/12 add new gene: OsCYP19-4
+* 2015/Oct/12 add new pub on light-specific metabolic
+* 2015/Oct/11 add new gene: ONAC106
+* 2015/Oct/11 add new pub for OsWRKY45
+* 2015/Oct/11 add new pub on 2D-DIGE-based proteome expression
+* 2015/Oct/11 add new pub on DNA methylation and drought
+* 2015/Oct/11 add new pub on introns structure patterns
+* 2015/Oct/11 add new pub on chlorophyll biosynthesis
+* 2015/Oct/11 add new pub on Pollen Wall Development
+* 2015/Oct/11 add new gene: OsPIMT2
+* 2015/Oct/11 add new gene: OsPIMT1
+* 2015/Oct/11 add new pub on flavonoid biosynthetic genes
+* 2015/Oct/11 add new pub on palea and stamen development
+* 2015/Oct/11 add new pub on salinity tolerant
+* 2015/Oct/11 add new pub for OsHSP18.2
+* 2015/Oct/11 OsHSP18.2 == Oshsp18.0-CII
+* 2015/Oct/11 add new pub on heterosis
+* 2015/Oct/11 add new pub on cadmium
+* 2015/Oct/11 add new pub for SLG7
+* 2015/Oct/11 GW7 == GL7 == SLG7
+* 2015/Oct/5 add new gene: TOM3
+* 2015/Oct/5 add new gene: TOM2
+* 2015/Oct/4 add new gene: OsLSK1
+* 2015/Oct/3 add new fam: WNK_kinase_gene_family
+* 2015/Oct/3 add new pub on Hygromycin B-induced cell death
+* 2015/Oct/3 add new pub on glutelin and amylose
+* 2015/Oct/3 add new pub on light-dependent leaf lesion mimic mutant
+* 2015/Oct/3 add new gene: Vsl1
+* 2015/Oct/3 add new pub on GWAS
+* 2015/Oct/3 add new pub on nitrogen and stress responses
+* 2015/Oct/3 add new pub for OsNF-YB1
+* 2015/Oct/3 add new pub on rice dispensable genome
+* 2015/Oct/3 add new pub for miR156d
+* 2015/Oct/3 add new pub on arsenite tolerance
+* 2015/Oct/3 add new pub for OsRbohA
+* 2015/Oct/3 add new pub on nitrogen uptake
+* 2015/Oct/3 add new pub on Abiotic Stress Tolerance
+* 2015/Oct/3 add new gene: OsABCG26
+* 2015/Oct/3 add new pub on Grain Quality
+* 2015/Oct/3 add new pub on Genes Specific for Rice Meiosis
+* 2015/Oct/3 add new pub on endoplasmic reticulum stress responses
+* 2015/Oct/3 add new pub for CHR729
+* 2015/Oct/3 add new pub on biomass production
+* 2015/Oct/3 add new gene: OsLTPL36
+* 2015/Oct/3 add new pub on lncRNAs
+* 2015/Oct/3 add new pub on response to methylglyoxal
+* 2015/Oct/3 add new pub on vitamin B9
+* 2015/Oct/3 add new pub on metabolic responses to herbivory
+* 2015/Oct/3 add new pub for OsHOS1
+* 2015/Oct/3 add new pub on chilling and cold shock tolerance
+* 2015/Oct/3 add new pub on CO2 concentration
+* 2015/Oct/3 add new pub on seed dormancy
+* 2015/Oct/3 add new pub on drought tolerant
+* 2015/Oct/3 add new pub on Bt rice
+* 2015/Oct/3 add new pub on thermo-sensitive male sterility rice
+* 2015/Oct/3 add new pub on grain shape
+* 2015/Oct/3 add new pub for OsMAPK6
+* 2015/Oct/3 add new pub on Proteomic Studies on Defense Responses
+* 2015/Oct/3 add new pub on Resistance to Planthopper-Borne Viruses
+* 2015/Oct/3 add new pub on Rice-Magnaporthe Interaction
+* 2015/Oct/3 add new gene: Kala4
+* 2015/Oct/3 add new pub on GWAS of mesocotyl elongation
+* 2015/Oct/3 add new pub on ecological divergence of two Oryza species and RNAseq
+* 2015/Oct/3 add new pub on biochemical stress response
+* 2015/Oct/3 add new gene: RAV6
+* 2015/Oct/3 add new gene: OsRMT1
+* 2015/Oct/3 add new pub on chloroplast genome sequences
+* 2015/Oct/3 add new pub on grains and RNAseq
+* 2015/Oct/3 add new pub on Germanium Tolerant
+* 2015/Oct/3 add new pub on Breeding signatures of rice improvement
+* 2015/Oct/3 add new pub on African wild rice Oryza longistaminata
+* 2015/Oct/3 add new pub on Phosphorylation
+* 2015/Oct/3 add new pub on cadmium toxicity
+* 2015/Oct/3 OsMYB103L == CEF1
+* 2015/Oct/3 add new pub for OsMYB103L
+* 2015/Oct/3 add new pub on seedling vigor
+* 2015/Oct/3 add new pub on narrow leaf mutant
+* 2015/Oct/3 add new gene: OsMYB511
+* 2015/Oct/3 add new pub on pathogenic fungi
+* 2015/Oct/3 add new pub on silicon and seed setting rate
+* 2015/Oct/3 add new pub on saline stress and LTP genes
+* 2015/Oct/3 add new pub on drought tolerance
+* 2015/Oct/3 add new pub on R genes
+* 2015/Oct/2 add new pub for OsMADS26
+* 2015/Oct/2 add new pub for OsSWEET14
+* 2015/Oct/2 Os11N3 == OsSWEET14
+* 2015/Oct/2 add new info for OsCML3
+* 2015/Oct/2 HMGB1 == OsHMGB1
+* 2015/Oct/2 add new gene: OsCML3
+* 2015/Oct/2 add new pub for OsSPX-MFS3
+* 2015/Oct/2 add new pub on Rice Yield Improvement
 * 2015/Sep/7 add new pub on acyl-CoA-binding proteins
 * 2015/Sep/6 add new info for OsDof25
 * 2015/Sep/6 add new gene: OsDof25

@@ -36,5 +36,7 @@ __RAPdb__: [Os08g0495800](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 ## Connection
 
 ## Key figures
+![phenotype]({{ BASE_PATH }}/assets/images/OsAkaGal.pheno.png)
+![expression]({{ BASE_PATH }}/assets/images/OsAkaGal.exp.png)
 
 

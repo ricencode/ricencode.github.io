@@ -48,5 +48,7 @@ __RNAi__:
 2. __OsCRTISO~ZEBRA2~MHZ5__, __OsZDS__, [Mutations of genes in synthesis of the carotenoid precursors of ABA lead to pre-harvest sprouting and photo-oxidation in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(Mutations of genes in synthesis of the carotenoid precursors of ABA lead to pre-harvest sprouting and photo-oxidation in rice%5BTitle%5D)),  Here we characterize in detail one of these groups, which contains mutations in genes encoding major enzymes of the carotenoid biosynthesis pathway, including phytoene desaturase (OsPDS), zeta-carotene desaturase (OsZDS), carotenoid isomerase (OsCRTISO) and lycopene beta-cyclase (beta-OsLCY), which are essential for the biosynthesis of carotenoid precursors of ABA
 
 ## Key figures
+![phenotype]({{ BASE_PATH }}/assets/images/ZEBRA2.pheno.png)
+![expression]({{ BASE_PATH }}/assets/images/ZEBRA2.exp.png)
 
 

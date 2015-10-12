@@ -45,5 +45,7 @@ __RNAi__:
 2. __OsEATB__, __OsNAC2~OsTIL1~OMTN2__, [OsNAC2 encoding a NAC transcription factor affects plant height through mediating the gibberellic acid pathway in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=(OsNAC2 encoding a NAC transcription factor affects plant height through mediating the gibberellic acid pathway in rice.%5BTitle%5D)),  Dual-luciferase reporter analyses, yeast one-hybrid assays and ChIP-qPCR suggested that OsNAC2 directly interacted with the promoter of OsEATB and OsKO2
 
 ## Key figures
+![phenotype]({{ BASE_PATH }}/assets/images/OsNAC2.pheno.png)
+![expression]({{ BASE_PATH }}/assets/images/OsNAC2.exp.png)
 
 

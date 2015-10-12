@@ -56,5 +56,6 @@ __RAPdb__: [Os01g0859300](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 3. __OsABF1~OsABI5~OREB1~OsbZIP10__, __OsAREB8~OsAREB1~OsbZIP46~OsABF2~ABL1__, [Rice ABI5-Like1 regulates abscisic acid and auxin responses by affecting the expression of ABRE-containing genes](http://www.ncbi.nlm.nih.gov/pubmed?term=(Rice ABI5-Like1 regulates abscisic acid and auxin responses by affecting the expression of ABRE-containing genes%5BTitle%5D)),  Here, we report the functional identification of rice (Oryza sativa) ABI5-Like1 (ABL1), which is a basic region/leucine zipper motif transcription factor, The ABL1 deficiency mutant, abl1, shows suppressed ABA responses, and ABL1 expression in the Arabidopsis abi5 mutant rescued the ABA sensitivity
 
 ## Key figures
+![phenotype]({{ BASE_PATH }}/assets/images/OsABI5~OREB1~OsbZIP10.pheno.png)
 
 

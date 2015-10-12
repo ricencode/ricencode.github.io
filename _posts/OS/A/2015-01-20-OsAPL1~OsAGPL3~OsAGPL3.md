@@ -40,5 +40,6 @@ __RAPdb__: [Os03g0735000](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 7. __OsAPL1~OsAGPL3~OsAGPL3__, __OsAPS2~OsAGPS2b__, [Gene expression of ADP-glucose pyrophosphorylase and starch contents in rice cultured cells are cooperatively regulated by sucrose and ABA](http://www.ncbi.nlm.nih.gov/pubmed?term=(Gene expression of ADP-glucose pyrophosphorylase and starch contents in rice cultured cells are cooperatively regulated by sucrose and ABA%5BTitle%5D)), Six cDNA clones encoding two small subunits and four large subunits of ADP-glucose pyrophosphorylase (AGPase) were mined from the database of rice full-length cDNAs, cloned and subsequently named: OsAPS1, OsAPS2, OsAPL1, OsAPL2, OsAPL3 and OsAPL4
 
 ## Key figures
+![phenotype]({{ BASE_PATH }}/assets/images/OsAPL1~OsAGPL1~OsAGPL3.pheno.png)
 
 

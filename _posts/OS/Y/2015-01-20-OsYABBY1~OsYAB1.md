@@ -42,5 +42,7 @@ __RAPdb__: [Os07g0160100](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 3. __OsYABBY1~OsYAB1__, __sd1~GA20ox2__, [The rice YABBY1 gene is involved in the feedback regulation of gibberellin metabolism](http://www.ncbi.nlm.nih.gov/pubmed?term=(The rice YABBY1 gene is involved in the feedback regulation of gibberellin metabolism%5BTitle%5D)),  In this report, we show that a rice (Oryza sativa) YABBY1 (YAB1) gene had a similar expression pattern as key rice GA biosynthetic genes GA3ox2 and GA20ox2
 
 ## Key figures
+![phenotype]({{ BASE_PATH }}/assets/images/OsYABBY1~OsYAB1.pheno.png)
+![expression]({{ BASE_PATH }}/assets/images/OsYABBY1~OsYAB1.exp.png)
 
 

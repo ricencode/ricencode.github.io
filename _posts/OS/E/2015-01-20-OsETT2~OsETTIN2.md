@@ -39,5 +39,7 @@ __RAPdb__: [Os01g0670800](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 7. __DL__, __OsETT2~OsETTIN2__, [The DROOPING LEAF and OsETTIN2 genes promote awn development in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(The DROOPING LEAF and OsETTIN2 genes promote awn development in rice%5BTitle%5D)),  Here, we found that the genes DROOPING LEAF (DL) and OsETTIN2 (OsETT2) are involved in awn development in the awned indica strain Kasalath, Genetic analyses and RNA-silencing experiments indicate that DL and OsETT2 act independently in awn formation, and that either gene alone is not sufficient for awn development, OsETT2 is expressed in the awn primordium in the awned indica floret, but not in the awnless japonica floret except in the provascular bundle
 
 ## Key figures
+![phenotype]({{ BASE_PATH }}/assets/images/OsETT2~OsETTIN2.pheno.png)
+![expression]({{ BASE_PATH }}/assets/images/OsETT2~OsETTIN2.exp.png)
 
 
