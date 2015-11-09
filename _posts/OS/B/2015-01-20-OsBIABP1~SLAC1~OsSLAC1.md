@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OsBIABP1,SLAC1"
+title: "OsBIABP1,SLAC1,OsSLAC1"
 description: ""
 category: genes
 tags: [defense response, stem, magnaporthe oryzae, root, flower, leaf, defense, temperature, stomatal, photosynthesis, stomata,  sa , Gene]
@@ -8,7 +8,7 @@ tags: [defense response, stem, magnaporthe oryzae, root, flower, leaf, defense, 
 {% include JB/setup %}
 
 ## Information
-__Symbol__: OsBIABP1,SLAC1  
+__Symbol__: OsBIABP1,SLAC1,OsSLAC1  
 __MSU__: [LOC_Os04g57850](http://rice.plantbiology.msu.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os04g57850)  
 __RAPdb__: [Os04g0674700](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os04g0674700)  
 
@@ -35,7 +35,8 @@ __RAPdb__: [Os04g0674700](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 12. __ sa __, [Molecular characterization of a defense-related AMP-binding protein gene, OsBIABP1, from rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(Molecular characterization of a defense-related AMP-binding protein gene, OsBIABP1, from rice%5BTitle%5D)),  Our results suggest that OsBIABP1 may be a defense-related AMP-binding protein that is involved in the regulation of defense response through SA and/or JA/ET signaling pathways
 
 ## Connection
-1. __OsBIABP1~SLAC1__, __SLAC7__, [Loss-of-function mutation of rice SLAC7 decreases chloroplast stability and induces a photoprotection mechanism in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=(Loss-of-function mutation of rice SLAC7 decreases chloroplast stability and induces a photoprotection mechanism in rice.%5BTitle%5D)),  SLAC7 under the control of AtSLAC1 promoter could partially complement the phenotypes of Arabidopsis slac1 mutants, indicating a partial conservation of SLAC protein functions
+1. __OsBIABP1~SLAC1~OsSLAC1__, __SLAC7__, [Loss-of-function mutation of rice SLAC7 decreases chloroplast stability and induces a photoprotection mechanism in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=(Loss-of-function mutation of rice SLAC7 decreases chloroplast stability and induces a photoprotection mechanism in rice.%5BTitle%5D)),  SLAC7 under the control of AtSLAC1 promoter could partially complement the phenotypes of Arabidopsis slac1 mutants, indicating a partial conservation of SLAC protein functions
+2. __OsBIABP1~SLAC1~OsSLAC1__, __OsSAPK8~SAPK8__, [Protein kinase OsSAPK8 functions as an essential activator of S-type anion channel OsSLAC1, which is nitrate-selective in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(Protein kinase OsSAPK8 functions as an essential activator of S-type anion channel OsSLAC1, which is nitrate-selective in rice%5BTitle%5D)), Protein kinase OsSAPK8 functions as an essential activator of S-type anion channel OsSLAC1, which is nitrate-selective in rice
 
 ## Key figures
 

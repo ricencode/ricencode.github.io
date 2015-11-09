@@ -5,6 +5,76 @@ group: navigation
 ---
 {% include JB/setup %}
 
+* 2015/Nov/6 add new pub on Auxin Signaling
+* 2015/Nov/6 add new pub on functional markers
+* 2015/Nov/6 add new pub for OsARG
+* 2015/Nov/6 add new pub on blast resistance
+* 2015/Nov/6 add new pub on Drought-tolerant rice
+* 2015/Nov/6 add new gene: OsSWEET4
+* 2015/Nov/6 add new pub for OsSPL14
+* 2015/Nov/6 add new pub on rice sucrose synthase
+* 2015/Nov/6 add new pub on arbuscular mycorrhiza
+* 2015/Nov/6 add new pub on metabolic profiling
+* 2015/Nov/6 add new pub for LHDD10
+* 2015/Nov/6 brd2 == DIM == DWF1 == LHDD10
+* 2015/Nov/6 add new pub on subcellular localization study in rice
+* 2015/Nov/6 add new pub on grain size
+* 2015/Nov/6 add new pub on IC4R
+* 2015/Nov/5 add new gene: ZFP185
+* 2015/Nov/5 add new pub on polyploidy
+* 2015/Nov/5 add new pub on seedling salt tolerance
+* 2015/Nov/5 add new gene: OscZOG1
+* 2015/Nov/5 add new pub on QTL on yield
+* 2015/Nov/5 add new pub on evolution of Oryza AA genome species
+* 2015/Nov/5 add new gene: DPF
+* 2015/Nov/5 add new gene: OsPM19L1
+* 2015/Nov/5 add new pub on sucrose and yield
+* 2015/Nov/5 add new pub on grain chalkiness
+* 2015/Nov/5 add new pub on Female Gametophyte Development
+* 2015/Nov/5 add new gene: DCA1
+* 2015/Nov/5 add new pub for Pi54
+* 2015/Nov/5 add new pub on grain chalk
+* 2015/Nov/5 add new pub for OsDof12
+* 2015/Nov/5 add new gene: OsPYL1
+* 2015/Nov/5 add new gene: OsABIL2
+* 2015/Nov/4 add new info for OsMYB511
+* 2015/Oct/22 add new gene: VLN2
+* 2015/Oct/22 add new pub for AFD1
+* 2015/Oct/22 BLS1 == BSG1 == OsG1L6 == TH1 == AFD1
+* 2015/Oct/22 add new pub for SUB1A
+* 2015/Oct/22 add new pub on Abiotic Stresses
+* 2015/Oct/22 add new pub for OsSLAC1
+* 2015/Oct/22 OsBIABP1 == SLAC1 == OsSLAC1
+* 2015/Oct/22 OsSAPK8 == SAPK8
+* 2015/Oct/22 add new pub on Basmati rice
+* 2015/Oct/22 add new gene: OsRAV2
+* 2015/Oct/22 add new pub on biotic and abiotic stress resistance genes
+* 2015/Oct/22 add new gene: OsCYP21-4
+* 2015/Oct/22 add new pub for GSD1
+* 2015/Oct/22 add new pub on herbicide quinclorac detoxification genes
+* 2015/Oct/22 add new info for OsWRKY45 and OsMKK10-2
+* 2015/Oct/22 add new pub for WRKY45 and OsMPK6
+* 2015/Oct/22 add new gene: OsPTP2
+* 2015/Oct/22 add new gene: OsPTP1
+* 2015/Oct/22 add new gene: OsMKK10-2
+* 2015/Oct/19 add new pub on Drought susceptibility of modern rice varieties
+* 2015/Oct/19 add new pub on cell cycle regulatory genes
+* 2015/Oct/19 add new pub on origins of BBCC allopolyploid species
+* 2015/Oct/19 add new pub on circular RNAs
+* 2015/Oct/19 add new pub on phosphate transporter
+* 2015/Oct/19 add new pb for OsJMT1
+* 2015/Oct/19 add new pub for OsGF14b
+* 2015/Oct/19 GF14b == OsGF14b
+* 2015/Oct/19 add new info for DPE1
+* 2015/Oct/19 add new gene: DPE1
+* 2015/Oct/19 add new pub for D14 and D3
+* 2015/Oct/19 add new pub on caryopsis development
+* 2015/Oct/19 add new gene: OsMADS30
+* 2015/Oct/19 add new pub for OsTPKb
+* 2015/Oct/19 add new pub for OsAlaAT1
+* 2015/Oct/19 AlaAT == OsAlaAT1
+* 2015/Oct/19 add new pub for OsZIP6
+* 2015/Oct/19 add new genes: HSA1a & HSA1b
 * 2015/Oct/12 add new pub for OsWRKY53
 * 2015/Oct/12 add new gene: OsCYP19-4
 * 2015/Oct/12 add new pub on light-specific metabolic

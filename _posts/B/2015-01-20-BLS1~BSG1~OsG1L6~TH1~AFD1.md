@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "BLS1,BSG1,OsG1L6,TH1"
+title: "BLS1,BSG1,OsG1L6,TH1,AFD1"
 description: ""
 category: genes
-tags: [inflorescence, architecture, lemma, cell division, grain size, palea, grain, spikelet, cell cycle, stem, starch, floral, panicle, sterile, Gene]
+tags: [inflorescence, architecture, lemma, cell division, grain size, palea, grain, spikelet, cell cycle, stem, starch, floral, panicle, sterile, seed, grain yield, yield, floral organ, Gene]
 ---
 {% include JB/setup %}
 
 ## Information
-__Symbol__: BLS1,BSG1,OsG1L6,TH1  
+__Symbol__: BLS1,BSG1,OsG1L6,TH1,AFD1  
 __MSU__: [LOC_Os02g56610](http://rice.plantbiology.msu.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os02g56610)  
 __RAPdb__: [Os02g0811000](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os02g0811000)  
 
@@ -16,10 +16,14 @@ __RAPdb__: [Os02g0811000](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 1. [BEAK LIKE SPIKELET1 is Required for Lateral Development of Lemma and Palea in Rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(BEAK LIKE SPIKELET1 is Required for Lateral Development of Lemma and Palea in Rice%5BTitle%5D)), 2012, Plant Molecular Biology Reporter.
 2. [Beak-shaped grain 1/TRIANGULAR HULL 1, a DUF640 gene, is associated with grain shape, size and weight in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(Beak-shaped grain 1/TRIANGULAR HULL 1, a DUF640 gene, is associated with grain shape, size and weight in rice%5BTitle%5D)), 2013, Sci China Life Sci.
 3. [A role for TRIANGULAR HULL1 in fine-tuning spikelet morphogenesis in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=(A role for TRIANGULAR HULL1 in fine-tuning spikelet morphogenesis in rice.%5BTitle%5D)), 2014, Genes Genet Syst.
+4. [The pleiotropic ABNORMAL FLOWER AND DWARF1 affects plant height, floral development and grain yield in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=(The pleiotropic ABNORMAL FLOWER AND DWARF1 affects plant height, floral development and grain yield in rice.%5BTitle%5D)), 2015, J Integr Plant Biol.
 
 ## Genbank accession number
 
 ## Expression information
+__Expression__: Meantime, our results suggested that AFD1 regulated the expression of cell division and expansion related genes  
+__OverExpression__:  
+__RNAi__:  
 
 ## Key message
 1. __inflorescence__, [BEAK LIKE SPIKELET1 is Required for Lateral Development of Lemma and Palea in Rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(BEAK LIKE SPIKELET1 is Required for Lateral Development of Lemma and Palea in Rice%5BTitle%5D)),  BLS1 is expressed strongly in young inflorescence, specifically the young lemmas and paleas of spikelets
@@ -46,13 +50,20 @@ __RAPdb__: [Os02g0811000](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 22. __lemma__, [A role for TRIANGULAR HULL1 in fine-tuning spikelet morphogenesis in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=(A role for TRIANGULAR HULL1 in fine-tuning spikelet morphogenesis in rice.%5BTitle%5D)),  The result showed that the th1 mutation strongly affected the morphology of the extra lemma of eg1, but had no significant effect on the transformed lemma of g1
 23. __sterile__, [A role for TRIANGULAR HULL1 in fine-tuning spikelet morphogenesis in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=(A role for TRIANGULAR HULL1 in fine-tuning spikelet morphogenesis in rice.%5BTitle%5D)),  In situ hybridization analysis revealed that TH1 was highly expressed in the primordia of the lemma and palea, but only weakly expressed in the primordia of the sterile lemma and rudimentary glume
 24. __sterile__, [A role for TRIANGULAR HULL1 in fine-tuning spikelet morphogenesis in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=(A role for TRIANGULAR HULL1 in fine-tuning spikelet morphogenesis in rice.%5BTitle%5D)),  We then examined the effect of th1 mutation on the lemma-like structure formed in the long sterile lemma/glume1 (g1) and extra glume1 (eg1) mutants
+25. __grain__, [The pleiotropic ABNORMAL FLOWER AND DWARF1 affects plant height, floral development and grain yield in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=(The pleiotropic ABNORMAL FLOWER AND DWARF1 affects plant height, floral development and grain yield in rice.%5BTitle%5D)),  The afd1 mutant showed variable defects including the dwarfism, long panicle, low seed setting and reduced grain yield
+26. __seed__, [The pleiotropic ABNORMAL FLOWER AND DWARF1 affects plant height, floral development and grain yield in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=(The pleiotropic ABNORMAL FLOWER AND DWARF1 affects plant height, floral development and grain yield in rice.%5BTitle%5D)),  The afd1 mutant showed variable defects including the dwarfism, long panicle, low seed setting and reduced grain yield
+27. __grain yield__, [The pleiotropic ABNORMAL FLOWER AND DWARF1 affects plant height, floral development and grain yield in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=(The pleiotropic ABNORMAL FLOWER AND DWARF1 affects plant height, floral development and grain yield in rice.%5BTitle%5D)),  The afd1 mutant showed variable defects including the dwarfism, long panicle, low seed setting and reduced grain yield
+28. __yield__, [The pleiotropic ABNORMAL FLOWER AND DWARF1 affects plant height, floral development and grain yield in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=(The pleiotropic ABNORMAL FLOWER AND DWARF1 affects plant height, floral development and grain yield in rice.%5BTitle%5D)),  The afd1 mutant showed variable defects including the dwarfism, long panicle, low seed setting and reduced grain yield
+29. __cell division__, [The pleiotropic ABNORMAL FLOWER AND DWARF1 affects plant height, floral development and grain yield in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=(The pleiotropic ABNORMAL FLOWER AND DWARF1 affects plant height, floral development and grain yield in rice.%5BTitle%5D)),  Meantime, our results suggested that AFD1 regulated the expression of cell division and expansion related genes
+30. __floral__, [The pleiotropic ABNORMAL FLOWER AND DWARF1 affects plant height, floral development and grain yield in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=(The pleiotropic ABNORMAL FLOWER AND DWARF1 affects plant height, floral development and grain yield in rice.%5BTitle%5D)),  In addition, abnormal floral organs were also observed in the afd1 mutant including slender and thick hulls, and hull-like lodicules
+31. __floral organ__, [The pleiotropic ABNORMAL FLOWER AND DWARF1 affects plant height, floral development and grain yield in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=(The pleiotropic ABNORMAL FLOWER AND DWARF1 affects plant height, floral development and grain yield in rice.%5BTitle%5D)),  In addition, abnormal floral organs were also observed in the afd1 mutant including slender and thick hulls, and hull-like lodicules
 
 ## Connection
-1. __BLS1~BSG1~OsG1L6~TH1__, __GW2__, [Beak-shaped grain 1/TRIANGULAR HULL 1, a DUF640 gene, is associated with grain shape, size and weight in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(Beak-shaped grain 1/TRIANGULAR HULL 1, a DUF640 gene, is associated with grain shape, size and weight in rice%5BTitle%5D)),  The BSG1 mutation affected the expression of genes potentially involved in the cell cycle and GW2, an important regulator of grain size in rice
-2. __BLS1~BSG1~OsG1L6~TH1__, __EG1__, [A role for TRIANGULAR HULL1 in fine-tuning spikelet morphogenesis in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=(A role for TRIANGULAR HULL1 in fine-tuning spikelet morphogenesis in rice.%5BTitle%5D)),  We then examined the effect of th1 mutation on the lemma-like structure formed in the long sterile lemma/glume1 (g1) and extra glume1 (eg1) mutants
-3. __BLS1~BSG1~OsG1L6~TH1__, __EG1__, [A role for TRIANGULAR HULL1 in fine-tuning spikelet morphogenesis in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=(A role for TRIANGULAR HULL1 in fine-tuning spikelet morphogenesis in rice.%5BTitle%5D)),  The result showed that the th1 mutation strongly affected the morphology of the extra lemma of eg1, but had no significant effect on the transformed lemma of g1
-4. __BLS1~BSG1~OsG1L6~TH1__, __G1__, [A role for TRIANGULAR HULL1 in fine-tuning spikelet morphogenesis in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=(A role for TRIANGULAR HULL1 in fine-tuning spikelet morphogenesis in rice.%5BTitle%5D)),  We then examined the effect of th1 mutation on the lemma-like structure formed in the long sterile lemma/glume1 (g1) and extra glume1 (eg1) mutants
-5. __BLS1~BSG1~OsG1L6~TH1__, __G1__, [A role for TRIANGULAR HULL1 in fine-tuning spikelet morphogenesis in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=(A role for TRIANGULAR HULL1 in fine-tuning spikelet morphogenesis in rice.%5BTitle%5D)),  The result showed that the th1 mutation strongly affected the morphology of the extra lemma of eg1, but had no significant effect on the transformed lemma of g1
+1. __BLS1~BSG1~OsG1L6~TH1~AFD1__, __GW2__, [Beak-shaped grain 1/TRIANGULAR HULL 1, a DUF640 gene, is associated with grain shape, size and weight in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(Beak-shaped grain 1/TRIANGULAR HULL 1, a DUF640 gene, is associated with grain shape, size and weight in rice%5BTitle%5D)),  The BSG1 mutation affected the expression of genes potentially involved in the cell cycle and GW2, an important regulator of grain size in rice
+2. __BLS1~BSG1~OsG1L6~TH1~AFD1__, __EG1__, [A role for TRIANGULAR HULL1 in fine-tuning spikelet morphogenesis in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=(A role for TRIANGULAR HULL1 in fine-tuning spikelet morphogenesis in rice.%5BTitle%5D)),  We then examined the effect of th1 mutation on the lemma-like structure formed in the long sterile lemma/glume1 (g1) and extra glume1 (eg1) mutants
+3. __BLS1~BSG1~OsG1L6~TH1~AFD1__, __EG1__, [A role for TRIANGULAR HULL1 in fine-tuning spikelet morphogenesis in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=(A role for TRIANGULAR HULL1 in fine-tuning spikelet morphogenesis in rice.%5BTitle%5D)),  The result showed that the th1 mutation strongly affected the morphology of the extra lemma of eg1, but had no significant effect on the transformed lemma of g1
+4. __BLS1~BSG1~OsG1L6~TH1~AFD1__, __G1__, [A role for TRIANGULAR HULL1 in fine-tuning spikelet morphogenesis in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=(A role for TRIANGULAR HULL1 in fine-tuning spikelet morphogenesis in rice.%5BTitle%5D)),  We then examined the effect of th1 mutation on the lemma-like structure formed in the long sterile lemma/glume1 (g1) and extra glume1 (eg1) mutants
+5. __BLS1~BSG1~OsG1L6~TH1~AFD1__, __G1__, [A role for TRIANGULAR HULL1 in fine-tuning spikelet morphogenesis in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=(A role for TRIANGULAR HULL1 in fine-tuning spikelet morphogenesis in rice.%5BTitle%5D)),  The result showed that the th1 mutation strongly affected the morphology of the extra lemma of eg1, but had no significant effect on the transformed lemma of g1
 
 ## Key figures
 ![phenotype]({{ BASE_PATH }}/assets/images/BSG1.pheno.png)
