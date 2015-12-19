@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASP1,OsLIS-L1"
+title: "OsTPL,ASP1,OsLIS-L1"
 description: ""
 category: genes
 tags: [meristem, branching, vegetative, pollen, auxin, anther, dwarf, panicle, height, spikelet meristem, stem, meiosis, cell wall, growth, fertility, inflorescence, spikelet, Gene]
@@ -8,7 +8,7 @@ tags: [meristem, branching, vegetative, pollen, auxin, anther, dwarf, panicle, h
 {% include JB/setup %}
 
 ## Information
-__Symbol__: ASP1,OsLIS-L1  
+__Symbol__: OsTPL,ASP1,OsLIS-L1  
 __MSU__: [LOC_Os08g06480](http://rice.plantbiology.msu.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os08g06480)  
 __RAPdb__: [Os08g0162100](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os08g0162100)  
 
@@ -17,6 +17,7 @@ __RAPdb__: [Os08g0162100](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/ir
 2. [Aberrant spikelet and panicle1, encoding a TOPLESS-related transcriptional co-repressor, is involved in the regulation of meristem fate in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(Aberrant spikelet and panicle1, encoding a TOPLESS-related transcriptional co-repressor, is involved in the regulation of meristem fate in rice%5BTitle%5D)), 2012, Plant J.
 
 ## Genbank accession number
+[AB638269](http://www.ncbi.nlm.nih.gov/nuccore/AB638269)
 
 ## Expression information
 

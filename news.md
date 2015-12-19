@@ -5,6 +5,89 @@ group: navigation
 ---
 {% include JB/setup %}
 
+* 2015/Dec/19 add new info for gene: Gn1a
+* 2015/Dec/19 add new pub.
+* 2015/Dec/19 add new pub.
+* 2015/Dec/19 add new pub.
+* 2015/Dec/18 add new pub on microRNA and wild rice
+* 2015/Dec/18 add new pub on R genes
+* 2015/Dec/18 add new pub on mutagenesis
+* 2015/Dec/18 add new pub on gene targeting
+* 2015/Dec/18 add new pub on label-free proteomic
+* 2015/Dec/18 add new pub on green tissue-specific synthetic promoters
+* 2015/Dec/18 add new gene: OsERF2
+* 2015/Dec/18 add new gene: OsWRKY74
+* 2015/Dec/18 add new pub for RSS1
+* 2015/Dec/15 add new figures for XIK1
+* 2015/Dec/11 add new pub on zinc
+* 2015/Dec/11 add new pub on light-responsive unique genes
+* 2015/Dec/11 LYL1 == OsChlP
+* 2015/Dec/11 add new pub for OsFdC2
+* 2015/Dec/11 add new gene: OscpSRP43
+* 2015/Dec/11 add new genes: ASPR1 & ASPR2
+* 2015/Dec/11 OsTPL == ASP1 == OsLIS-L1
+* 2015/Dec/11 add new pub on grain QTLs
+* 2015/Dec/11 add new pub for XA21
+* 2015/Dec/11 add new pub on arsenic
+* 2015/Dec/11 add new pub on response to Ustilaginoidea virens
+* 2015/Dec/11 add new pub on blast resistance
+* 2015/Dec/11 add new pub on SNP array
+* 2015/Dec/11 add new pub for Ehd1
+* 2015/Dec/10 add new pub on QTLs for drought, flood and salt
+* 2015/Dec/10 add new pub on Improving salt tolerance of lowland rice
+* 2015/Dec/10 add new pub on Basmati rice
+* 2015/Dec/10 add new pub on spikelet RNAseq
+* 2015/Dec/10 add new pub for OsHKT2;2 & OsHKT2;1
+* 2015/Dec/10 add new pub on mRNA-Seq Experiments
+* 2015/Dec/10 add new pub on oxidative damage
+* 2015/Dec/10 add new pub on proteomics analysis
+* 2015/Dec/10 add new pub for OsKu80
+* 2015/Dec/10 add new pub on Quantitative phosphoproteomic analysis
+* 2015/Dec/10 add new pub on Proteomic Analysis
+* 2015/Dec/10 add new pub on Recombinant Proteins
+* 2015/Dec/10 add new pub on Calvin-Benson cycle
+* 2015/Dec/10 add new pub for OsSIZ1
+* 2015/Dec/10 add new pub on methylation and gene expression
+* 2015/Dec/10 add new pub on genetic diversity
+* 2015/Dec/10 add new pub on stomatal aperture gating
+* 2015/Dec/10 add new pub on vegetative and reproductive branching
+* 2015/Dec/10 add new pub for GUDK
+* 2015/Dec/10 add new pub on Basmati Rice
+* 2015/Dec/10 add new pub on Blast Disease
+* 2015/Dec/10 add new gene: SDG708
+* 2015/Dec/10 add new pub on SNP-Metabolite Association
+* 2015/Dec/10 add new pub on Fe Deficiency Responses
+* 2015/Dec/10 add new pub on drought tolerance QTL
+* 2015/Dec/10 add new pub for LOX3
+* 2015/Dec/10 add new pub for OsCKX2
+* 2015/Dec/10 add new pub for OsNAR2.1
+* 2015/Dec/10 add new gene: JMJ704
+* 2015/Dec/7 add new pub for OsCPK4
+* 2015/Dec/7 add new pub on OryzaGenome
+* 2015/Dec/7 add new pub for OsHXK6
+* 2015/Dec/7 add new gene: OsGRX6
+* 2015/Dec/2 add new gene: OsCCX2
+* 2015/Dec/2 add new gene: FLO7
+* 2015/Dec/2 add new pub on gene expression
+* 2015/Dec/2 add new pub on breeding
+* 2015/Dec/2 add new pub on mesocotyl elongation
+* 2015/Dec/2 add new pub on bentazon detoxification
+* 2015/Dec/2 add new pub on JAZ Repressors
+* 2015/Dec/2 add new gene: OsUAH
+* 2015/Dec/2 OsDREB1A == OsDREBL == OsCBF3
+* 2015/Dec/2 add new pub on flowering time
+* 2015/Dec/2 add new pub on SNP array
+* 2015/Dec/2 add new pub on QTL for exudation rate
+* 2015/Dec/2 add new pub on marker assisted backcross breeding
+* 2015/Dec/2 add new pub on marker assisted backcross breeding
+* 2015/Dec/2 add new pub for OsHTAS
+* 2015/Dec/2 add new pub on Root Morphology
+* 2015/Nov/13 add new pub on Heat Stress Response
+* 2015/Nov/13 add new pub on qRT-PCR reference genes
+* 2015/Nov/13 add new pub on resistance to root-knot nematodes
+* 2015/Nov/13 add new pub on Hsp100 gene
+* 2015/Nov/13 add new pub on pistil response
+* 2015/Nov/13 add new pub for OsHAL3
 * 2015/Nov/6 add new pub on Auxin Signaling
 * 2015/Nov/6 add new pub on functional markers
 * 2015/Nov/6 add new pub for OsARG
